@@ -2,12 +2,13 @@
 layout: post
 title:  "ISAAC Chrome Extension"
 date:   2025-01-04
+modified_date: 2025-08-31
 authors:
   - name: Egon Willighagen
     orcid: 0000-0001-7542-0286
   - name: Lars Willighagen
     orcid: 0000-0002-4751-4637
-tags: javascript justdoi:10.7717/peerj-cs.214 doi:10.5281/ZENODO.14562484
+tags: javascript cito:usesMethodIn:10.7717/peerj-cs.214 doi:10.5281/ZENODO.14562484
   doi:10.5281/ZENODO.14562504
 image: /assets/images/isaac2025_1.png
 doi: 10.59350/1cg8w-qth68
@@ -22,7 +23,7 @@ The list of supported research output types in ISAAC is a bit dated, but include
 scientific articles, books and monographs, book chapters, PhD theses, conference
 proceedings papers, professional publications, publications aimed at a broad audience,
 patents, contracts, and other. With [Recognition & Rewards](https://recognitionrewards.nl/)
-in mind,this list should
+in mind, this list should
 be more diverse. And clearly missing are software and data, because these are
 already supported by global unique identifiers and dedicated efforts for
 software citations and data citations. FAIR has progressed a lot for these two
