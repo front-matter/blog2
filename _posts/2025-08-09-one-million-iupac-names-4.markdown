@@ -2,7 +2,7 @@
 layout: post
 title:  "One Million IUPAC names #4: a lot is happening"
 date:   2025-08-09
-modified_date: 2025-08-22
+modified_date: 2025-09-03
 doi: 10.59350/krw9n-dv417
 tags: iupac beilstein chembl cito:citesAsRecommendedReading:10.5281/zenodo.16755947
   inchikey:RDOXTESZEPMUJZ-UHFFFAOYSA-N inchikey:QWVGKYWNOKOFNN-UHFFFAOYSA-N
