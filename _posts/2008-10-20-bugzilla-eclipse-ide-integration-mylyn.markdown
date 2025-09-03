@@ -5,7 +5,7 @@ date:   2008-10-20 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2008/10/bugzilla-eclipse-ide-integration-mylyn.html
 doi: 10.59350/a10pf-47781
 tags: eclipse bioclipse
-image: /blog/assets/images/bugzilla.png
+image: /assets/images/bugzilla.png
 ---
 
 A new environment means new tools. [Bioclipse](http://www.bioclipse.net/) is Eclipse RCP-based, so colleagues work with Eclipse and are much more into
@@ -23,6 +23,6 @@ tweaks to the system got it working!
 
 This is Bugzilla as viewed in Mylyn:
 
-![](/blog/assets/images/bugzilla.png)
+![](/assets/images/bugzilla.png)
 
 (The bug content is derived from [Ubuntu bug #1.](https://bugs.launchpad.net/bugs/1))

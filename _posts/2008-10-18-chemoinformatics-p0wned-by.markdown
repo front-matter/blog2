@@ -5,14 +5,14 @@ date:   2008-10-18
 blogger-link: https://chem-bla-ics.blogspot.com/2008/10/chemoinformatics-p0wned-by.html
 doi: 10.59350/srpzr-0ar34
 tags: cheminfo jcheminf
-image: /blog/assets/images/cheminfoPoll.png
+image: /assets/images/cheminfoPoll.png
 ---
 
 Some time ago [Noel](http://baoilleach.blogspot.com/) [ran a poll](http://baoilleach.blogspot.com/2008/07/chemoinformatics-p0wned-by.html)
 on *chemoinformatics* and *cheminformatics*, so I set up a poll too in [part #1 of this series](http://chem-bla-ics.blogspot.com/2008/07/chemoinformatics-p0wned-by.html).
 The outcome is clear:
 
-![](/blog/assets/images/cheminfoPoll.png)
+![](/assets/images/cheminfoPoll.png)
 
 The [Obernai meeting](http://chem-bla-ics.blogspot.com/2006/05/blue-obelisk-in-obernai-at.html) strongly suggested *chemoinformatics*
 [[1](https://en.wikipedia.org/wiki/Cheminformatics)], but the start of the open access [Journal of Cheminformatics](http://jcheminf.com/)
