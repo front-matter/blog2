@@ -5,7 +5,7 @@ date:   2007-07-31 00:10
 modified_date: 2025-08-26
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/optical-chemical-structure-recognition.html
 doi: 10.59350/gh6e5-t2g74
-tags: cheminfo justdoi:10.1021/ci9601022 justdoi:10.1021/ci00008a018 justdoi:10.1016/S1359-6446(05)03682-2
+tags: cheminf justdoi:10.1021/ci9601022 justdoi:10.1021/ci00008a018 justdoi:10.1016/S1359-6446(05)03682-2
 ---
 
 Days after the release of [OSRA](http://chem-bla-ics.blogspot.com/2007/07/osra-gpl-ed-molecule-drawing-to-smiles.html) last week, I saw

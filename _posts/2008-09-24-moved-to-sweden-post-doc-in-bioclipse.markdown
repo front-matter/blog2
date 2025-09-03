@@ -4,7 +4,7 @@ title:  "Moved to Sweden: Post-doc in the Bioclipse group of Prof. Jarl Wikberg"
 date:   2008-09-24
 blogger-link: https://chem-bla-ics.blogspot.com/2008/09/moved-to-sweden-post-doc-in-bioclipse.html
 doi: 10.59350/ht6ah-j3602
-tags: cdk cheminfo chemometrics career bioclipse
+tags: cdk cheminf chemometrics career bioclipse
 ---
 
 The reason why I have not been able to blog much lately, is that my family and I have been moving to
