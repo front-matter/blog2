@@ -2,6 +2,7 @@
 layout: post
 title:  "Next generation asynchronous webservices"
 date:   2008-10-31
+modified_date: 2025-09-10
 blogger-link: https://chem-bla-ics.blogspot.com/2008/10/next-generation-asynchronous.html
 doi: 10.59350/7gx9j-dn554
 tags: bioclipse xmpp soap http inchikey:VPPJLAIAVCUEMN-GFCCVEGCSA-N
@@ -17,7 +18,24 @@ rather unsuited for long running jobs. Workarounds are easy to come up with, and
 
 Johannes ideas solve this limitation by using the general XMPP protocol for chatting:
 
-<dl><dt><span style="color:red">client</span></dt><dd>he, can you do something for me?</dd><dt><span style="color:darkgreen">service</span></dt><dd>sure, I can do <b>generate3Dcoordinates</b> and <b>generateSMILES</b>.</dd><dt><span style="color:red">client</span></dt><dd>ah, nice! what input does <b>generate<a href="http://www.opensmiles.org/">SMILES</a></b> take? and the output?</dd><dt><span style="color:darkgreen">service</span></dt><dd>input: <a href="http://en.wikipedia.org/wiki/Chemical_Markup_Language">CML</a>, output a simple string.</dd><dt><span style="color:red">client</span></dt><dd>ok, here's the CML</dd><dt><span style="color:darkgreen">service</span></dt><dd>I'm done now. sorry that it took 10 minutes, but I'm running Vista...</dd><dt><span style="color:red">client</span></dt><dd>excellent, please send me the results</dd><dt><span style="color:darkgreen">service</span></dt><dd>ok, here is the SMILES for <a href="http://en.wikipedia.org/wiki/Lacosamide">lacosamide</a>: <span class="chem:smiles">CC(=O)N[C@H](COC)C(=O)NCC1=CC=CC=C1</span></dd></dl>
+<dl>
+<dt><span style="color:red; font-weight: bold">client</span></dt>
+  <dd>he, can you do something for me?</dd>
+<dt><span style="color:darkgreen; font-weight: bold">service</span></dt>
+  <dd>sure, I can do <b>generate3Dcoordinates</b> and <b>generateSMILES</b>.</dd>
+<dt><span style="color:red; font-weight: bold">client</span></dt>
+  <dd>ah, nice! what input does <b>generate<a href="http://www.opensmiles.org/">SMILES</a></b> take? and the output?</dd>
+<dt><span style="color:darkgreen; font-weight: bold">service</span></dt>
+  <dd>input: <a href="http://en.wikipedia.org/wiki/Chemical_Markup_Language">CML</a>, output a simple string.</dd>
+<dt><span style="color:red; font-weight: bold">client</span></dt>
+  <dd>ok, here's the CML</dd>
+<dt><span style="color:darkgreen; font-weight: bold">service</span></dt>
+  <dd>I'm done now. sorry that it took 10 minutes, but I'm running Vista...</dd>
+<dt><span style="color:red; font-weight: bold">client</span></dt>
+  <dd>excellent, please send me the results</dd>
+<dt><span style="color:darkgreen; font-weight: bold">service</span></dt>
+  <dd>ok, here is the SMILES for <a href="http://en.wikipedia.org/wiki/Lacosamide">lacosamide</a>: <span class="chem:smiles">CC(=O)N[C@H](COC)C(=O)NCC1=CC=CC=C1</span></dd>
+</dl>
 
 Well, the important bit is in the last line. A job may take lone, even on clusters. The client might have to reboot meanwhile (possibly
 because of critical security updates)... the *service* will just continue, and send you a message when done. If you just happen to be
@@ -30,7 +48,7 @@ him to get it going, resulting in working stuff! Yeah!
 ## Chemistry Development Kit XWS
 
 Besides contributing to the proposal, I am also involved in this project by writing XMPP-webservices, for the
-[CDK](). This brings me to [cdk-xws](https://cdk.svn.sourceforge.net/svnroot/cdk/cdk-xws/trunk@12888), which is
+[CDK](https://cdk.github.io/). This brings me to [cdk-xws](https://cdk.svn.sourceforge.net/svnroot/cdk/cdk-xws/trunk@12888), which is
 the project to bring CDK functionality online as webservices using IO-DATA.
 
 ![](/blog/assets/images/cdkxwsPsi.png)
