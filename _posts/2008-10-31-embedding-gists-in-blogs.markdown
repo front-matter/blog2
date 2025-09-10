@@ -15,4 +15,4 @@ and a [git mirror of CDK 1.2.x](http://chem-bla-ics.blogspot.com/2008/09/git-mir
 So, the other day, when I blogged about [Bioclipse2 scripts](http://chem-bla-ics.blogspot.com/2008/10/bioclipse2-scripting-1-from-smiles-to.html),
 I should have embedded the script like this:
 
-<script src="http://gist.github.com/18315.js"></script>
+<script src="https://gist.github.com/18315.js"></script>
