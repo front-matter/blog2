@@ -2,6 +2,7 @@
 layout: post
 title:  "MetWare, SKOS and Java Server Faces"
 date:   2008-04-30
+modified_date: 2025-09-13
 blogger-link: https://chem-bla-ics.blogspot.com/2008/04/metware-skos-and-java-server-faces.html
 doi: 10.59350/13cvj-rgs34
 tags: metware java bioclipse skos
@@ -49,7 +50,7 @@ The source code for this screenshot is rather simple:
 </table>
 ```
 
-Key concept here is that JSF uses [Java Beans](), which are referred to in the above example with code like `#{bean.field}`
+Key concept here is that JSF uses [Java Beans](https://en.wikipedia.org/wiki/JavaBeans), which are referred to in the above example with code like `#{bean.field}`
 for bean fields, and with `#{bean.method}`, assuming a bean exists with `getField()`, `setField()` and `method()`.
 The `<h:outputText>` stuff is JSF to work out bean details and will create HTML in the output. As really brief intro.
 
