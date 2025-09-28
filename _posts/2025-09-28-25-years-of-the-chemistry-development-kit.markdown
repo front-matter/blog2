@@ -12,10 +12,10 @@ grants:
     funder:
       name: "Dutch Research Council"
       ror: 04jsz6e67
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 115281028037383605
 ---
 
 Twenty five years ago the [Chemistry Development Kit](https://cdk.github.io/) (CDK) was founded. The Chemistry and Internet ([ChemInt2000](https://www.google.com/search?q=ChemInt2000))
