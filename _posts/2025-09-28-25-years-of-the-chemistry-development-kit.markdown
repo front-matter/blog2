@@ -4,6 +4,14 @@ title:  "25 years of the Chemistry Development Kit"
 date:   2025-09-28
 doi: 10.59350/4ce2c-fxh02
 tags: cdk jchempaint jmol openscience chemistry
+grants:
+  - grant:
+    title: "The Chemistry Development Kit in 2024: improving cheminformatics research"
+    acronym: "CDK2024"
+    id: drc.filenumber:osf232097
+    funder:
+      name: "Dutch Research Council"
+      ror: 04jsz6e67
 #comments:
 #  host: social.edu.nl
 #  username: egonw
@@ -22,8 +30,10 @@ I do not remember exactly, but I guess we must have met on the 28th and 29th? Ma
 data model (yes, Jmol used the CDK data model at some point) and somewhere during the meeting we wrote down a name for the project. There was the
 Java Development Kit, so this could be the Chemistry Development Kit. The name stuck.
 
-It has been an amazing journey and with a small grant in our group just behind us, and all the awesome things ongoing (new JChemPaint, various extensions,
-upgraded downstream tools), the CDK is alive and kicking.
+A quick post like this cannot do credit to the history of the CDK, nor of everyone involved in the past or still is. You can browse some of the history
+of the CDK in [my blog](https://chem-bla-ics.linkedchemistry.info/tag/cdk) and in [Chris' blog](http://www.steinbeck-molecular.de/steinblog/index.php/category/chemistry-development-kit/).
+It has been an amazing journey and with a small grant just behind us (with  Alyanne de Haan, René van der Ploeg, and Marc Teunis from Hogeschool Utrecht),
+and all the awesome things ongoing (new JChemPaint, various extensions, upgraded downstream tools), the CDK is alive and kicking.
 
 A huge congrats and thanks to everyone (and every company and organization) who contributed code to the CDK with this huge milestone. There are a few people
 that I want to particularly thank (see the AUTHORS file for all names): Chris, who in the late nineties made a difference with open source in chemistry,
