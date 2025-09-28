@@ -5,7 +5,7 @@ date:   2008-10-24
 blogger-link: https://chem-bla-ics.blogspot.com/2008/10/git-eclipse-integration.html
 doi: 10.59350/sejc5-h3m89
 tags: git eclipse
-image: /blog/assets/images/gitEclipse.png
+image: /assets/images/gitEclipse.png
 ---
 
 Recently, I have been blogging about [Git](http://git.or.cz/):
@@ -18,7 +18,7 @@ Recently, I have been blogging about [Git](http://git.or.cz/):
 One concern expressed by people was the lack of integration with IDEs. Now, an [Eclipse plugin](http://git.or.cz/gitwiki/EclipsePlugin)
 seems well on its way:
 
-![](/blog/assets/images/gitEclipse.png)
+![](/assets/images/gitEclipse.png)
 
 With a experimental update site ([http://www.jgit.org/update-site](http://www.jgit.org/update-site)),
 the plugin is just an Eclipse reboot away.

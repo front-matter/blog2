@@ -5,7 +5,7 @@ date:   2008-11-04
 blogger-link: https://chem-bla-ics.blogspot.com/2008/11/next-generation-asynchronous.html
 doi: 10.59350/esdth-ef628
 tags: xmpp java bioclipse web
-image: /blog/assets/images/autogeneration.png
+image: /assets/images/autogeneration.png
 ---
 
 Getting back to some webservice stuff (see [part #1 of this series](https://chem-bla-ics.blogspot.com/2008/11/next-generation-asynchronous.html))...
@@ -46,7 +46,7 @@ rather rely on CMLDOM or CDK as data model then. But more on that later...
 
 The Bioclipse xws4j plugin actually puts the data model in my workspace, so that I can easily introspect the API:
 
-![](/blog/assets/images/autogeneration.png)
+![](/assets/images/autogeneration.png)
 
 The last three lines invoke the function (synchronously, as it's cheap), and get the mass from the function output. BTW, I should
 stress that a function does not require any specific implementation regarding synchronous or asynchronous calls. You write **one**

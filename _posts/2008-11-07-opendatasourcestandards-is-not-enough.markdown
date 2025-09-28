@@ -5,7 +5,7 @@ date:   2008-11-07
 blogger-link: https://chem-bla-ics.blogspot.com/2008/11/opendatasourcestandards-is-not-enough.html
 doi: 10.59350/kmk49-mj610
 tags: odosos chemspider workflow cdk bioclipse cml debian eclipse rdf jmol blue-obelisk
-image: /blog/assets/images/registry.png
+image: /assets/images/registry.png
 ---
 
 The [Blue Obelisk](http://blueobelisk.sourceforge.net/wiki/Main_Page) mantra [ODOSOS](http://blueobelisk.sourceforge.net/wiki/ODOSOS),
@@ -62,7 +62,7 @@ Below is a screenshot from the EMBRACE Registry for the [ChemSpider](http://www.
 [WDSL entry](http://prints.cs.man.ac.uk:8081/service/massspecapi) for [a workspace](http://www.myexperiment.org/workflows/97)
 I [uploaded](http://chem-bla-ics.blogspot.com/2007/11/metabolomics-workflows-in-taverna.html) about a year ago to MyExperiment:
 
-![](/blog/assets/images/registry.png)
+![](/assets/images/registry.png)
 
 BTW, ChemSpider has an Advisory Board of which I am member, but it is also a classical (and intentional) Cathedral project. We do share common interests though, which makes us collaborate.
 
@@ -89,7 +89,7 @@ listed for the chemistry in Debian (which includes the Blue Obelisk projects [Av
 [Chemical MIME Data](http://packages.debian.org/lenny/chemical-mime-data),
 [Kalzium](http://packages.debian.org/lenny/kalzium) and [OpenBabel](http://packages.debian.org/lenny/openbabel)):
 
-![](/blog/assets/images/debichem.png)
+![](/assets/images/debichem.png)
 
 This data analysis helps the projects being analyzed.
 

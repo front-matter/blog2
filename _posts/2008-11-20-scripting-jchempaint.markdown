@@ -5,7 +5,7 @@ date:   2008-11-20
 blogger-link: https://chem-bla-ics.blogspot.com/2008/11/scripting-jchempaint.html
 doi: 10.59350/yhdxa-ft783
 tags:
-image: /blog/assets/images/jcpScripting.png
+image: /assets/images/jcpScripting.png
 ---
 
 Today and tomorrow, Stefan, [Gilleain](http://gilleain.blogspot.com/), Arvid and I are having a [JChemPaint Developers Workshop](https://apps.sourceforge.net/mediawiki/cdk/index.php?title=JChemPaintWorkshop2008)
@@ -51,4 +51,4 @@ content (e.g. using `getModel()` and `setModel(ICDKMolecule)`). More on that lat
 
 A simple script could look like: Or, as screenshot:
 
-![](/blog/assets/images/jcpScripting.png)
+![](/assets/images/jcpScripting.png)

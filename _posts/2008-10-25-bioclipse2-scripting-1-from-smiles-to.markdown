@@ -5,7 +5,7 @@ date:   2008-10-25
 blogger-link: https://chem-bla-ics.blogspot.com/2008/10/bioclipse2-scripting-1-from-smiles-to.html
 doi: 10.59350/5azgt-k8a94
 tags: bioclipse cml cdk jmol eclipse github cheminf
-image: /blog/assets/images/mashupCmldomJmolCDK.png
+image: /assets/images/mashupCmldomJmolCDK.png
 ---
 
 After some difficulties this week with making an export of [CDK](http://cdk.sf.net/) plugins in the
@@ -31,7 +31,7 @@ CDK 1.1.x branch!). Then, [CMLDOM](http://cml.sourceforge.net/) is used to creat
 
 A variation of this script is visible in the following screenshot:
 
-![](/blog/assets/images/mashupCmldomJmolCDK.png)
+![](/assets/images/mashupCmldomJmolCDK.png)
 
 This and other Bioclipse2 scripts I will post in [Gist](http://gist.github.com/), a sort of [pastebin](http://en.wikipedia.org/wiki/Pastebin)
 supporting version history, and I'll tag them with *bioclipse gist* on [delicious](http://delicious.com/egonw/), so that you can always

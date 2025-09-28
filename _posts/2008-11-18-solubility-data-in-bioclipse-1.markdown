@@ -5,7 +5,7 @@ date:   2008-11-18
 blogger-link: https://chem-bla-ics.blogspot.com/2008/11/solubility-data-in-bioclipse-1.html
 doi: 10.59350/ydgw3-52978
 tags: bioclipse rdf
-image: /blog/assets/images/bioclipseRDF.png
+image: /assets/images/bioclipseRDF.png
 ---
 
 I am working on converting [Jean-Claude](http://usefulchem.blogspot.com/)'s [Solubility](https://spreadsheets.google.com/ccc?key=plwwufp30hfq0udnEmRD1aQ&hl=en)
@@ -16,7 +16,7 @@ data to [RDF](http://www.w3.org/RDF/) (after [Pierre](http://plindenbaum.blogspo
 [Bioclipse](http://www.bioclipse.net/) will be the workbench in which this will be visualized, and just got graph depiction online using
 [Zest](http://www.eclipse.org/gef/zest/). The screenshot does not show the RDF yet, but that will follow soon:
 
-![](/blog/assets/images/bioclipseRDF.png)
+![](/assets/images/bioclipseRDF.png)
 
 Next stops:
 

@@ -6,7 +6,7 @@ modified_date: 2025-09-10
 blogger-link: https://chem-bla-ics.blogspot.com/2008/10/next-generation-asynchronous.html
 doi: 10.59350/7gx9j-dn554
 tags: bioclipse xmpp soap http inchikey:VPPJLAIAVCUEMN-GFCCVEGCSA-N
-image: /blog/assets/images/cdkxwsPsi.png
+image: /assets/images/cdkxwsPsi.png
 ---
 
 Johannes joined a [Bioclipse Workshop](http://wiki.bioclipse.net/index.php?title=Outcome_of_the_Bioclipse_autumn_workshop_2006) a long time
@@ -51,7 +51,7 @@ Besides contributing to the proposal, I am also involved in this project by writ
 [CDK](https://cdk.github.io/). This brings me to [cdk-xws](https://cdk.svn.sourceforge.net/svnroot/cdk/cdk-xws/trunk@12888), which is
 the project to bring CDK functionality online as webservices using IO-DATA.
 
-![](/blog/assets/images/cdkxwsPsi.png)
+![](/assets/images/cdkxwsPsi.png)
 
 This shows three nodes, the first being the CDK service, with two functions, of which I only implemented one yet.
 
