@@ -5,7 +5,7 @@ date:   2008-11-30
 blogger-link: https://chem-bla-ics.blogspot.com/2008/11/parallel-building-cdk.html
 doi: 10.59350/kcxg1-z9t12
 tags: cdk
-image: /blog/assets/images/buildtimes.png
+image: /assets/images/buildtimes.png
 ---
 
 Some time ago, I added parallel building targets for [CDK](http://cdk.sf.net/)'s [Ant](http://ant.apache.org/) `build.xml`. Now that I am setting up a
@@ -24,7 +24,7 @@ These dependencies can be used to build some of the module in parallel, but not 
 threads or cores. The [below build times](http://spreadsheets.google.com/ccc?key=pdSdCFxXYzmOnssF4qVzwCw&hl=en) are calculated for three replicates, on a four
 core machine:
 
-![](/blog/assets/images/buildtimes.png)
+![](/assets/images/buildtimes.png)
 
 Going from one to two threads certainly pays of, but going to 4 shows only a three second speed up. The four processor cores were not utilized 100%,
 so I also attempted 2 threads core, but that showed zero improvement.

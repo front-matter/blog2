@@ -5,7 +5,7 @@ date:   2008-12-30 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2008/12/editing-and-validation-of-cml-documents.html
 doi: 10.59350/ms0pq-arf10
 tags: cml bioclipse xml cdk
-image: /blog/assets/images/cmlValid.png
+image: /assets/images/cmlValid.png
 ---
 
 One advantage of using XML is that one can rely on good support in libraries for functionality. When
@@ -108,14 +108,14 @@ Bundle compatibility = InternalPlatform.getDefault()
 So, the plugin I turned to to have missing was *org.eclipse.core.runtime.compatibility*. Apparently,
 some parts of the WTP that the XMLEditor is using, still uses Eclipse2.x technology.
 
-![](/blog/assets/images/cmlValid.png)
+![](/assets/images/cmlValid.png)
 
 This screenshot shows the WTP XMLEditor in action in Bioclipse on a CML file. It shows the document
 contents with the 'Design' tab, which also shows allowed content, as derived from the XML Schema for
 CML. Also, note that the Outline and Properties view automatically come for free, which allows more
 detail and navigation of the content.
 
-![](/blog/assets/images/cmlContentAssisting.png)
+![](/assets/images/cmlContentAssisting.png)
 
 This screenshot shows the 'Source' tab for the same file, where I deliberately changed the value of
 the @id attribute of the first atom. The value does not validate against the regular expression defined

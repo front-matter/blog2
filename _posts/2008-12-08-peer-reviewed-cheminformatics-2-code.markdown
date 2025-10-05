@@ -5,7 +5,7 @@ date:   2008-12-08
 blogger-link: https://chem-bla-ics.blogspot.com/2008/12/peer-reviewed-cheminformatics-2-code.html
 doi: 10.59350/dm9c0-tzs46
 tags: cdk openscience
-image: /blog/assets/images/cdkPatching.png
+image: /assets/images/cdkPatching.png
 ---
 
 Peer review is an important component of open source development, and recently there was the discussion the other way around, if open source is
@@ -38,6 +38,6 @@ But, what I can do, is define a number of groups to represent the state of the p
 * [Accepted](https://sourceforge.net/tracker2/?func=browse&group_id=20024&atid=320024&status=1&artgroup=896891): but not yet applied to SVN yet. When applied, the patch report is simply closed
 * [Needs Revision](https://sourceforge.net/tracker2/?func=browse&group_id=20024&atid=320024&status=1&artgroup=896892): the reviewers like to see changes made to the patch
 
-![](/blog/assets/images/cdkPatching.png)
+![](/assets/images/cdkPatching.png)
 
 Not perfect, but a step forward in tracking the state of patches.
