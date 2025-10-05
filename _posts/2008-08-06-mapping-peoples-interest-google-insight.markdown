@@ -12,7 +12,7 @@ image: /assets/images/chemoinf.map.png
 it could tell me to use *chemoinformatics or cheminformatics*... No, it can't. In both there is a declining interest (only chemoinformatics
 shown):
 
-![](/blog//assets/images/chemoinf.trend.png)
+![](/assets/images/chemoinf.trend.png)
 
 More interesting is that the interest in chemoinformatics only comes from India:
 
