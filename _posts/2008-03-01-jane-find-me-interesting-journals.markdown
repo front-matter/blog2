@@ -5,7 +5,7 @@ date:   2008-03-01 00:10
 modified_date: 2025-08-17
 blogger-link: https://chem-bla-ics.blogspot.com/2008/03/jane-find-me-interesting-journals.html
 doi: 10.59350/z6s2y-1an09
-tags: publishing doi:10.1021/CI050400B justdoi:10.1093/bioinformatics/btn006
+tags: publishing doi:10.1021/CI050400B justdoi:10.1093/bioinformatics/btn006 foaf
 image: /assets/images/jane.png
 ---
 

@@ -4,7 +4,7 @@ title:  "My FOAF network #1: the FOAFExplorer"
 date:   2007-10-26
 blogger-link: https://chem-bla-ics.blogspot.com/2007/10/my-foaf-network-1-foafexplorer.html
 doi: 10.59350/djg2t-d2x55
-tags: semweb
+tags: semweb foaf
 image: /assets/images/foaf_egonw.png
 ---
 

@@ -5,7 +5,7 @@ date:   2008-03-08
 modified_date: 2025-08-17
 blogger-link: https://chem-bla-ics.blogspot.com/2008/03/my-foaf-network-2-xslt-for-html-gui.html
 doi: 10.59350/p1n99-9sa03
-tags: semweb blue-obelisk
+tags: semweb blue-obelisk foaf
 image: /assets/images/foafExplorer.png
 ---
 
