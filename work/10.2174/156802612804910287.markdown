@@ -3,5 +3,5 @@ layout: work
 title: "Work: Open Source Drug Discovery with Bioclipse"
 type: ScholarlyArticle
 tag: doi:10.2174/156802612804910287
-doi: doi:10.2174/156802612804910287
+doi: 10.2174/156802612804910287
 ---

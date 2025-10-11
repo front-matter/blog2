@@ -3,5 +3,5 @@ layout: work
 title: "Work: Metabolite BridgeDb ID Mapping Database (20240903)"
 type: Dataset
 tag: doi:10.6084/M9.FIGSHARE.26931712.V1
-doi: doi:10.6084/M9.FIGSHARE.26931712.V1
+doi: 10.6084/M9.FIGSHARE.26931712.V1
 ---

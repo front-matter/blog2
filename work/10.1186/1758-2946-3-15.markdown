@@ -3,5 +3,5 @@ layout: work
 title: "Work: Resource description framework technologies in chemistry"
 type: ScholarlyArticle
 tag: doi:10.1186/1758-2946-3-15
-doi: doi:10.1186/1758-2946-3-15
+doi: 10.1186/1758-2946-3-15
 ---

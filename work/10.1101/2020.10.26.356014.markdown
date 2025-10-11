@@ -3,5 +3,5 @@ layout: work
 title: "Work: COVID-19 Disease Map, a computational knowledge repository of SARS-CoV-2 virus-host interaction mechanisms"
 type: CreativeWork
 tag: doi:10.1101/2020.10.26.356014
-doi: doi:10.1101/2020.10.26.356014
+doi: 10.1101/2020.10.26.356014
 ---

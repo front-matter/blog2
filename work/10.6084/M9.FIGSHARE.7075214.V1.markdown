@@ -3,5 +3,5 @@ layout: work
 title: "Work: NanoWiki 5"
 type: Dataset
 tag: doi:10.6084/M9.FIGSHARE.7075214.V1
-doi: doi:10.6084/M9.FIGSHARE.7075214.V1
+doi: 10.6084/M9.FIGSHARE.7075214.V1
 ---

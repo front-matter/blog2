@@ -3,5 +3,5 @@ layout: work
 title: "Work: MOESM1 of XMetDB: an open access database for xenobiotic metabolism"
 type: Dataset
 tag: doi:10.6084/M9.FIGSHARE.C.3698536_D1.V1
-doi: doi:10.6084/M9.FIGSHARE.C.3698536_D1.V1
+doi: 10.6084/M9.FIGSHARE.C.3698536_D1.V1
 ---

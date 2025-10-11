@@ -3,5 +3,5 @@ layout: work
 title: "Work: The Chemistry Development Kit (CDK):  An Open-Source Java Library for Chemo- and Bioinformatics"
 type: ScholarlyArticle
 tag: doi:10.1021/CI025584Y
-doi: doi:10.1021/CI025584Y
+doi: 10.1021/CI025584Y
 ---

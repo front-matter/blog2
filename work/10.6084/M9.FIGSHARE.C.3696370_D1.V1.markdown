@@ -3,5 +3,5 @@ layout: work
 title: "Work: MOESM1 of PubChemRDF: towards the semantic annotation of PubChem compound and substance databases"
 type: Dataset
 tag: doi:10.6084/M9.FIGSHARE.C.3696370_D1.V1
-doi: doi:10.6084/M9.FIGSHARE.C.3696370_D1.V1
+doi: 10.6084/M9.FIGSHARE.C.3696370_D1.V1
 ---

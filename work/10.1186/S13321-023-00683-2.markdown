@@ -3,5 +3,5 @@ layout: work
 title: "Work: Two years of explicit CiTO annotations"
 type: ScholarlyArticle
 tag: doi:10.1186/S13321-023-00683-2
-doi: doi:10.1186/S13321-023-00683-2
+doi: 10.1186/S13321-023-00683-2
 ---
