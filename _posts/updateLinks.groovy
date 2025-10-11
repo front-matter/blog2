@@ -13,8 +13,29 @@ String date = new SimpleDateFormat("yyyy-MM-dd").format(new Date());
 ui = new net.bioclipse.managers.UIManager("..");
 
 mappings = [
+  "2008/12/editing-and-validation-of-cml-documents.html": "2008/12/30/editing-and-validation-of-cml-documents.html",
+  "2008/12/who-says-java-is-not-fast.html": "2008/12/04/who-says-java-is-not-fast.html",
+  "2008/11/re-open-source-peer-review.html": "2008/11/12/re-open-source-peer-review.html",
+  "2008/11/opendatasourcestandards-is-not-enough.html": "2008/11/07/opendatasourcestandards-is-not-enough.html",
+  "2008/11/next-generation-asynchronous.html": "2008/11/04/next-generation-asynchronous.html",
+  "2008/11/embrace-workshop-in-uppsala.html": "2008/11/03/embrace-workshop-in-uppsala.html",
+  "2008/10/bioclipse2-scripting-1-from-smiles-to.html": "2008/10/25/bioclipse2-scripting-1-from-smiles-to.html",
+  "2008/10/gittodo-support-for-freemind-graphical.html": "2008/10/20/gittodo-support-for-freemind-graphical.html",
+  "2008/10/jchempaint-history-cml-patches-in-1999.html": "2008/10/02/jchempaint-history-cml-patches-in-1999.html",
+  "2008/09/git-mirror-for-cdk.html": "2008/09/30/git-mirror-for-cdk.html",
+  "2008/09/moved-to-sweden-post-doc-in-bioclipse.html": "2008/09/24/moved-to-sweden-post-doc-in-bioclipse.html",
+  "2008/09/cdk-development-with-branches-using-git.html": "2008/09/07/cdk-development-with-branches-using-git.html",
+  "2008/08/metware-screenshot-spectrum-support.html": "2008/08/20/metware-screenshot-spectrum-support.html",
+  "2008/07/peer-reviewed-chemoinformatics-why.html": "2008/07/22/peer-reviewed-chemoinformatics-why.html",
+  "2008/05/metware-status-report.html": "2008/05/16/metware-status-report.html",
+  "2008/03/cdk-module-dependencies-2.html": "2008/03/23/cdk-module-dependencies-2.html",
+  "2008/03/chemical-object-identifier-or-freedom.html": "2008/03/09/chemical-object-identifier-or-freedom.html",
+  "2008/01/be-in-my-advisory-board-2-jchempaint.html": "2008/01/15/be-in-my-advisory-board-2-jchempaint.html",
   "2007/12/christmas-presents.html": "2007/12/21/christmas-presents.html",
-  "2007/11/molecules-in-wikipedia-without-inchis-3.html": "2007/11/16/molecules-in-wikipedia-without-inchis-3.html"
+  "2007/11/be-in-my-advisory-board-1-being-good.html": "2007/11/27/be-in-my-advisory-board-1-being-good.html",
+  "2007/11/metware-metabolomics-database-project.html": "2007/11/22/metware-metabolomics-database-project.html",
+  "2007/11/molecules-in-wikipedia-without-inchis-3.html": "2007/11/16/molecules-in-wikipedia-without-inchis-3.html",
+  "2007/07/osra-gpl-ed-molecule-drawing-to-smiles.html": "2007/07/20/osra-gpl-ed-molecule-drawing-to-smiles.html"
 ]
 
 oldPref = "http://chem-bla-ics.blogspot.com/"
@@ -47,7 +68,7 @@ dir.eachFileRecurse (FileType.FILES) { file ->
       mappings.each { entry ->
         oldContent = "](" + oldPref + entry.key
         newContent = " <i class=\"fa-solid fa-recycle fa-xs\"></i>](" + newPref + entry.value
-        if (line.contains(oldContent)) {
+        if (line.contains(oldContent) && !(line.contains("keep link"))) {
           line = line.replace(oldContent, newContent)
           updated = true
         }

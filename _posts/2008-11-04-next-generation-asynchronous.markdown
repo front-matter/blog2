@@ -2,15 +2,16 @@
 layout: post
 title:  "Next generation asynchronous webservices #2"
 date:   2008-11-04
+modified_date: 2025-10-11
 blogger-link: https://chem-bla-ics.blogspot.com/2008/11/next-generation-asynchronous.html
 doi: 10.59350/esdth-ef628
 tags: xmpp java bioclipse web
 image: /assets/images/autogeneration.png
 ---
 
-Getting back to some webservice stuff (see [part #1 of this series](https://chem-bla-ics.blogspot.com/2008/11/next-generation-asynchronous.html))...
+Getting back to some webservice stuff (see [part #1 of this series <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/10/31/next-generation-asynchronous.html))...
 actually, I'll use *cloud service* from now on, since *web service* is reserved for SOAP/WSDL (see
-[my EMBRACE presentation](http://chem-bla-ics.blogspot.com/2008/11/embrace-workshop-in-uppsala.html)).
+[my EMBRACE presentation <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/11/03/embrace-workshop-in-uppsala.html)).
 Let me present this bit of JavaScript I just ran in Bioclipse2:
 
 ```javascript

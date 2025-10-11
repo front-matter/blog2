@@ -6,6 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2008/12/editing-and-validation-o
 doi: 10.59350/ms0pq-arf10
 tags: cml bioclipse xml cdk
 image: /assets/images/cmlValid.png
+modified_date: 2025-10-11
 ---
 
 One advantage of using XML is that one can rely on good support in libraries for functionality. When
@@ -16,7 +17,7 @@ is a huge benefit for flexibility.
 So, when [Peter](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/) and Henry put their first documents online about the Chemical Markup Language
 (CML), I was thrilled, even though is actually was still SGML when I encountered it. The work predates the
 [XML recommendation](http://www.w3.org/TR/1998/REC-xml-19980210). As I
-[recently blogged](http://chem-bla-ics.blogspot.com/2008/10/jchempaint-history-cml-patches-in-1999.html), in '99
+[recently blogged <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/10/02/jchempaint-history-cml-patches-in-1999.html), in '99
 I wrote patches for Jmol and JChemPaint to support CML, which were published as preprint in the
 [Chemical Preprint Server](http://www.sciencedirect.com/preprintarchive) in a paper in 2000 in the
 [Internet Journal of Chemistry](http://hackberry.trinity.edu/IJC/). Neither of the two has survived.

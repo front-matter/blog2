@@ -6,15 +6,16 @@ blogger-link: https://chem-bla-ics.blogspot.com/2008/09/git-mirror-for-cdk.html
 doi: 10.59350/assax-tmx60
 tags: git cdk
 image: /assets/images/punchCard.png
+modified_date: 2025-10-11
 ---
 
-While slowly [merging with Sweden](http://chem-bla-ics.blogspot.com/2008/09/moved-to-sweden-post-doc-in-bioclipse.html), and ADSL which should
+While slowly [merging with Sweden <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/09/24/moved-to-sweden-post-doc-in-bioclipse.html), and ADSL which should
 reach my house in some two weeks, I am enjoying my new office space and [Git](http://git.or.cz/) to upload patches to the CDK. Christoph
 [wondered](http://www.steinbeck-molecular.de/steinblog/index.php/2008/08/26/linus-on-git-on-google-techtalks/) if we should switch CDK
 from SVN to Git. A few developers objected, for various reasons: no native Windows clients (though [msysgit](http://code.google.com/p/msysgit/)
 might be the solution), no (stable) plugins for Eclipse, IDEA(?), etc.
 
-I [made the switch](http://chem-bla-ics.blogspot.com/2008/09/cdk-development-with-branches-using-git.html), and really happy about it.
+I [made the switch <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/09/07/cdk-development-with-branches-using-git.html), and really happy about it.
 
 Anyway, one issue for me not to switch the full CDK project would be to have a central place where we could host our Git repository. Now,
 GitHub does just that, and after inquiring with them about the 100MB limit, [Tom](http://github.com/mojombo) emailed me:

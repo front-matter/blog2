@@ -6,13 +6,14 @@ blogger-link: https://chem-bla-ics.blogspot.com/2008/12/peer-reviewed-cheminform
 doi: 10.59350/dm9c0-tzs46
 tags: cdk openscience
 image: /assets/images/cdkPatching.png
+modified_date: 2025-10-11
 ---
 
 Peer review is an important component of open source development, and recently there was the discussion the other way around, if open source is
 required for peer review. Depends on your definition of peer review: No, if you restrict peer review to what it is in publishing (see
-[Re: Open Source != peer review](http://chem-bla-ics.blogspot.com/2008/11/re-open-source-peer-review.html)); Yes, if we really want to speed up
+[Re: Open Source != peer review <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/11/12/re-open-source-peer-review.html)); Yes, if we really want to speed up
 cheminformatics evolution and assume unrestricted, open peer review where reviewers can openly publish there review report with all the greasy
-details (see [Peer reviewed Chemoinformatics: Why OpenSource Chemoinformatics should be the default](http://chem-bla-ics.blogspot.com/2008/07/peer-reviewed-chemoinformatics-why.html)).
+details (see [Peer reviewed Chemoinformatics: Why OpenSource Chemoinformatics should be the default <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/07/22/peer-reviewed-chemoinformatics-why.html)).
 
 The [CDK](http://www.chemistry-development-kit.org/) has a strong history of peer review. Patches have been available from
 [SVN](http://cdk.svn.sf.net/) from the start, and later we instantiated a mailing list so that people could easily monitor code changes, and

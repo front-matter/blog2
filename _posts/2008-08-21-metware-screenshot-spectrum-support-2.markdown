@@ -6,9 +6,10 @@ blogger-link: https://chem-bla-ics.blogspot.com/2008/08/metware-screenshot-spect
 doi: 10.59350/5gzjj-p9s54
 tags: metware metabolomics xml skos
 image: /assets/images/msGUI.png
+modified_date: 2025-10-11
 ---
 
-As [promised yesterday](http://chem-bla-ics.blogspot.com/2008/08/metware-screenshot-spectrum-support.html), here's the pretty
+As [promised yesterday <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/08/20/metware-screenshot-spectrum-support.html), here's the pretty
 visualization of the mass spectrum, using JavaScript from the [PRIDE project](http://www.ebi.ac.uk/pride/#soft):
 
 ![](/assets/images/msGUI.png)

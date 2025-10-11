@@ -5,6 +5,7 @@ date:   2008-11-12
 blogger-link: https://chem-bla-ics.blogspot.com/2008/11/re-open-source-peer-review.html
 doi: 10.59350/msk9v-2s364
 tags: odosos opensource cheminf
+modified_date: 2025-10-11
 ---
 
 Andrew has an [interesting thread](http://dalkescientific.com/writings/diary/archive/2008/11/11/open_source_is_not_peer_review.html)
@@ -28,7 +29,7 @@ cheminformatics in general. My mistake. Being from a GCC meeting, I assumed the 
 
 Therefore, a lot of miscommunication. I agree to a large extend with Andrews analysis: peer review is certainly possible without Open
 Source. Actually, this matches closely with the discussion between Cathedral versus Bazaar opensource projects (see
-[my post earlier this week](http://chem-bla-ics.blogspot.com/2008/11/opendatasourcestandards-is-not-enough.html)).
+[my post earlier this week <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/11/07/opendatasourcestandards-is-not-enough.html)).
 He argues that current opensource (cheminformatics) do not have enough eyeballs, and indicates that money buys eyeballs. Indeed it does.
 
 However, the original argument I wanted to make, but failed, is that Open Source (any kind of access to the source code) is a strict

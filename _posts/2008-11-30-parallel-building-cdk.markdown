@@ -6,6 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2008/11/parallel-building-cdk.ht
 doi: 10.59350/kcxg1-z9t12
 tags: cdk
 image: /assets/images/buildtimes.png
+modified_date: 2025-10-11
 ---
 
 Some time ago, I added parallel building targets for [CDK](http://cdk.sf.net/)'s [Ant](http://ant.apache.org/) `build.xml`. Now that I am setting up a
@@ -15,7 +16,7 @@ should be compiled.
 
 So, I hacked a bit on the build system, and made use of two [ant-contrib](http://ant-contrib.sourceforge.net/) tasks, `if` and `foreach` which in the first
 place reduce the size of the `build.xml`, but also provide means for parallelization. Earlier, it was using the `parallel` task of
-Ant itself for this (see [CDK Module dependencies #2](http://chem-bla-ics.blogspot.com/2008/03/cdk-module-dependencies-2.html)).
+Ant itself for this (see [CDK Module dependencies #2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/03/23/cdk-module-dependencies-2.html)).
 
 The build dependencies between CDK modules are fairly complex, and typically this complexity increases upon bug fixing etc. Ideally, the build dependencies
 will be calculated on runtime, instead of being hard-coded right now, and I will explore this in the near future.

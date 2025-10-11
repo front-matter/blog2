@@ -2,13 +2,13 @@
 layout: post
 title:  "Optical Chemical Structure Recognition"
 date:   2007-07-31 00:10
-modified_date: 2025-08-26
+modified_date: 2025-10-11
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/optical-chemical-structure-recognition.html
 doi: 10.59350/gh6e5-t2g74
 tags: cheminf justdoi:10.1021/ci9601022 justdoi:10.1021/ci00008a018 justdoi:10.1016/S1359-6446(05)03682-2
 ---
 
-Days after the release of [OSRA](http://chem-bla-ics.blogspot.com/2007/07/osra-gpl-ed-molecule-drawing-to-smiles.html) last week, I saw
+Days after the release of [OSRA <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/07/20/osra-gpl-ed-molecule-drawing-to-smiles.html) last week, I saw
 the *optical chemistry structure recognition* on the front page of my favorite Dutch [/.](http://www.slashdot.org/) equivalent,
 [Tweakers.net](http://tweakers.net/), *[Duitsers leren computer chemische structuren herkennen](http://life.tweakers.net/nieuws/48640/Duitsers-leren-computer-chemische-structuren-herkennen.html)*,
 written by [René Gerritsen](http://tweakers.net/plan/crew/134). The article discusses the Fraunhofer Institute's
@@ -30,7 +30,7 @@ than ten years ago, and the [most recent scientific publication](http://dx.doi.o
 (as the webpage states).
 
 ## OSRA
-[OSRA](http://cactus.nci.nih.gov/osra/) (see my [previous blog](http://chem-bla-ics.blogspot.com/2007/07/osra-gpl-ed-molecule-drawing-to-smiles.html))
+[OSRA](http://cactus.nci.nih.gov/osra/) (see my [previous blog <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/07/20/osra-gpl-ed-molecule-drawing-to-smiles.html))
 is opensource and uses the GPL license. It is written in C++. It does not as feature complete as ChemoCR yet, but that
 will surely come. This project is surely the youngest project.
 

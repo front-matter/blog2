@@ -5,9 +5,10 @@ date:   2008-12-05
 blogger-link: https://chem-bla-ics.blogspot.com/2008/12/cheminformatics-benchmark-project-1.html
 doi: 10.59350/wngzb-y3329
 tags:
+modified_date: 2025-10-11
 ---
 
-Yesterday's blog about [Who says Java is not fast?!?](http://chem-bla-ics.blogspot.com/2008/12/who-says-java-is-not-fast.html)
+Yesterday's blog about [Who says Java is not fast?!? <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/12/04/who-says-java-is-not-fast.html)
 caused quite some feedback (thanx to all commenters!) with several good points. Of course, a table like that in the cinfony paper
 (see also the comments in the blogs by [Noel](http://baoilleach.blogspot.com/2008/12/cinfony-paper-published-in-chemistry.html)
 (the author) and [Rich](http://depth-first.com/articles/2008/12/04/choose-java-for-speed)). Many things determine why the CDK

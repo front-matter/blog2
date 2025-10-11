@@ -5,6 +5,7 @@ date:   2008-04-07
 blogger-link: https://chem-bla-ics.blogspot.com/2008/04/legal-advice-needed-nih-restricting.html
 doi: 10.59350/865j7-crn03
 tags: pubmed pmc copyright doi:10.1186/1471-2105-8-487
+modified_date: 2025-10-11
 ---
 
 In reply to [Peter's](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=1026) [news](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=1025)
@@ -21,7 +22,7 @@ Let me make clear that I value machine readable publications much more than free
 NIH initiative now just is 'Free Access'. An interesting step, but not one I care much about; not in relation to science anyway.
 
 Now, Peter indicates that the NIH has put in place 'technological measures to control access' to the distribution of
-[our work on userscripts](http://chem-bla-ics.blogspot.com/2007/12/christmas-presents.html)
+[our work on userscripts <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/12/21/christmas-presents.html)
 ([the PMC entry](http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pubmed&pubmedid=18154664)). That is in clear violation
 of the CC license.
 

@@ -5,10 +5,11 @@ date:   2008-12-04
 blogger-link: https://chem-bla-ics.blogspot.com/2008/12/short-variables-and-lack-of-comments.html
 doi: 10.59350/56vn2-zgc48
 tags:
+modified_date: 2025-10-11
 ---
 
 ... a source code reviewer nightmare. The must-read [lwn.net](http://www.lwn.net/) ran a [nice open letter](http://lwn.net/Articles/308566/)
-to a Linux kernel developer. I'd like to cite this bit about code review (see also [Re: Open Source != peer review](http://chem-bla-ics.blogspot.com/2008/11/re-open-source-peer-review.html)):
+to a Linux kernel developer. I'd like to cite this bit about code review (see also [Re: Open Source != peer review <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/11/12/re-open-source-peer-review.html)):
 
 > [Andrew Morton] had a number of concrete requests - such as documenting the user-space ABI and the network protocol - which have not been
 > satisfied. He also asked for better code documentation in general:
