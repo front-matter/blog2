@@ -72,6 +72,11 @@ dir.eachFileRecurse (FileType.FILES) { file ->
           line = line.replace(oldContent, newContent)
           updated = true
         }
+        oldContent = "](" + oldPref.replace("http://","https://") + entry.key
+        if (line.contains(oldContent) && !(line.contains("keep link"))) {
+          line = line.replace(oldContent, newContent)
+          updated = true
+        }
       }
       content += line + "\n"
     }
