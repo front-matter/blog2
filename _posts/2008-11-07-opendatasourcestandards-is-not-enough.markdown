@@ -2,6 +2,7 @@
 layout: post
 title:  "Open{Data|Source|Standards} is not enough: we need Open Projects"
 date:   2008-11-07
+modified_date: 2025-10-11
 blogger-link: https://chem-bla-ics.blogspot.com/2008/11/opendatasourcestandards-is-not-enough.html
 doi: 10.59350/kmk49-mj610
 tags: odosos chemspider workflow cdk bioclipse cml debian eclipse rdf jmol blue-obelisk
@@ -27,7 +28,7 @@ Now, the CDK actually is ONS, it is a Bazaar. The notebooks we use include:
 * informal reporting via [CDK News](http://www.cdknews.org/)
 
 What more would you wish for? That's not a rhetorical question. Remember that every reader of this blog is in
-[my advisory board](http://chem-bla-ics.blogspot.com/2007/11/be-in-my-advisory-board-1-being-good.html)!
+[my advisory board <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/11/27/be-in-my-advisory-board-1-being-good.html)!
 
 Unfortunately, I do not create work at a workbench myself, so I do not produce new knowledge myself, other than extracted from existing
 data. That's really a shame, and I really do hope that Jean-Claude or [Cameron](http://blog.openwetware.org/scienceintheopen) will send
@@ -48,9 +49,9 @@ now started a [wiki](http://www.biocatalogue.org/wiki) and a
 so that I can contribute from my point of view!
 
 The [EMBRACE Registry](http://embraceregistry.net/) is a project with similar goals and a rather nice outcome (which I learned about on
-[Monday](http://chem-bla-ics.blogspot.com/2008/11/embrace-workshop-in-uppsala.html)). It is actually anticipate to be replaced by or merge
+[Monday <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/11/03/embrace-workshop-in-uppsala.html)). It is actually anticipate to be replaced by or merge
 with BioCatalogue. So, all data I entered, [cheminformatics workflows](http://prints.cs.man.ac.uk:8081/category/tags/cheminformatics)
-(look, [no 'o'](http://chem-bla-ics.blogspot.com/2008/10/chemoinformatics-p0wned-by.html)), will later be available from BioCatalogue too.
+(look, [no 'o' <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/10/18/chemoinformatics-p0wned-by.html)), will later be available from BioCatalogue too.
 That is already my first contribution to BioCatalogue. One enormously interesting feature of the Registry, is that is allows uploading of
 code to test the service. This will mean the Registry will not only poll if the service is still online (by checking the WSDL file), it
 will also test if the service behaves properly. Now, immediate thoughts are mashups with [MyExperiment](http://www.myexperiment.org/).
@@ -60,7 +61,7 @@ located in the same floor in Manchester.
 
 Below is a screenshot from the EMBRACE Registry for the [ChemSpider](http://www.chemspider.com/)
 [WDSL entry](http://prints.cs.man.ac.uk:8081/service/massspecapi) for [a workspace](http://www.myexperiment.org/workflows/97)
-I [uploaded](http://chem-bla-ics.blogspot.com/2007/11/metabolomics-workflows-in-taverna.html) about a year ago to MyExperiment:
+I [uploaded <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/11/26/metabolomics-workflows-in-taverna.html) about a year ago to MyExperiment:
 
 ![](/assets/images/registry.png)
 

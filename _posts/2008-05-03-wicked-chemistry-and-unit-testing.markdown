@@ -2,6 +2,7 @@
 layout: post
 title:  "Wicked chemistry and unit testing"
 date:   2008-05-03
+modified_date: 2025-10-11
 blogger-link: https://chem-bla-ics.blogspot.com/2008/05/wicked-chemistry-and-unit-testing.html
 doi: 10.59350/fwsac-99191
 tags: cdk pubchem
@@ -9,7 +10,7 @@ image: /assets/images/sid12279910.png
 ---
 
 After a discussion on starting development releases for [CDK](http://cdk.sf.net/) on [cdk-devel](https://lists.sourceforge.net/lists/listinfo/cdk-devel),
-the discussion continued on the state of the [CDK atom typer](http://chem-bla-ics.blogspot.com/2007/07/atom-typing-in-cdk.html).
+the discussion continued on the state of the [CDK atom typer <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/07/01/atom-typing-in-cdk.html).
 [Dan](http://dtp.nci.nih.gov/branches/itb/itb_index.html) and [Rajarshi](http://cheminfo.informatics.indiana.edu/~rguha/)
 have done tests in the past against [PubChem](http://pubchem.ncbi.nlm.nih.gov/) and its DTP/NCI subset. Rajarshi made his
 analysis part of [CDK Nightly](http://cheminfo.informatics.indiana.edu/~rguha/code/java/nightly/),
@@ -78,7 +79,7 @@ System.out.print(stringWriter.toString());
 ```
 
 For example, I am currently debugging a sulphur atom type perception problem, for which the simplest
-substructure looks like ([sid=12279910](https://chem-bla-ics.blogspot.com/2008/05/wicked-chemistry-and-unit-testing.html),
+substructure looks like ([sid=12279910 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/05/03/wicked-chemistry-and-unit-testing.html),
 `InChI=1/C2H7NS/c1-4(2)3/h3H,1-2H3)`:
 
 ![](/assets/images/sid12279910.png)

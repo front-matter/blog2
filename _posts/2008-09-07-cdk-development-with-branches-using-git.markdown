@@ -2,7 +2,7 @@
 layout: post
 title:  "CDK development with branches using Git"
 date:   2008-09-07
-modified_date: 2025-08-26
+modified_date: 2025-10-11
 blogger-link: https://chem-bla-ics.blogspot.com/2008/09/cdk-development-with-branches-using-git.html
 doi: 10.59350/vt3yd-8nb03
 tags: cdk svn
@@ -31,7 +31,7 @@ on an always accessible repository (I have been thinking about [GitHub](http://g
 However, you can start using Git without a central Git repository, including branch support. This blog by
 [Bart](http://www.jukie.net/~bart/blog/svn-branches-in-git) has the juicy details, which I'll apply here to CDK, for easy
 copy/pasting. This replaces the earlier writing on
-[Offline CDK development using git-svn](http://chem-bla-ics.blogspot.com/2007/10/offline-cdk-development-using-git-svn.html).
+[Offline CDK development using git-svn <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/10/31/offline-cdk-development-using-git-svn.html).
 
 First step is to get yourself a Git mirror of SVN (which will take a long time; do it overnight(s)):
 
