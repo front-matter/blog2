@@ -5,6 +5,7 @@ date:   2008-04-27
 blogger-link: https://chem-bla-ics.blogspot.com/2008/04/comments-on-rethinking-software-access.html
 doi: 10.59350/37jh5-ybw75
 tags: opensource cml jmol jchempaint justdoi:10.1038/451648a
+modified_date: 2025-10-11
 ---
 
 [bbgm](http://mndoci.com/blog/blog/) was [rethinking software access](http://mndoci.com/blog/2008/04/26/rethinking-software-access/).
@@ -33,7 +34,7 @@ funding, drove me to the opensource ideas many, many years ago.
 The second issue brought up, regards the ability to make mash ups. Open source and open standards are indeed important to make
 mash ups, though the former only helps you work around lack of use of open standards. Using web services contributes to the
 solution as it has a well-defined, open standard interface. Open source is particularly important for reproducibility of scientific
-results (see [my thesis](http://chem-bla-ics.blogspot.com/2008/03/todo-april-2nd-defend-my-phd-work.html)), and is the opposite of
+results (see [my thesis <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/03/01/todo-april-2nd-defend-my-phd-work.html)), and is the opposite of
 proprietary software, not commercial software. So, it seems bbgm is just looking for
 [Blue Obelisk](http://www.blueobelisk.org/) projects.
 

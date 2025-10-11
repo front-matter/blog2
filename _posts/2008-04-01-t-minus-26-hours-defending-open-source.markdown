@@ -6,9 +6,10 @@ blogger-link: https://chem-bla-ics.blogspot.com/2008/04/t-minus-26-hours-defendi
 doi: 10.59350/2b0cr-22997
 tags: cheminf chemometrics phd
 image: /assets/images/aula.png
+modified_date: 2025-10-11
 ---
 
-In about 26 hours from now, I will be [defending my PhD thesis](http://chem-bla-ics.blogspot.com/2008/03/todo-april-2nd-defend-my-phd-work.html).
+In about 26 hours from now, I will be [defending my PhD thesis <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/03/01/todo-april-2nd-defend-my-phd-work.html).
 Follow that link to read the summary; I was thinking if publishing my introduction and discussion (the rest has been published in peer-reviewed
 journals) on [Nature Precedings](http://precedings.nature.com/); would that be a good idea? Otherwise, I'll post it in my blog. If you just
 happen to want to attend the public defense, it's

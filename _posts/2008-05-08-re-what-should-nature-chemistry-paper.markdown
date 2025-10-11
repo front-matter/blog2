@@ -5,6 +5,7 @@ date:   2008-05-08
 blogger-link: https://chem-bla-ics.blogspot.com/2008/05/re-what-should-nature-chemistry-paper.html
 doi: 10.59350/g89pc-kz779
 tags: publishing chemistry justdoi:10.1021/np0705918 inchi
+modified_date: 2025-10-11
 ---
 
 [Neil](http://blogs.nature.com/thescepticalchymist/author/neil_withers/) [wondered](http://blogs.nature.com/thescepticalchymist/2008/05/jj_day_98_service_with_a_simpl.html)
@@ -21,11 +22,11 @@ but without the menus/etc. NC should adopt this feature (or did I miss that opti
 I hate the small figures, because they make scanning the HTML more difficult.
 
 **3a. Tagging/’semantic web’: what do you think about the toys on the RSC’s Project Prospect?** <br />
-I love tagging and semantic work up. Just browse my blog. I blogged a bit about [Project Prospect](http://chem-bla-ics.blogspot.com/search?q=project+prospect)
-in the past, and also about using [RDFa for semantic markup of chemistry](http://chem-bla-ics.blogspot.com/search?q=RDFa).
+I love tagging and semantic work up. Just browse my blog. I blogged a bit about [Project Prospect](http://chem-bla-ics.blogspot.com/search?q=project+prospect) <!-- keep link -->
+in the past, and also about using [RDFa for semantic markup of chemistry](http://chem-bla-ics.blogspot.com/search?q=RDFa).  <!-- keep link -->
 I must also mention the nice semantic work by the [Beilstein Journal](http://www.beilstein-journals.org/). Check the HTML
 source for all the semantics and the link to the papers RDF version. I discussed some of that work
-[earlier](http://chem-bla-ics.blogspot.com/2008/04/quality-publishing-endnote-versus.html).
+[earlier <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/04/22/quality-publishing-endnote-versus.html).
 
 **3b. What kind of things would you like to see tagged/linked to other content in Nature Chemistry?** <br />
 I'd really like to see that Nature would pick up social tagging. For example, [Euan/Ian/etc](http://blogs.nature.com/wp/nascent/)

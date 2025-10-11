@@ -6,11 +6,12 @@ blogger-link: https://chem-bla-ics.blogspot.com/2008/04/t-plus-51-hours-short-ph
 doi: 10.59350/wgawt-w6g88
 tags: defense phd
 image: /assets/images/vga_E112.JPG
+modified_date: 2025-10-11
 ---
 
 I normally do not do these kinds of blog items, but, in reply to [Christoph's blog](http://www.steinbeck-molecular.de/steinblog/index.php/2008/04/03/congratulations-egon/#comment-327),
-here's an overview of the ceremony (see also [T-26](http://chem-bla-ics.blogspot.com/2008/04/t-minus-26-hours-defending-open-source.html) and
-[T+18](http://chem-bla-ics.blogspot.com/2008/04/t-plus-18-hours-dr-and-preparing-for.html)):
+here's an overview of the ceremony (see also [T-26 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/04/01/t-minus-26-hours-defending-open-source.html) and
+[T+18 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/04/03/t-plus-18-hours-dr-and-preparing-for.html)):
 
 ![](/assets/images/vga_E112.JPG)
 

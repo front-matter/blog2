@@ -2,7 +2,7 @@
 layout: post
 title:  "Scholarly journals should use \"Archived on\" instead of \"Accessed on\""
 date:   2021-08-28
-modified_date: 2025-02-16
+modified_date: 2025-10-11
 doi: 10.59350/q8zfm-45s98
 blogger-link: https://chem-bla-ics.blogspot.com/2021/08/scholarly-journals-should-use-archived.html
 tags: publishing justdoi:10.3998/3336451.0004.210 justdoi:10.1353/pla.2003.0098 justdoi:10.1002/bmb.2003.494031010165
@@ -12,7 +12,7 @@ image: /assets/images/Screenshot_20210828_102732.png
 ---
 
 Publishing habits changes very slowly, too slowly. The whole industry is incredibly inert, which can lead to severe frustration
-as [it did for me](https://chem-bla-ics.blogspot.com/2021/06/conflict-of-interest-or-why-i-am.html). But sometimes small
+as [it did for me <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2021/06/11/conflict-of-interest-or-why-i-am.html). But sometimes small
 changes can do so much.
 
 Linkrot, the phenomenon that URLs are not persistent, has been studied, including the in scholarly settings (see

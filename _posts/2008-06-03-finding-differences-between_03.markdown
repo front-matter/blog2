@@ -5,6 +5,7 @@ date:   2008-06-03
 blogger-link: https://chem-bla-ics.blogspot.com/2008/06/finding-differences-between_03.html
 doi: 10.59350/9tk1a-d6c07
 tags: cdk qsar
+modified_date: 2025-10-11
 ---
 
 [CDK](http://cdk.sf.net/) QSAR descriptors are not allowed to change the input [molecule|atom|bond], and I
@@ -32,7 +33,7 @@ After some code clean up of the diff module code earlier this morning (in antici
  }
 ```
 
-This is a nice example of where the new [diff module](http://chem-bla-ics.blogspot.com/2008/06/finding-differences-between.html)
+This is a nice example of where the new [diff module <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/06/01/finding-differences-between.html)
 is useful. Instead of dumping to long IAtom.toString()s, the output now gives output like:
 
 ```

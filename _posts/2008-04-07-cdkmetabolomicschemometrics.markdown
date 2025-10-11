@@ -6,12 +6,13 @@ blogger-link: https://chem-bla-ics.blogspot.com/2008/04/cdkmetabolomicschemometr
 doi: 10.59350/f2ajz-tmr63
 tags: cdk defense phd metabolomics cheminf chemometrics justdoi:10.18637/jss.v018.i02
 image: /assets/images/riPred.png
+modified_date: 2025-10-11
 ---
 
-As [announced earlier](http://chem-bla-ics.blogspot.com/2008/04/t-plus-18-hours-dr-and-preparing-for.html), Miguel, Velitchka,
+As [announced earlier <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/04/03/t-plus-18-hours-dr-and-preparing-for.html), Miguel, Velitchka,
 [Christoph](http://www.steinbeck-molecular.de/steinblog/) and I held a small [CDK](http://cdk.sf.net/)/Metabolomics/Chemometrics
 unconference. We started late, and did not have an evening program, resulting in not overly much results. However, we did do
-*[molecular chemometrics](http://chem-bla-ics.blogspot.com/search?q=molecular+chemometrics)*.
+*[molecular chemometrics](http://chem-bla-ics.blogspot.com/search?q=molecular+chemometrics)*. <!-- keep link -->
 
 We used the [R statistics software](http://www.r-project.org/) together with Rajarshi's [rcdk](http://cran.r-project.org/web/packages/rcdk/index.html)
 package (an R wrapper around the CDK library) and Ron's (my PhD supervisor) [PLS](http://cran.r-project.org/web/packages/pls/index.html)

@@ -6,11 +6,12 @@ blogger-link: https://chem-bla-ics.blogspot.com/2008/08/metware-screenshot-spect
 doi: 10.59350/9m75g-4rh11
 tags: metware xml java
 image: /assets/images/msTable.png
+modified_date: 2025-10-11
 ---
 
 Not visually attractive, but that will be solved when Steffen gets his hands on it. For now, I'm happy with a table formatting.
 Reason: it uses XML Schema to define a dataType, which is recognized by our code generators in [MetWare](http://www.metware.org/)
-(see also [this presentation](https://chem-bla-ics.blogspot.com/2008/05/metware-status-report.html)), and used to create a easy to use Java API, which, in turn, can be used in this JSF snippet:
+(see also [this presentation <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/05/16/metware-status-report.html)), and used to create a easy to use Java API, which, in turn, can be used in this JSF snippet:
 
 ```xml
 <h:dataTable value="#{metobservCharacterizationMassspectrum.spectralPoints.points}" var="specpoint">

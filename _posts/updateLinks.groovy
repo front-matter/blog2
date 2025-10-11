@@ -13,6 +13,7 @@ String date = new SimpleDateFormat("yyyy-MM-dd").format(new Date());
 ui = new net.bioclipse.managers.UIManager("..");
 
 mappings = [
+  "2021/06/conflict-of-interest-or-why-i-am.html": "2021/06/11/conflict-of-interest-or-why-i-am.html",
   "2008/12/editing-and-validation-of-cml-documents.html": "2008/12/30/editing-and-validation-of-cml-documents.html",
   "2008/12/who-says-java-is-not-fast.html": "2008/12/04/who-says-java-is-not-fast.html",
   "2008/11/re-open-source-peer-review.html": "2008/11/12/re-open-source-peer-review.html",
@@ -26,10 +27,19 @@ mappings = [
   "2008/09/moved-to-sweden-post-doc-in-bioclipse.html": "2008/09/24/moved-to-sweden-post-doc-in-bioclipse.html",
   "2008/09/cdk-development-with-branches-using-git.html": "2008/09/07/cdk-development-with-branches-using-git.html",
   "2008/08/metware-screenshot-spectrum-support.html": "2008/08/20/metware-screenshot-spectrum-support.html",
+  "2008/07/commercial-qsar-modeling-sorry-already.html": "2008/07/23/commercial-qsar-modeling-sorry-already.html",
   "2008/07/peer-reviewed-chemoinformatics-why.html": "2008/07/22/peer-reviewed-chemoinformatics-why.html",
+  "2008/06/recovering-full-mass-spectra-from-gc-ms.html": "2008/06/04/recovering-full-mass-spectra-from-gc-ms.html",
+  "2008/06/finding-differences-between_03.html": "2008/06/03/finding-differences-between_03.html",
+  "2008/06/finding-differences-between.html": "2008/06/01/finding-differences-between.html",
+  "2008/05/development-of-new-jchempaint.html": "2008/05/19/development-of-new-jchempaint.html",
   "2008/05/metware-status-report.html": "2008/05/16/metware-status-report.html",
+  "2008/04/quality-publishing-endnote-versus.html": "2008/04/22/quality-publishing-endnote-versus.html",
+  "2008/04/t-plus-18-hours-dr-and-preparing-for.html": "2008/04/03/t-plus-18-hours-dr-and-preparing-for.html",
+  "2008/04/t-minus-26-hours-defending-open-source.html": "2008/04/01/t-minus-26-hours-defending-open-source.html",
   "2008/03/cdk-module-dependencies-2.html": "2008/03/23/cdk-module-dependencies-2.html",
   "2008/03/chemical-object-identifier-or-freedom.html": "2008/03/09/chemical-object-identifier-or-freedom.html",
+  "2008/03/todo-april-2nd-defend-my-phd-work.html": "2008/03/01/todo-april-2nd-defend-my-phd-work.html",
   "2008/01/be-in-my-advisory-board-2-jchempaint.html": "2008/01/15/be-in-my-advisory-board-2-jchempaint.html",
   "2007/12/christmas-presents.html": "2007/12/21/christmas-presents.html",
   "2007/11/be-in-my-advisory-board-1-being-good.html": "2007/11/27/be-in-my-advisory-board-1-being-good.html",
