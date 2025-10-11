@@ -14,6 +14,7 @@ ui = new net.bioclipse.managers.UIManager("..");
 
 mappings = [
   "2021/06/conflict-of-interest-or-why-i-am.html": "2021/06/11/conflict-of-interest-or-why-i-am.html",
+  "2009/08/bioclipse-and-sparql-end-points.html": "2009/08/16/bioclipse-and-sparql-end-points.html",
   "2008/12/editing-and-validation-of-cml-documents.html": "2008/12/30/editing-and-validation-of-cml-documents.html",
   "2008/12/who-says-java-is-not-fast.html": "2008/12/04/who-says-java-is-not-fast.html",
   "2008/11/re-open-source-peer-review.html": "2008/11/12/re-open-source-peer-review.html",

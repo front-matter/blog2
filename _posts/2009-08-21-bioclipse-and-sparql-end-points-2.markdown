@@ -2,7 +2,7 @@
 layout: post
 title:  "Bioclipse and SPARQL end points #2: MyExperiment"
 date:   2009-08-21
-modified_date: 2025-02-15
+modified_date: 2025-10-11
 doi: 10.59350/qyshc-pn870
 blogger-link: https://chem-bla-ics.blogspot.com/2009/08/bioclipse-and-sparql-end-points-2.html
 tags: bioclipse rdf foaf myexperiment rdf sparql
@@ -36,7 +36,7 @@ workflow is part of the RDF too, as we will see.
 
 ## Querying a SPARQL end point
 
-As we have seen in the [first article of this series](http://chem-bla-ics.blogspot.com/2009/08/bioclipse-and-sparql-end-points.html),
+As we have seen in the [first article of this series <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/08/16/bioclipse-and-sparql-end-points.html),
 the RDF manager his a method to query a remote SPARQL end point. The complexity is mostly in formulating the SPARQL (and this one
 happens to be available as [workflow on MyExperiment too](http://www.myexperiment.org/workflows/890):
 
@@ -93,4 +93,4 @@ for my account, because the MyExperiment SPARQL end point is not particularly fa
 
 Earlier in this series:
 
-1. [Bioclipse and SPARQL end points #1: DBPedia](http://chem-bla-ics.blogspot.com/2009/08/bioclipse-and-sparql-end-points.html)
+1. [Bioclipse and SPARQL end points #1: DBPedia <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/08/16/bioclipse-and-sparql-end-points.html)
