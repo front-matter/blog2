@@ -2,7 +2,7 @@
 layout: post
 title:  "Creating CMLReact from UsefulChem Ugi Reactions"
 date:   2008-08-31 00:20
-modified_date: 2025-09-08
+modified_date: 2025-10-11
 blogger-link: https://chem-bla-ics.blogspot.com/2008/08/creating-cmlreact-from-usefulchem-ugi.html
 doi: 10.59350/32fcj-fd465
 tags: cml cdk inchi justdoi:10.1021/ci0502698
@@ -13,7 +13,7 @@ tags: cml cdk inchi justdoi:10.1021/ci0502698
 [Ugi reactions](http://usefulchem.wikispaces.com/exp023) Jean-Claude has been working on. I just finished a script that uses the
 CDK and Sam's interface to the [InChI library](http://cheminfo.informatics.indiana.edu/~rguha/code/java/nightly/api/org/openscience/cdk/inchi/package-frame.html)
 to convert a list of four reactants and one Ugi product into CMLReact (doi:[10.1021/ci0502698](http://dx.doi.org/10.1021/ci0502698)).
-The full [BeanShell](https://chem-bla-ics.blogspot.com/2008/08/creating-cmlreact-from-usefulchem-ugi.html) script looks like:
+The full [BeanShell](https://en.wikipedia.org/wiki/BeanShell) script looks like:
 
 ```beanshell
 #!/usr/bin/bsh
