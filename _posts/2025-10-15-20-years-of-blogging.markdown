@@ -15,7 +15,7 @@ Two years ago I decided to [upgrade my blog](https://chem-bla-ics.linkedchemistr
 to one with version control. A decision I am still very excited about. It allowed me to start innovating my blog again.
 As part of this, and following the step [Lars](https://larsgw.blogspot.com/) [took ealier](https://legacy.rogue-scholar.org/blogs/syntaxus_baccata),
 I registered my blog with [Rogue Scholar](https://rogue-scholar.org/) and I started migrating blog posts from
-*blogger.com* to my new location. I completed the years 2015, 2016, 2017, and 2018 now.
+*blogger.com* to my new location. I completed the years 2005, 2006, 2007, and 2008 now.
 
 I decided to do this manually, which gives me the opportunity to reflect on my 20 years of blogging and 20 years of
 research. It has been an utter joy to read about all the open science and all the innovation that happened around
