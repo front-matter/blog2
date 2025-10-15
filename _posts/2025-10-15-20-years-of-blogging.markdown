@@ -4,10 +4,10 @@ title:  "20 years of blogging"
 date:   2025-10-15
 doi: 10.59350/v9c2y-4f248
 tags: blog
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 115378925168086041
 ---
 
 Today, exactly 20 years ago I [started this blog](https://chem-bla-ics.linkedchemistry.info/2005/10/15/chem-bla-ics.html).
