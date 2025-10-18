@@ -6,6 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2009/01/bioclipse-and-gist-integ
 doi: 10.59350/gkcs6-62t68
 tags: bioclipse git github
 image: /assets/images/gist3.png
+modified_date: 2025-10-18
 ---
 
 As you might have read, [Bioclipse](http://www.bioclipse.net/) has scripting support (see for example, [Scripting JChemPaint](http://chem-bla-ics.blogspot.com/2008/11/scripting-jchempaint.html)),
@@ -23,7 +24,7 @@ and click *Next*:
 ![](/assets/images/gist4.png)
 
 Then, just type the number of the Gist you want to open in Bioclipse, for example [18315](http://gist.github.com/18315) (see
-[Bioclipse2 Scripting #1: from SMILES to a UFF optimized structure in Jmol](http://chem-bla-ics.blogspot.com/2008/10/bioclipse2-scripting-1-from-smiles-to.html)),
+[Bioclipse2 Scripting #1: from SMILES to a UFF optimized structure in Jmol <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/10/25/bioclipse2-scripting-1-from-smiles-to.html)),
 and click another *Next* to select a file name and location:
 
 ![](/assets/images/gist5.png)

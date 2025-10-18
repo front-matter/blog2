@@ -5,10 +5,11 @@ date:   2009-01-21
 blogger-link: https://chem-bla-ics.blogspot.com/2009/01/details-behind-calling-xmpp-cloud.html
 doi: 10.59350/1zmv1-tnn62
 tags: xmpp taverna
+modified_date: 2025-10-18
 ---
 
-On Monday I showed [two screenshot](http://chem-bla-ics.blogspot.com/2009/01/calling-xmpp-cloud-services-from.html) showing our
-[new XMPP-based web/cloud services](http://chem-bla-ics.blogspot.com/2009/01/calling-xmpp-cloud-services-from.html) in action
+On Monday I showed [two screenshot <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/01/19/calling-xmpp-cloud-services-from.html) showing our
+[new XMPP-based web/cloud services <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/01/19/calling-xmpp-cloud-services-from.html) in action
 inside [Taverna](http://taverna.sf.net/).
 
 I promised details, but realize I have actually already posted a lot of them [in October](http://chem-bla-ics.blogspot.com/2008/10/next-generation-asynchronous.html):
