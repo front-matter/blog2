@@ -5,7 +5,7 @@ date:   2009-01-19
 blogger-link: https://chem-bla-ics.blogspot.com/2009/01/rsc-now-allows-jmol-in-main-text-of.html
 doi: 10.59350/bha3t-gtx57
 tags: jmol publishing justdoi:10.1039/b810147g
-image: /blog/assets/images/henryJmolOnline.png
+image: /assets/images/henryJmolOnline.png
 ---
 
 Richard Kidd wrote in the [ChemistryWorldBlog](http://prospect.rsc.org/blogs/cw/?p=1315) about Henry Rzepa to have published two papers in
@@ -17,4 +17,4 @@ However, when I checked the HTML of the first of the two papers (*A computationa
 doi:[10.1039/b810147g](http://dx.doi.org/10.1039/b810147g)). The main HTML **still** links to a supplementary page. Progress, but not
 perfect either:
 
-![](/blog/assets/images/henryJmolOnline.png)
+![](/assets/images/henryJmolOnline.png)
