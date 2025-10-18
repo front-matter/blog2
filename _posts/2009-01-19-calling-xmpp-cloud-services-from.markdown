@@ -12,6 +12,6 @@ SMILES (*CCC*) in, mass out. Yes, we can now call XMPP/IO-DATA cloud services wi
 
 ![](/assets/images/t1.png)
 
-![](/blog//assets/images/t2.png)
+![](/assets/images/t2.png)
 
 Details will follow, but here's the [source code](http://github.com/egonw/xws-taverna/tree/master).
