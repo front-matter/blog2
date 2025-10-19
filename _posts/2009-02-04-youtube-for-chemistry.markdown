@@ -2,6 +2,7 @@
 layout: post
 title:  "YouTube for Chemistry"
 date:   2009-02-04
+modified_date: 2009-02-04
 blogger-link: https://chem-bla-ics.blogspot.com/2009/02/youtube-for-chemistry.html
 doi: 10.59350/qf4d9-79d36
 tags: chemspider
@@ -15,3 +16,7 @@ Unlike YouTube, you need to be registered and logged in to use the functionality
 
 There is an option to have ChemSpider link back to blog, and I will have to figure out how to enable
 [Chemical blogspace](http://cb.openmolecules.net/) to extract the InChI from the underlying JavaScripts.
+
+**Update**: I noticed that the ChemSpider server was a bit sluggish this morning, and that loading my blog page halts at loading the
+JavaScript... Tony, I suggest to use some Ajax magic here, with a really fast JavaScript download (using an almost static bit of
+JavaScript), and then a Ajax to access to slower bits, which might involve image generation and database lookup.
