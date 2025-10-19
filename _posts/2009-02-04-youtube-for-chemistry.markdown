@@ -20,3 +20,5 @@ There is an option to have ChemSpider link back to blog, and I will have to figu
 **Update**: I noticed that the ChemSpider server was a bit sluggish this morning, and that loading my blog page halts at loading the
 JavaScript... Tony, I suggest to use some Ajax magic here, with a really fast JavaScript download (using an almost static bit of
 JavaScript), and then a Ajax to access to slower bits, which might involve image generation and database lookup.
+
+**Update2**: the feature was already under development before Cameron asked about it.
