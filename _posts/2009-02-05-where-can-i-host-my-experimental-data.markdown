@@ -2,6 +2,7 @@
 layout: post
 title:  "Where can I host my experimental data? Open Submission Chemistry Databases #1"
 date:   2009-02-05 00:10
+modified_date: 2025-10-20
 blogger-link: https://chem-bla-ics.blogspot.com/2009/02/where-can-i-host-my-experimental-data.html
 doi: 10.59350/24q7a-eg105
 tags: chemistry opendata
@@ -11,7 +12,7 @@ tags: chemistry opendata
 after a [gauntlet thrown down](http://therealmoforganicsynthesis.blogspot.com/2009/02/throwing-down-gauntlet-for-my-fellow.html) by
 [The Realm of Organic Synthesis](http://therealmoforganicsynthesis.blogspot.com/) (TROS).
 
-I agree that this still is a problem: where can (organic) chemists host their data? TROS hints as [Wikipedia](http://wikipedia.org/),
+I agree that this still is a problem: where can (organic) chemists host their data? TROS hints at [Wikipedia](http://wikipedia.org/),
 but an encyclopedia is not always the most suited place for cutting edge chemistry (article can easily be biased, contain (science)
 political views, etc...). I would suggest a blog would be a good start, and if proper markup would be used services like
 [Chemical blogspace](http://cb.openmolecules.net/) would automatically aggregate it.

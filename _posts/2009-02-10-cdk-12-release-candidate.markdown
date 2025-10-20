@@ -2,12 +2,13 @@
 layout: post
 title:  "CDK 1.2 Release Candidate"
 date:   2009-02-10
+modified_date: 2025-10-20
 blogger-link: https://chem-bla-ics.blogspot.com/2009/02/cdk-12-release-candidate.html
 doi: 10.59350/9k5sa-fgb67
 tags: cdk java sourceforge
 ---
 
-I release [CDK](http://cdk.sf.net/) 1.1.5 today. Below is the email I sent to the
+I released [CDK](http://cdk.sf.net/) 1.1.5 today. Below is the email I sent to the
 [cdk-user mailing list](http://sourceforge.net/mailarchive/forum.php?forum_name=cdk-user):
 
 > Hi all,
