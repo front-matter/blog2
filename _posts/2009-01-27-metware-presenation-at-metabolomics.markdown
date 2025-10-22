@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "MetWare presenation at Metabolomics Workshop"
+title:  "MetWare presentation at Metabolomics Workshop"
 date:   2009-01-27
-modified_date: 2025-10-18
+modified_date: 2025-10-22
 blogger-link: https://chem-bla-ics.blogspot.com/2009/01/metware-presenation-at-metabolomics.html
 doi: 10.59350/c9h5h-sdq16
 tags: metware metabolomics doi:10.5281/ZENODO.3366041
