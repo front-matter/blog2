@@ -6,10 +6,10 @@ blogger-link: https://chem-bla-ics.blogspot.com/2009/01/bioclipse-and-gist-integ
 doi: 10.59350/gkcs6-62t68
 tags: bioclipse git github
 image: /assets/images/gist3.png
-modified_date: 2025-10-18
+modified_date: 2025-10-26
 ---
 
-As you might have read, [Bioclipse](http://www.bioclipse.net/) has scripting support (see for example, [Scripting JChemPaint](http://chem-bla-ics.blogspot.com/2008/11/scripting-jchempaint.html)),
+As you might have read, [Bioclipse](http://www.bioclipse.net/) has scripting support (see for example, [Scripting JChemPaint <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/11/20/scripting-jchempaint.html)),
 and that we have been collection them on [Gist](http://gist.github.com/) and indexing them on Delicious with the tags [bioclipse and gist](http://delicious.com/tag/bioclipse+gist).
 This provides a nice overview of what you can do with the current SVN version of Bioclipse2. And, hopefully, when released, allow users to quickly learn about Bioclipse features,
 allow people to share scripts etc. Think of it as [MyExperiment.org](http://myexperiment.org/) for Bioclipse.
@@ -31,4 +31,4 @@ and click another *Next* to select a file name and location:
 
 The current code does require you to know the Gist number, so you'll need a web browser to look it up, but we do have search facilities in mind. Also, while the code
 attempts so, the resulting Gist is not automatically openend in an editor (a bug). Another idea is to just install the
-[egit](http://chem-bla-ics.blogspot.com/2008/10/git-eclipse-integration.html) plugin in Bioclipse :)
+[egit <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/10/24/git-eclipse-integration.html) plugin in Bioclipse :)

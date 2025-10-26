@@ -2,7 +2,7 @@
 layout: post
 title:  "Bioclipse and SPARQL end points #2: MyExperiment"
 date:   2009-08-21
-modified_date: 2025-10-11
+modified_date: 2025-10-26
 doi: 10.59350/qyshc-pn870
 blogger-link: https://chem-bla-ics.blogspot.com/2009/08/bioclipse-and-sparql-end-points-2.html
 tags: bioclipse rdf foaf myexperiment rdf sparql
@@ -22,7 +22,7 @@ support. The above query showed up 132 workflows when I ran it today.
 ## Gists
 
 Now, so far I have been using [Gist](http://gist.github.com/) to share Bioclipse scripts and I wrote
-some [Bioclipse GUI elements for downloading such gists](http://chem-bla-ics.blogspot.com/2009/01/bioclipse-and-gist-integration.html).
+some [Bioclipse GUI elements for downloading such gists <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/01/16/bioclipse-and-gist-integration.html).
 To annotate these gists, [Delicious](http://delicious.com/) has been used, and a listing of Bioclipse scripts can be found under the
 tags [bioclipse and gist](http://delicious.com/tag/bioclipse+gist).
 

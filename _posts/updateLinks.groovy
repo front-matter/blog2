@@ -16,15 +16,19 @@ mappings = [
   "2021/06/conflict-of-interest-or-why-i-am.html": "2021/06/11/conflict-of-interest-or-why-i-am.html",
   "2009/08/bioclipse-and-sparql-end-points.html": "2009/08/16/bioclipse-and-sparql-end-points.html",
   "2009/01/calling-xmpp-cloud-services-from.html": "2009/01/19/calling-xmpp-cloud-services-from.html",
+  "2009/01/bioclipse-and-gist-integration.html": "2009/01/16/bioclipse-and-gist-integration.html",
   "2008/12/editing-and-validation-of-cml-documents.html": "2008/12/30/editing-and-validation-of-cml-documents.html",
   "2008/12/who-says-java-is-not-fast.html": "2008/12/04/who-says-java-is-not-fast.html",
   "2008/11/re-open-source-peer-review.html": "2008/11/12/re-open-source-peer-review.html",
   "2008/11/opendatasourcestandards-is-not-enough.html": "2008/11/07/opendatasourcestandards-is-not-enough.html",
   "2008/11/next-generation-asynchronous.html": "2008/11/04/next-generation-asynchronous.html",
   "2008/11/embrace-workshop-in-uppsala.html": "2008/11/03/embrace-workshop-in-uppsala.html",
+  "2008/11/scripting-jchempaint.html": "2008/11/20/scripting-jchempaint.html",
   "2008/10/bioclipse2-scripting-1-from-smiles-to.html": "2008/10/25/bioclipse2-scripting-1-from-smiles-to.html",
   "2008/10/gittodo-support-for-freemind-graphical.html": "2008/10/20/gittodo-support-for-freemind-graphical.html",
   "2008/10/jchempaint-history-cml-patches-in-1999.html": "2008/10/02/jchempaint-history-cml-patches-in-1999.html",
+  "2008/10/git-eclipse-integration.html": "2008/10/24/git-eclipse-integration.html",
+  "2008/10/next-generation-asynchronous.html": "2008/10/31/next-generation-asynchronous.html",
   "2008/09/git-mirror-for-cdk.html": "2008/09/30/git-mirror-for-cdk.html",
   "2008/09/moved-to-sweden-post-doc-in-bioclipse.html": "2008/09/24/moved-to-sweden-post-doc-in-bioclipse.html",
   "2008/09/cdk-development-with-branches-using-git.html": "2008/09/07/cdk-development-with-branches-using-git.html",
@@ -47,7 +51,8 @@ mappings = [
   "2007/11/be-in-my-advisory-board-1-being-good.html": "2007/11/27/be-in-my-advisory-board-1-being-good.html",
   "2007/11/metware-metabolomics-database-project.html": "2007/11/22/metware-metabolomics-database-project.html",
   "2007/11/molecules-in-wikipedia-without-inchis-3.html": "2007/11/16/molecules-in-wikipedia-without-inchis-3.html",
-  "2007/07/osra-gpl-ed-molecule-drawing-to-smiles.html": "2007/07/20/osra-gpl-ed-molecule-drawing-to-smiles.html"
+  "2007/07/osra-gpl-ed-molecule-drawing-to-smiles.html": "2007/07/20/osra-gpl-ed-molecule-drawing-to-smiles.html",
+  "2007/07/atom-typing-in-cdk.html": "2007/07/01/atom-typing-in-cdk.html"
 ]
 
 oldPref = "http://chem-bla-ics.blogspot.com/"

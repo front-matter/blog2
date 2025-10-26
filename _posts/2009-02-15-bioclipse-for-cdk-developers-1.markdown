@@ -5,12 +5,13 @@ date:   2009-02-15
 blogger-link: https://chem-bla-ics.blogspot.com/2009/02/bioclipse-for-cdk-developers-1.html
 doi: 10.59350/zv2f4-ac581
 tags: bioclipse cdk doi:10.1186/1471-2105-8-59
+modified_date: 2025-10-26
 ---
 
 Ola has released the [second beta for Bioclipse 2.0](http://bioclipse.blogspot.com/2009/02/bioclipse-20-beta2-released.html).
 Things are getting along, and I will not go into details on the [molecules table Arvid is working on](http://bioclipse.blogspot.com/2008/08/bioclipse-20-alpha01-released.html),
-the 1GB+ SD file support, the [validating CML editor](http://chem-bla-ics.blogspot.com/2008/12/editing-and-validation-of-cml-documents.html),
-the [support for XMPP services](http://chem-bla-ics.blogspot.com/2008/11/next-generation-asynchronous.html),
+the 1GB+ SD file support, the [validating CML editor <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/12/30/editing-and-validation-of-cml-documents.html),
+the [support for XMPP services <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/11/04/next-generation-asynchronous.html),
 or the [brand new welcome page](http://bioclipse.blogspot.com/2009/02/bioclipse-20-beta2-released.html)
 which will guide new users around in what Bioclipse has to offer.
 
@@ -20,9 +21,9 @@ While Bioclipse 1.x (doi:[10.1186/1471-2105-8-59](https://doi.org/10.1186/1471-2
 power if integrating different bio- and cheminformatics tools, Bioclipse2 was designed from scratch, taking advantage of
 the latest [Eclipse RCP](http://wiki.eclipse.org/index.php/Rich_Client_Platform) technologies. More importantly, the
 team in Uppsala decided to have all functionality work via managers, allowing all actions to be recorded. *And*,
-scripting of Bioclipse. I blogged earlier about [scripting JChemPaint](http://chem-bla-ics.blogspot.com/2008/11/scripting-jchempaint.html),
-and [creating UFF optimized 3D structures from SMILES](http://chem-bla-ics.blogspot.com/2008/10/bioclipse2-scripting-1-from-smiles-to.html).
-[Example scripts](http://chem-bla-ics.blogspot.com/2009/01/bioclipse-and-gist-integration.html) can be found on
+scripting of Bioclipse. I blogged earlier about [scripting JChemPaint <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/11/20/scripting-jchempaint.html),
+and [creating UFF optimized 3D structures from SMILES <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/10/25/bioclipse2-scripting-1-from-smiles-to.html).
+[Example scripts <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/01/16/bioclipse-and-gist-integration.html) can be found on
 GitHub (this is [their coverage](http://github.com/blog/317-scripting-bioclipse)), and are
 [indexed on Delicious](http://delicious.com/tag/bioclipse+gist).
 
@@ -37,7 +38,7 @@ Development Kit.
 Over the next weeks, I will blog about scripts aimed at CDK developers and people who want to learn more on how the CDK
 internals work. This series assumes Bioclipse 2.0 beta2 (or better) and the CDK Feature installed. I'll be using the Gist
 widget to embed scripts in this blog, but you can always download the Gist directly into Bioclipse, with the GUI as described
-[here](http://chem-bla-ics.blogspot.com/2009/01/bioclipse-and-gist-integration.html).
+[here <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/01/16/bioclipse-and-gist-integration.html).
 
 Bioclipse uses JavaScript (maybe other scripting languages in the future. File a wishlist report if you like to see Jython,
 BeanShell or other support in the [Bioclipse bug track system](http://bugs.bioclipse.net/).)
@@ -70,7 +71,7 @@ Bioclipse scripting has TAB completion support, so you can type cdk. (notice the
 
 ## Debugging CDK's Atom Type
 
-As I wrote last week with the email on the [first CDK 1.2 release candidate](http://chem-bla-ics.blogspot.com/2007/07/atom-typing-in-cdk.html),
+As I wrote last week with the email on the [first CDK 1.2 release candidate <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/07/01/atom-typing-in-cdk.html),
 the new CDK atom typer is a core component of the new CDK. The new implementation covers all atom types used in CDK 1.0, and many more.
 In particular, [Miguel](http://chemistry-to-informatics.blogspot.com/) boosted support for charged and radical atom types.
 
