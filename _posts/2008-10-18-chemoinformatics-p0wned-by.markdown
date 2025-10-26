@@ -5,7 +5,7 @@ date:   2008-10-18
 modified_date: 2025-10-05
 blogger-link: https://chem-bla-ics.blogspot.com/2008/10/chemoinformatics-p0wned-by.html
 doi: 10.59350/srpzr-0ar34
-tags: cheminfo jcheminf
+tags: cheminf jcheminf
 image: /assets/images/cheminfoPoll.png
 ---
 

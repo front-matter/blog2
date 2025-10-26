@@ -5,7 +5,7 @@ date:   2008-08-31 00:20
 modified_date: 2025-10-11
 blogger-link: https://chem-bla-ics.blogspot.com/2008/08/creating-cmlreact-from-usefulchem-ugi.html
 doi: 10.59350/32fcj-fd465
-tags: cml cdk inchi justdoi:10.1021/ci0502698
+tags: cml cdk inchi justdoi:10.1021/ci0502698 usefulchem
 ---
 
 [Cameron](http://blog.openwetware.org/scienceintheopen/), [Jean-Claude](http://usefulchem.blogspot.com/) and I were invited to

@@ -4,7 +4,7 @@ title:  "Blogger Degrading..."
 date:   2009-02-12
 blogger-link: https://chem-bla-ics.blogspot.com/2009/02/blogger-degrading.html
 doi: 10.59350/445ka-1jq43
-tags: blogging google
+tags: blog google
 image: /assets/images/bloggerDegrading.png
 ---
 

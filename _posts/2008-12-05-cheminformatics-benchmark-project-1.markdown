@@ -4,7 +4,7 @@ title:  "Cheminformatics Benchmark Project #1"
 date:   2008-12-05
 blogger-link: https://chem-bla-ics.blogspot.com/2008/12/cheminformatics-benchmark-project-1.html
 doi: 10.59350/wngzb-y3329
-tags:
+tags: cheminf cdk
 modified_date: 2025-10-11
 ---
 
