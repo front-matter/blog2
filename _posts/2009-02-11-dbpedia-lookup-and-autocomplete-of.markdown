@@ -5,13 +5,13 @@ date:   2009-02-11
 blogger-link: https://chem-bla-ics.blogspot.com/2009/02/dbpedia-lookup-and-autocomplete-of.html
 doi: 10.59350/wbb63-gv107
 tags: rdf dbpedia wikipedia smiles inchi
-image: /blog/assets/images/dbpediaAutocomplete.png
+image: /assets/images/dbpediaAutocomplete.png
 ---
 
 On the [DBPedia](http://dbpedia.org/) [discussion mailing list](https://lists.sourceforge.net/lists/listinfo/dbpedia-discussion) there was a post on a
 nice web page which allows you to look up things, and which features a autocomplete edit field. The below screenshot show lookup of molecular structures:
 
-![](/blog/assets/images/dbpediaAutocomplete.png)
+![](/assets/images/dbpediaAutocomplete.png)
 
 If you are not ware of this, adding content to DBPedia is as easy as adding something to [WikiPedia](http://www.wikipedia.org/). Literally: DBPedia is
 the [RDF](http://en.wikipedia.org/wiki/Resource_Description_Framework) flavour of WikiPedia. It extracts the information from the info boxes, as I
