@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Programming in the Life Sciences #10: JavaScript Object Notation (JSON)"
-date:   2013-10-30
+date:   2013-10-30 00:10
 modified_date: 2025-02-15
 doi: 10.59350/xdnrb-rrc91
 blogger-link: https://chem-bla-ics.blogspot.com/2013/10/programming-in-life-sciences-10.html
