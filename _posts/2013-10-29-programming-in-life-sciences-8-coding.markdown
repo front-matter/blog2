@@ -4,7 +4,7 @@ title:  "Programming in the Life Sciences #8: coding standards"
 date:   2013-10-29
 modified_date: 2025-02-16
 doi: 10.59350/ckryb-b4v19
-blogger-link: https://chem-bla-ics.blogspot.com/2013/10/programming-in-life-sciences-8-coding.html?q=programming+in+the+life+sciences
+blogger-link: https://chem-bla-ics.blogspot.com/2013/10/programming-in-life-sciences-8-coding.html
 tags: pra3006 justdoi:10.1371/journal.pcbi.1002802 justdoi:10.1371/journal.pcbi.1003285
 ---
 
