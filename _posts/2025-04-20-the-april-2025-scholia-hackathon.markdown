@@ -4,7 +4,7 @@ title:  "The April 2025 Scholia hackathon"
 date:   2025-04-20
 modified_date: 2025-04-20 14:58
 doi: 10.59350/d79ep-rzd32
-tags: scholia javascript SPARQL
+tags: scholia javascript sparql
 grants:
   - grant:
     title: "To support development on Scholia, a software tool to facilitate the exploration and curation of the research literature"
