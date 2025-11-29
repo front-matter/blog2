@@ -14,11 +14,15 @@ ui = new net.bioclipse.managers.UIManager("..");
 
 mappings = [
   "2021/06/conflict-of-interest-or-why-i-am.html": "2021/06/11/conflict-of-interest-or-why-i-am.html",
+  "2009/02/dbpedia-enters-rdfopenmoleculesnet.html": "2009/02/17/dbpedia-enters-rdfopenmoleculesnet.html",
+  "2009/02/dbpedia-lookup-and-autocomplete-of.html": "2009/02/dbpedia-lookup-and-autocomplete-of.html",
+  "2009/02/solubility-data-in-bioclipse-2-handling.html": "2009/02/22/solubility-data-in-bioclipse-2-handling.html",
   "2009/08/bioclipse-and-sparql-end-points.html": "2009/08/16/bioclipse-and-sparql-end-points.html",
   "2009/01/calling-xmpp-cloud-services-from.html": "2009/01/19/calling-xmpp-cloud-services-from.html",
   "2009/01/bioclipse-and-gist-integration.html": "2009/01/16/bioclipse-and-gist-integration.html",
   "2008/12/editing-and-validation-of-cml-documents.html": "2008/12/30/editing-and-validation-of-cml-documents.html",
   "2008/12/who-says-java-is-not-fast.html": "2008/12/04/who-says-java-is-not-fast.html",
+  "2008/11/solubility-data-in-bioclipse-1.html": "2008/11/18/solubility-data-in-bioclipse-1.html",
   "2008/11/re-open-source-peer-review.html": "2008/11/12/re-open-source-peer-review.html",
   "2008/11/opendatasourcestandards-is-not-enough.html": "2008/11/07/opendatasourcestandards-is-not-enough.html",
   "2008/11/next-generation-asynchronous.html": "2008/11/04/next-generation-asynchronous.html",

@@ -6,14 +6,15 @@ blogger-link: https://chem-bla-ics.blogspot.com/2009/03/autogenerating-cml-bindi
 doi: 10.59350/et43s-kc120
 tags: cml java ubuntu xml xmpp
 image: /assets/images/ppa.png
+modified_date: 2025-11-29
 ---
 
 I blogged earlier about our efforts to create a better [SOAP](http://en.wikipedia.org/wiki/SOAP)
 service architecture, based on [XMPP](http://en.wikipedia.org/wiki/Jabber):
 
 * [Details behind the "Calling XMPP cloud services from Taverna2"](http://chem-bla-ics.blogspot.com/2009/01/details-behind-calling-xmpp-cloud.html)
-* [Calling XMPP cloud services from Taverna2](http://chem-bla-ics.blogspot.com/2009/01/calling-xmpp-cloud-services-from.html)
-* [Next generation asynchronous webservices](http://chem-bla-ics.blogspot.com/2008/10/next-generation-asynchronous.html)
+* [Calling XMPP cloud services from Taverna2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/01/19/calling-xmpp-cloud-services-from.html)
+* [Next generation asynchronous webservices <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/10/31/next-generation-asynchronous.html)
 
 So, I set up XMPP services for QSAR descriptor calculation, 2D diagram and 3D geometry
 calculations and a few more, using the [CDK](http://cdk.sf.net/).

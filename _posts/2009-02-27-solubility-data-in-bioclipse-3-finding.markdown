@@ -5,10 +5,11 @@ date:   2009-02-27
 blogger-link: https://chem-bla-ics.blogspot.com/2009/02/solubility-data-in-bioclipse-3-finding.html
 doi: 10.59350/gh3np-xbm68
 tags: gist sparql rdf chebi
+modified_date: 2025-11-29
 ---
 
 With the RDF functionality set up in [Bioclipse](http://www.bioclipse.net/) (see
-[Solubility Data in Bioclipse #2: handling RDF](http://chem-bla-ics.blogspot.com/2009/02/solubility-data-in-bioclipse-2-handling.html)),
+[Solubility Data in Bioclipse #2: handling RDF <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/02/22/solubility-data-in-bioclipse-2-handling.html)),
 we can start mining the Chemical RDF space. Check out this mashup:
 
 <script src="https://gist.github.com/egonw/71677.js"></script>
@@ -17,7 +18,7 @@ What happens in this script is the following:
 
 1. Load the ONS Solubility data (line 4-5)
 2. ask for all owl:sameAs relations to navigate (line 8-14)
-3. load the RDF for the [rdf.openmolecule.net](http://chem-bla-ics.blogspot.com/2009/02/dbpedia-enters-rdfopenmoleculesnet.html) resources (line 16-26)
+3. load the RDF for the [rdf.openmolecule.net <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/02/17/dbpedia-enters-rdfopenmoleculesnet.html) resources (line 16-26)
 4. query for all solvents which have an [ChEBI](http://www.ebi.ac.uk/chebi/) identifier (line 28-38)
 
 The output will look like the following (in the future this will be opened as spreadsheet in Bioclipse):
