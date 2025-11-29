@@ -14,10 +14,14 @@ ui = new net.bioclipse.managers.UIManager("..");
 
 mappings = [
   "2021/06/conflict-of-interest-or-why-i-am.html": "2021/06/11/conflict-of-interest-or-why-i-am.html",
+  "2009/08/bioclipse-and-sparql-end-points.html": "2009/08/16/bioclipse-and-sparql-end-points.html",
   "2009/02/dbpedia-enters-rdfopenmoleculesnet.html": "2009/02/17/dbpedia-enters-rdfopenmoleculesnet.html",
   "2009/02/dbpedia-lookup-and-autocomplete-of.html": "2009/02/dbpedia-lookup-and-autocomplete-of.html",
   "2009/02/solubility-data-in-bioclipse-2-handling.html": "2009/02/22/solubility-data-in-bioclipse-2-handling.html",
-  "2009/08/bioclipse-and-sparql-end-points.html": "2009/08/16/bioclipse-and-sparql-end-points.html",
+  "2009/02/bioclipse-for-cdk-developers-1.html": "2009/02/15/bioclipse-for-cdk-developers-1.html",
+  "2009/02/cdk-12-release-candidate.html": "2009/02/10/cdk-12-release-candidate.html",
+  "2009/02/solubility-data-in-bioclipse-3-finding.html": "2009/02/27/solubility-data-in-bioclipse-3-finding.html",
+  "2009/01/details-behind-calling-xmpp-cloud.html": "2009/01/21/details-behind-calling-xmpp-cloud.html",
   "2009/01/calling-xmpp-cloud-services-from.html": "2009/01/19/calling-xmpp-cloud-services-from.html",
   "2009/01/bioclipse-and-gist-integration.html": "2009/01/16/bioclipse-and-gist-integration.html",
   "2008/12/editing-and-validation-of-cml-documents.html": "2008/12/30/editing-and-validation-of-cml-documents.html",

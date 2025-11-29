@@ -16,4 +16,4 @@ It's first of several steps to extend rdf.openmolecules.net to link up various c
 ![](/assets/images/ons.png)
 
 Drugs are still missing, but will add those too, and since not all entries had InChIs, SMILES were converted using
-[CDK 1.1.5](http://chem-bla-ics.blogspot.com/2009/02/cdk-12-release-candidate.html).
+[CDK 1.1.5 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/02/10/cdk-12-release-candidate.html).

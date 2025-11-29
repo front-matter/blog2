@@ -23,4 +23,4 @@ Earlier in this series:
 * [Bioclipse2 Scripting #1: from SMILES to a UFF optimized structure in Jmol <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/10/25/bioclipse2-scripting-1-from-smiles-to.html)
 * [Next generation asynchronous webservices #2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/11/04/next-generation-asynchronous.html)
 * [Scripting JChemPaint <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/11/20/scripting-jchempaint.html)
-* [Bioclipse for CDK Developers #1](http://chem-bla-ics.blogspot.com/2009/02/bioclipse-for-cdk-developers-1.html)
+* [Bioclipse for CDK Developers #1 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/02/15/bioclipse-for-cdk-developers-1.html)

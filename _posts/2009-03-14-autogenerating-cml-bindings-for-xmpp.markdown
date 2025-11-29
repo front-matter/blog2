@@ -12,7 +12,7 @@ modified_date: 2025-11-29
 I blogged earlier about our efforts to create a better [SOAP](http://en.wikipedia.org/wiki/SOAP)
 service architecture, based on [XMPP](http://en.wikipedia.org/wiki/Jabber):
 
-* [Details behind the "Calling XMPP cloud services from Taverna2"](http://chem-bla-ics.blogspot.com/2009/01/details-behind-calling-xmpp-cloud.html)
+* [Details behind the "Calling XMPP cloud services from Taverna2" <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/01/21/details-behind-calling-xmpp-cloud.html)
 * [Calling XMPP cloud services from Taverna2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/01/19/calling-xmpp-cloud-services-from.html)
 * [Next generation asynchronous webservices <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/10/31/next-generation-asynchronous.html)
 

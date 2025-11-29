@@ -5,10 +5,11 @@ date:   2009-03-01
 blogger-link: https://chem-bla-ics.blogspot.com/2009/03/solubility-data-in-bioclipse-4-finding.html
 doi: 10.59350/j770h-q642
 tags: sparql chebi bioclipse
+modified_date: 2025-11-29
 ---
 
 Those who carefully analyzed the second SPARQL query in
-[Solubility Data in Bioclipse #3: Finding ChEBI IDs](http://chem-bla-ics.blogspot.com/2009/02/solubility-data-in-bioclipse-3-finding.html)
+[Solubility Data in Bioclipse #3: Finding ChEBI IDs <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/02/27/solubility-data-in-bioclipse-3-finding.html)
 will have noticed the use of *owl:sameAs*. Those who did not, here's the query again:
 
 ```sparql
