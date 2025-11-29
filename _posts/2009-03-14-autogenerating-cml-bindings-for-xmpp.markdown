@@ -5,7 +5,7 @@ date:   2009-03-14
 blogger-link: https://chem-bla-ics.blogspot.com/2009/03/autogenerating-cml-bindings-for-xmpp.html
 doi: 10.59350/et43s-kc120
 tags: cml java ubuntu xml xmpp
-image: /blog/assets/images/ppa.png
+image: /assets/images/ppa.png
 ---
 
 I blogged earlier about our efforts to create a better [SOAP](http://en.wikipedia.org/wiki/SOAP)
@@ -58,7 +58,7 @@ download.
 Conclusion: a perfect opportunity to finally gives this a try. The learning curve was
 surprisingly shallow, and the result can be seen in [my personal package archive](https://launchpad.net/~egonw/+archive/ppa):
 
-![](/blog/assets/images/ppa.png)
+![](/assets/images/ppa.png)
 
 Now, you can easily imagine that I will soon work on packaging stuff I did in the past too, such
 as update [libcdk-java](http://packages.ubuntu.com/jaunty/libcdk-java) and now that OpenJDK in

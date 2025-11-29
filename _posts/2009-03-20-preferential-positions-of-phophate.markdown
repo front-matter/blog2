@@ -6,7 +6,7 @@ modified_date: 2025-11-19
 blogger-link: https://chem-bla-ics.blogspot.com/2009/03/preferential-positions-of-phophate.html
 doi: 10.59350/e7wjx-fvr63
 tags: chemistry jmol justdoi:10.1038/nchem.100 justdoi:10.3233/CMI-2014-000003
-image: /blog/assets/images/phosphateSalt.png
+image: /assets/images/phosphateSalt.png
 ---
 
 A long time ago ('96 or so?), as a student with the no longer existing CAOS/CAMM (Google shows some traces, like
@@ -24,4 +24,4 @@ Well, bringing back good memories to that internship I mentioned, [the 3D model]
 shown by [Jmol](http://www.jmol.org/) actually does show the salt, and with the two sodiums near the phosphate;
 even better, they sit at very recognisable positions :)
 
-![](/blog/assets/images/phosphateSalt.png)
+![](/assets/images/phosphateSalt.png)
