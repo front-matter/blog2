@@ -5,10 +5,10 @@ date:   2025-11-30
 doi: 10.59350/s7vw2-r7y02
 tags: wikipathways curation
 image: /assets/images/wpCurationBadge.png
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 115638983457361432
 ---
 
 I have been running automated curation tests for many years now, at least [from before 2018](https://chem-bla-ics.linkedchemistry.info/2018/10/11/two-presentations-at-wikipathways-2018.html).
