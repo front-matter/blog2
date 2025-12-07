@@ -7,9 +7,10 @@ doi: 10.59350/kzzbq-02828
 tags: cb cheminf cml userscript publishing rdf jcheminf justdoi:10.1186/1758-2946-1-2 justdoi:10.1186/1758-2946-1-3
   doi:10.1186/1471-2105-8-487
 image: /assets/images/cbStillWorks.png
+modified_date: 2025-12-07
 ---
 
-Besides [Nature Chemistry](http://chem-bla-ics.blogspot.com/2009/03/nature-chemistry-improves-publishing.html), another journal was launched last week (see
+Besides [Nature Chemistry <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/03/19/nature-chemistry-improves-publishing.html), another journal was launched last week (see
 [here](http://www.steinbeck-molecular.de/steinblog/index.php/2009/03/17/open-access-journal-of-cheminformatics-now-live/) and
 [here](http://blogs.openaccesscentral.com/blogs/ccblog/entry/journal_of_cheminformatics_publishes_launch)): the
 [Journal of Cheminformatics](http://www.jcheminf.com/). First of all, congratulations to [Chris](http://www.steinbeck-molecular.de/steinblog/)
@@ -27,7 +28,7 @@ Peter had a [detailed blog](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=1326) a
 > metrics and almost always irreproducible results and conclusions which are based on subjective opinions.
 
 I strongly agree with this observation, and have discussed my view on this in
-[my thesis](http://chem-bla-ics.blogspot.com/2008/03/todo-april-2nd-defend-my-phd-work.html) (send me an email if you
+[my thesis <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/03/01/todo-april-2nd-defend-my-phd-work.html) (send me an email if you
 want a copy).
 
 So, what has the journal to say about this (see [Instructions to the Author](http://www.jcheminf.com/info/instructions/),
@@ -42,7 +43,7 @@ of reuse of data. I also note that I cannot upload data in the [Open Document Fo
 or, hey, let's really push things, in [RDF](http://en.wikipedia.org/wiki/Resource_Description_Framework). Well, not according to
 the Instructions. And surely, I can put the [O|R]DF in the supplementary information, anyway. It would also be nice if I could
 use Jmol as an applet to enrich the graphics, and improve data reusability of the paper, like the
-[RSC recently started to allow](http://chem-bla-ics.blogspot.com/2009/01/rsc-now-allows-jmol-in-main-text-of.html).
+[RSC recently started to allow <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/01/19/rsc-now-allows-jmol-in-main-text-of.html).
 
 Regarding the supplementary information, there is a section on *additional files*, which, unconveniently are capped at
 20MB size. No mention of chemical formats at all, neither any recommendation on semantic formats like

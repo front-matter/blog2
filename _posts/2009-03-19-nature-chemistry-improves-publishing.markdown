@@ -2,7 +2,7 @@
 layout: post
 title:  "Nature Chemistry improves publishing chemistry: a detailed analysis"
 date:   2009-03-19
-modified_date: 2025-08-26
+modified_date: 2025-12-07
 doi: 10.59350/40377-hz881
 image: /assets/images/nchem4.png
 blogger-link: https://chem-bla-ics.blogspot.com/2009/03/nature-chemistry-improves-publishing.html
@@ -117,7 +117,7 @@ experimental section bits in a PDF document. So, the next challenge for Nature C
 will be to get the authors of papers contribute the original spectra (JCAMP-DX, CMLSpect,
 etc) in the supplementary information section. Better, have the raw data or even the NMR
 peak-atom annotations deposited in public repositories such (see 
-[Open NMR data: raw curves and annotated peak lists](http://chem-bla-ics.blogspot.com/2009/03/open-nmr-data-raw-curves-and-annotated.html)).
+[Open NMR data: raw curves and annotated peak lists <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/03/04/open-nmr-data-raw-curves-and-annotated.html)).
 
 All in all, I am rather positive about the first Nature Chemistry issue, and like to
 thank the editors and paper authors for there efforts on improving publishing chemistry!
