@@ -5,14 +5,14 @@ date:   2009-04-05
 blogger-link: https://chem-bla-ics.blogspot.com/2009/04/cdk-documentation.html
 doi: 10.59350/rzwcr-mq411
 tags: cdk cdkbook
-image: /blog/assets/images/cdkbook.png
+image: /assets/images/cdkbook.png
 ---
 
 In preparation for the [CDK workshop](http://www.steinbeck-molecular.de/steinblog/index.php/2009/02/17/cdk-workshop-at-ebi-on-april-2021/) later this
 month, I am writing up my material for my kick-off presentation of the workshop. So, I better make it good. Using LaTeX at least overcomes my laziness
 which always made Word documents look stupid. Even default LaTeX looks good:
 
-![](/blog/assets/images/cdkbook.png)
+![](/assets/images/cdkbook.png)
 
 Clearly, any such documentation becomes quickly outdated, in particular when source code fragments are involved. Yes,
 [CDK 1.2](http://sourceforge.net/mailarchive/forum.php?thread_name=6aeb064b0903130006j2a71a94execd2f09209cd668%40mail.gmail.com&forum_name=cdk-user) is

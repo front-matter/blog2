@@ -6,7 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2009/03/journal-of-cheminformati
 doi: 10.59350/kzzbq-02828
 tags: cb cheminf cml userscript publishing rdf jcheminf justdoi:10.1186/1758-2946-1-2 justdoi:10.1186/1758-2946-1-3
   doi:10.1186/1471-2105-8-487
-image: /blog/assets/images/cbStillWorks.png
+image: /assets/images/cbStillWorks.png
 ---
 
 Besides [Nature Chemistry](http://chem-bla-ics.blogspot.com/2009/03/nature-chemistry-improves-publishing.html), another journal was launched last week (see
@@ -83,10 +83,10 @@ script in particular, does the hard work (needs GreaseMonkey, the script can be 
 [Noel's original post](http://baoilleach.blogspot.com/2007/04/add-quotes-from-postgenomic-and.html)). This way,
 we can read the comments when we visit the [papers homepage](http://www.jcheminf.com/content/1/1/3):
 
-![](/blog/assets/images/cbStillWorks.png)
+![](/assets/images/cbStillWorks.png)
 
 Now, the script has not yet been updated for the new journal (Noel, can you please upload the revision?), so you need
 to edit the source right now and add `http://*.jcheminf.com/*` to the list of website the script acts on:
 
-![](/blog/assets/images/cbStillWorks1.png)
+![](/assets/images/cbStillWorks1.png)
 
