@@ -2,6 +2,7 @@
 layout: post
 title:  "CDK - The Documentation"
 date:   2009-04-05
+modified_date: 2025-12-09
 blogger-link: https://chem-bla-ics.blogspot.com/2009/04/cdk-documentation.html
 doi: 10.59350/rzwcr-mq411
 tags: cdk cdkbook
@@ -20,6 +21,7 @@ API stable, but only for the core classes. Moreover, I hope that the documentati
 
 Therefore, I need to source code fragments compilable. R has the magnificent [Sweave](http://www.stat.umn.edu/~charlie/Sweave/), and I wanted for a
 long time something similar. While I do not have something that powerful yet, at least my current set up allows me have code that both compiles and
-embeds in the LaTeX. The system allows me to write both Java application code as BeanShell scripts. No clue yet what I will use in the workshop,
+embeds in the LaTeX. The system allows me to write both Java application code as
+[BeanShell](https://en.wikipedia.org/wiki/BeanShell) scripts. No clue yet what I will use in the workshop,
 maybe even both. Like Sweave, it even saves output, and I can include that in the LaTeX source too. The code fragments can either go in as a verbatim
 section, or as a listing, depending on what I find more appropriate.
