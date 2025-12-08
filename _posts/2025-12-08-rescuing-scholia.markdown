@@ -27,7 +27,7 @@ that endpoint will be sunset. And we are **not** ready.
 Daniel and Lane have been leading an effort to rescue Scholia. The hackathons were part of this effort. It seems
 that [QLever](https://en.wikipedia.org/wiki/QLever) is the only route left. Earlier efforts to rewrite the more
 than 350 Scholia SPARQL queries to support the graph split have basically failed. The complexity is far too high.
-QLever, however, provides the full graph and since recently full SPARQL 1.1 support. That is also enough to
+QLever, however, provides the full graph and since recently full SPARQL 1.1 support. That is also not enough to
 reproduce the full Scholia functionality, but it seems to get us far.
 Importantly, the data may not update as frequently as the [WDQS](https://www.mediawiki.org/wiki/Wikidata_Query_Service),
 and that is another complexity to take into account. Particularly, all the 404 pages.
