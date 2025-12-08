@@ -4,10 +4,10 @@ title:  "Rescuing Scholia: will we make it in time?"
 date:   2025-12-08
 doi: 10.59350/yh369-rr787
 tags: scholia wikidata rdf sparql
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 115682764032261299
 ---
 
 What [started out in 2016 on Twitter](https://chem-bla-ics.linkedchemistry.info/2023/01/27/scholia-timeline.html) became a
