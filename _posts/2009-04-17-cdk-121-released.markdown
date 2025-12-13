@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "CDK 1.2.1 Released"
+date:   2009-04-17
+blogger-link: https://chem-bla-ics.blogspot.com/2009/04/cdk-121-released.html
+doi: 10.59350/zpbzd-vh907
+tags: cdk
+---
+
+I just released [CDK](http://cdk.sf.net/) 1.2.1 (aka *The CDK Workshop 2009 Release*), which is now available for
+[download from SourceForge](https://sourceforge.net/project/showfiles.php?group_id=20024&package_id=35118&release_id=676514).
+The source can be found in [our Git repository](http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk;a=log;h=130689aea6f054a55ddf45814f42d23d5ca79d78).
+The changes since 1.2.0 are mostly bug fixing, new unit tests, and minor clean up here and there:
+
+```
+Fixed bug 2714283, which properly throws an exception when rings are not closed properly. If a ring is not closed with the appropriate ring number, InvalidSmilesException is thrown. Matches Daylight behavior
+Fixed bug 2729120 and added unit test
+Updated comment to fix bug 2768643.
+Partial fix for bug 2719237. Made getBondOrderSum static, added unit test for it
+Typo: proteinl -> protein
+Made class public, to unbreak adding it to the build/*.javafiles
+Partially fixed SMARTS matching for R0. Updated target molecule initialization to explicitly indicate atoms not in a ring and also updated RingMembership atom to do an explicit check when R0 is specified. Partially fixes bug 2587204
+Fixed dubious equality test. A private method was checking Double objects via reference. Worked fine when they were null. Fails when we need to compare by value. Code is updated to take it into account. Added unit test (and made the method protected so that it can be tested)
+Added test method annotation. Completes coverage for data module
+Refactored ChiIndexUtils to make it package private. Cleans up public API, since it is only used by chi descriptor code. Updated all dependent classes. Moved test code (which needs to be filled in!) as well
+Code cleanup of ChiIndexUtils. Converted to 1.5 idioms
+Clean up of PathTools and added test method annotation, so that core is completely covered
+Fixed the previous commit to edit the cdk.keyword line, not the cdk.module line
+More consistent keywords used
+Added a test to ensure that Integer objects are compared by value rather than reference
+Added a test case to check that atom container diffs are correct when using deserialized objects
+Fixed IntegerDifference so that it actually checks the integer value rather than references of the Integer object. Fixes the problem whereby an object serialized to disk and then deserialized does not match the original object (i.e., non empty diff string)
+Applied patch #2675819 (Stefan Kuhn): Patch to add a removeReaction to reactionSet
+Use interface instead of implementation
+Removed an unused import
+Use IAtomContainer instead of IMolecule, as the actual matching is using IAtomContainers already (fixes #2686249)
+Fixed a ClassCastException (fixes #2685134)
+Added source attrib to fix building the Ubuntu .deb
+Fixed Help build system: use doclet jars in develjar/; updated for new src folder src/main; removed very outdated use of rt.jar
+Removed libdepends include for test-ioformats, which does not actually have libdepends
+Updated so that if a target atom has no symbol (such as pseudo atoms) the match returns false (rather than an NPE)
+Fixed proper handling of #n SMARTS querys
+Added test case for bug 2686473
+Added note on Ant 1.7.1 required
+Fixed a NPE source: 'null == 2' causes an exception, so first test for nullness
+Fixed copyright notice for 2009
+Fixed duplicate storage of layout templates, which only belong in the sdg module, not extra module too
+Merge branch 'local1.2' of ../../git-svn/cdk
+```
+
+Thanx for all who reported bug reports!
