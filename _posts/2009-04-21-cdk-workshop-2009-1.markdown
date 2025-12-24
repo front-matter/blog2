@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "CDK Workshop 2009 #1"
+date:   2009-04-21
+blogger-link: https://chem-bla-ics.blogspot.com/2009/04/cdk-workshop-2009-1.html
+doi: 10.59350/2k1q0-9cz22
+tags: cdk
+image: /blog/assets/images/DSCI0007.JPG
+---
+
+Coverage on [Planet CDK](http://pele.farmbio.uu.se/planetcdk/), Twitter [#cdkws2009](http://search.twitter.com/search?q=%23cdkws2009),
+Friend Feed's [CDK room](http://friendfeed.com/rooms/chemistry-development-kit), and on this Wiki page.
+[Chris](http://www.steinbeck-molecular.de/steinblog/index.php/2009/04/20/egons-introductory-talk-about-getting-started-with-cdk/)
+[blogged](http://www.steinbeck-molecular.de/steinblog/index.php/2009/04/20/mark-rijnbeeks-talk-about-cdk-and-databases/)
+[too](http://www.steinbeck-molecular.de/steinblog/index.php/2009/04/20/ola-spjuth-talks-about-accessing-and-scripting-cdk-from-bioclipse/).
+
+![](/blog/assets/images/DSCI0007.JPG)
