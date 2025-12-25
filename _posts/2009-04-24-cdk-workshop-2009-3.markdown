@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "CDK Workshop 2009 #3"
+date:   2009-04-24
+blogger-link: https://chem-bla-ics.blogspot.com/2009/04/cdk-workshop-2009-3.html
+doi: 10.59350/j5hd2-45306
+tags: cdk
+---
+
+Last of my writing on the [CDK Workshop](http://apps.sourceforge.net/mediawiki/cdk/index.php?title=CDK_Workshop_2009). It was great fun meeting all the CDK developers
+and users, and thanx to everyone for all that they contributed, in particular during the unconference part! Yesterday, I had a travel day, and slept 12 hours in one
+go last nite. This leaves me with a long list of follow emails, CDK patches and many other things to catch up with. But it was more than worth it.
+
+In the next months, we will say which conversations during the workshop will lead to fruitful collaborations and new CDK contributions. I already have a patch around
+for `@cdk.threadsafe` and `@cdk.threadnonsafe` in reply to the [Threading](http://apps.sourceforge.net/mediawiki/cdk/index.php?title=Threading_group)
+session at the unconference, which I'll ask Rajarshi to review.
+
+Earlier in this series:
+
+* [CDK Workshop 2009 #2](http://chem-bla-ics.blogspot.com/2009/04/cdk-workshop-2009-2.html)
+* [CDK Workshop 2009 #1](http://chem-bla-ics.blogspot.com/2009/04/cdk-workshop-2009-1.html)
+* [My CDK Workshop 2009 Course Material #2](http://chem-bla-ics.blogspot.com/2009/04/my-cdk-workshop-2009-course-material-2.html)
+* [My CDK Workshop 2009 Course Material](http://chem-bla-ics.blogspot.com/2009/04/my-cdk-workshop-2009-course-material.html)

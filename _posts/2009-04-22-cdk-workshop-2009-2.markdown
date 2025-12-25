@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "CDK Workshop 2009 #2"
+date:   2009-04-22
+blogger-link: https://chem-bla-ics.blogspot.com/2009/04/cdk-workshop-2009-2.html
+doi: 10.59350/77t7v-1ed64
+tags: cdk jchempaint
+image: /blog/assets/images/unconf2.jpg
+---
+
+The second CDK Workshop day started off with application presentations, which are well covered by Chris' blog posts:
+
+* [John van Drie’s talk on CDK in Virtual Drug Discovery](http://www.steinbeck-molecular.de/steinblog/index.php/2009/04/21/john-van-dries-talk-on-cdk-in-virtual-drug-discovery/),
+* [Asad Rahman on Small molecules and reaction mechanism - Rewiring the enzyme space](http://www.steinbeck-molecular.de/steinblog/index.php/2009/04/21/asad-rahman-on-small-molecules-and-reaction-mechanism-rewiring-the-enzyme-space/), and
+* [Oliver Karch about Molwind - Using CDK to Visualize Molecule Spaces in a Geospatial Context](http://www.steinbeck-molecular.de/steinblog/index.php/2009/04/21/oliver-karch-about-molwind-using-cdk-to-visualize-molecule-spaces-in-a-geospatial-context/).
+
+You can also find [coverage on Twitter](http://search.twitter.com/search?q=%23cdkws2009) by
+[Jim](http://wwmm.ch.cam.ac.uk/blogs/downing/) and [Nico](http://wwmm.ch.cam.ac.uk/blogs/adams/).
+
+The afternoon we had a more development-oriented [unconference](http://en.wikipedia.org/wiki/Unconference). It was a bit exciting for me and
+[Chris](http://www.steinbeck-molecular.de/steinblog/) as previous such sessions at CDK workshops involved 5 to 10 participants instead some
+20+ now, but things nicely self-organized into 5 sessions:
+
+![](/blog/assets/images/unconf1.jpg)
+
+![](/blog/assets/images/unconf2.jpg)
+
+![](/blog/assets/images/unconf3.jpg)
+
+In words, and linking to the coverage in the CDK wiki:
+
+* [JChemPaint/Rendering](http://apps.sourceforge.net/mediawiki/cdk/index.php?title=JChemPaint/Rendering)
+* [Mining ChEMBL with CDK pharmacophore stuff](http://apps.sourceforge.net/mediawiki/cdk/index.php?title=Mining_ChEMBL_with_CDK_pharmacophore_stuff)
+* [Threading group](http://apps.sourceforge.net/mediawiki/cdk/index.php?title=Threading_group)
+* [Top 10 improvements (CDK WS 2009 unconference)](http://apps.sourceforge.net/mediawiki/cdk/index.php?title=Top_10_improvements_%28CDK_WS_2009_unconference%29)
+* [Clojure](http://apps.sourceforge.net/mediawiki/cdk/index.php?title=Clojure) (see also Jim's blog [2D Molecule Diagrams in Clojure](http://wwmm.ch.cam.ac.uk/blogs/downing/?p=310))
