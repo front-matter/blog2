@@ -5,10 +5,10 @@ date:   2025-12-29
 doi: 10.59350/g30ef-gxm10
 tags: justdoi:10.1109/eScience.2018.00016 justdoi:10.1109/eScience.2018.00013 cdk openscience
 image: /assets/images/rsd.png
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 115802691050459658
 ---
 
 > Research software is an integral part of scientific investigations.
