@@ -5,6 +5,7 @@ date:   2009-04-15 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2009/04/bioclipse2-scripting-3-xlogp.html
 doi: 10.59350/gt05b-5mq25
 tags: xmpp cdk bioclipse
+modified_date: 2025-12-29
 ---
 
 In preparation of the [CDK workshop](https://apps.sourceforge.net/mediawiki/cdk/index.php?title=CDK_Workshop_2009) next week, here is a small
@@ -15,5 +16,5 @@ using the a CDK-based [XMPP service](http://chem-bla-ics.blogspot.com/search?q=x
 
 Earlier in this series:
 
-* [Bioclipse2 Scripting #1: from SMILES to a UFF optimized structure in Jmol](http://chem-bla-ics.blogspot.com/2008/10/bioclipse2-scripting-1-from-smiles-to.html)
+* [Bioclipse2 Scripting #1: from SMILES to a UFF optimized structure in Jmol <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/10/25/bioclipse2-scripting-1-from-smiles-to.html)
 * [Bioclipse2 Scripting #2: searching PubChem](http://chem-bla-ics.blogspot.com/2009/02/bioclipse2-scripting-2-searching.html)

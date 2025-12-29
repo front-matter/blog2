@@ -6,6 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2009/04/new-friendfeed-layout-bu
 doi: 10.59350/0cybr-c0g39
 tags: frienfeed javascript doi:10.1186/1471-2105-8-487
 image: /assets/images/cleanFF.png
+modified_date: 2025-12-29
 ---
 
 [FriendFeed](http://friendfeed.com/) is the missing link between social [bookmarking|news|...] and [IRC](http://en.wikipedia.org/wiki/Internet_Relay_Chat)
@@ -16,7 +17,7 @@ the layout is a bit too colourful for my taste.
 
 Fortunately, [Neil](http://nsaunders.wordpress.com/) posted [three very useful](http://friendfeed.com/neilfws/3c83a2e5/my-beta-ff-greasemonkey-suite-is-complete)
 [GreaseMonkey](http://en.wikipedia.org/wiki/Greasemonkey) script to clean stuff (and since I use those to link science databases and resources anyway, see
-[Christmas Presents](http://chem-bla-ics.blogspot.com/2007/12/christmas-presents.html) and
+[Christmas Presents <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/12/21/christmas-presents.html) and
 DOI:[10.1186/1471-2105-8-487](http://dx.doi.org/10.1186/1471-2105-8-487)): [FriendFeed Service Icons](http://userscripts.org/scripts/show/46187#),
 [Cleaner FriendFeed](http://userstyles.org/styles/16747), and [Remove avatars from Friendfeed beta](http://userstyles.org/styles/16763).
 The last may require the script target websites to no longer point to the beta server, but the real thing. However, by the time you read this,

@@ -14,6 +14,7 @@ ui = new net.bioclipse.managers.UIManager("..");
 
 mappings = [
   "2021/06/conflict-of-interest-or-why-i-am.html": "2021/06/11/conflict-of-interest-or-why-i-am.html",
+  "2020/11/cito-updates-1-first-research-paper-in.html": "2020/11/01/cito-updates-1-first-research-paper-in.html",
   "2009/08/bioclipse-and-sparql-end-points.html": "2009/08/16/bioclipse-and-sparql-end-points.html",
   "2009/03/nature-chemistry-improves-publishing.html": "2009/03/19/nature-chemistry-improves-publishing.html",
   "2009/03/open-nmr-data-raw-curves-and-annotated.html": "2009/03/04/open-nmr-data-raw-curves-and-annotated.html",
@@ -62,6 +63,7 @@ mappings = [
   "2007/11/be-in-my-advisory-board-1-being-good.html": "2007/11/27/be-in-my-advisory-board-1-being-good.html",
   "2007/11/metware-metabolomics-database-project.html": "2007/11/22/metware-metabolomics-database-project.html",
   "2007/11/molecules-in-wikipedia-without-inchis-3.html": "2007/11/16/molecules-in-wikipedia-without-inchis-3.html",
+  "2007/10/one-billion-biochemical-rdf-triples.html": "2007/10/24/one-billion-biochemical-rdf-triples.html",
   "2007/07/osra-gpl-ed-molecule-drawing-to-smiles.html": "2007/07/20/osra-gpl-ed-molecule-drawing-to-smiles.html",
   "2007/07/atom-typing-in-cdk.html": "2007/07/01/atom-typing-in-cdk.html"
 ]

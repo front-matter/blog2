@@ -15,12 +15,13 @@ grants:
     funder:
       name: "Alfred P. Sloan Foundation"
       ror: 052csg198
+modified_date: 2025-12-29
 ---
 
 During the time of the editorial about the Journal of Cheminformatics
 [Citation Typing Ontology (CiTO) Pilot](https://chem-bla-ics.blogspot.com/2020/07/new-editorial-adoption-of-citation.html)
 I already worked out a model to add CiTO annotation in Wikidata. It looks like this for
-[the first research article with annotation](https://chem-bla-ics.blogspot.com/2020/11/cito-updates-1-first-research-paper-in.html):
+[the first research article with annotation <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2020/11/01/cito-updates-1-first-research-paper-in.html):
 
 ![](/assets/images/cito_in_wikidata.png)
 
