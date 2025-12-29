@@ -5,7 +5,7 @@ date:   2009-05-11
 blogger-link: https://chem-bla-ics.blogspot.com/2009/05/pubchem-cdk.html
 doi: 10.59350/8bpsk-rb857
 tags: cdk pubchem inchikey:QBHDGWNWWIEZOM-UHFFFAOYSA-N
-image: /blog/assets/images/CID3612285.png
+image: /assets/images/CID3612285.png
 ---
 
 [PubChem-CDK](http://pele.farmbio.uu.se/pubchem/) is a project that runs [CDK](http://cdk.sf.net/) code on the [PubChem](http://pubchem.ncbi.nlm.nih.gov/) data.
@@ -21,7 +21,7 @@ and a C<sup>2+</sup> (CID:[161073](http://pele.farmbio.uu.se/pubchem/?cid=161073
 It is really nice way of browsing PubChem, BTW. For example, did you know there are several boron compounds which have a substructure [N+]-[B+]-[N+]? Yes,
 three positive charges, *next* to each other? For example (CID:[3612285](http://pele.farmbio.uu.se/pubchem/?cid=3612285)):
 
-![](/blog/assets/images/CID3612285.png)
+![](/assets/images/CID3612285.png)
 
 Well, neither did I. How was it synthesised? What are the spectral properties? How do they stabilise it? What magic counter ion? PubChem, unfortunately,
 does not have links to primary literature, and there is no free source for that available. A failure in chemistry. The source points to

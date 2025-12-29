@@ -5,7 +5,7 @@ date:   2009-05-04
 blogger-link: https://chem-bla-ics.blogspot.com/2009/05/thesis-and-copyright-transfer.html
 doi: 10.59350/atb3h-1x106
 tags: career
-image: /blog/assets/images/thesisCover.png
+image: /assets/images/thesisCover.png
 ---
 
 [My thesis](http://chem-bla-ics.blogspot.com/2008/03/todo-april-2nd-defend-my-phd-work.html) was *released* slightly over a year ago in print form. The electronic form
@@ -13,7 +13,7 @@ has not yet, which has social and legal barriers. Like many before me, I made th
 with the custom to publish papers in your thesis as is, which means reduction of work for the manuscript committee, as they can know which chapters have undergone
 peer-review in the form they are present in the thesis too. (The layout is different, as I integrated them into the thesis design.)
 
-![](/blog/assets/images/thesisCover.png)
+![](/assets/images/thesisCover.png)
 
 So, my thesis has [six chapters](http://chem-bla-ics.blogspot.com/2008/03/todo-april-2nd-defend-my-phd-work.html) which I cannot redistribute. I am still happy having
 published in the [Journal of Chemical Information and Modeling](http://pubs.acs.org/journal/jcisd8) (formerly *JCICS*), and still review papers for that journal; it

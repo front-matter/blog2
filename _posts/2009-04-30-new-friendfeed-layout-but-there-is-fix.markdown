@@ -5,7 +5,7 @@ date:   2009-04-30
 blogger-link: https://chem-bla-ics.blogspot.com/2009/04/new-friendfeed-layout-but-there-is-fix.html
 doi: 10.59350/0cybr-c0g39
 tags: frienfeed javascript doi:10.1186/1471-2105-8-487
-image: /blog/assets/images/cleanFF.png
+image: /assets/images/cleanFF.png
 ---
 
 [FriendFeed](http://friendfeed.com/) is the missing link between social [bookmarking|news|...] and [IRC](http://en.wikipedia.org/wiki/Internet_Relay_Chat)
@@ -24,4 +24,4 @@ the script may already be updated.
 
 After installing these, my FriendFeed page looks better again:
 
-![](/blog/assets/images/cleanFF.png)
+![](/assets/images/cleanFF.png)

@@ -5,7 +5,7 @@ date:   2009-04-22
 blogger-link: https://chem-bla-ics.blogspot.com/2009/04/cdk-workshop-2009-2.html
 doi: 10.59350/77t7v-1ed64
 tags: cdk jchempaint
-image: /blog/assets/images/unconf2.jpg
+image: /assets/images/unconf2.jpg
 ---
 
 The second CDK Workshop day started off with application presentations, which are well covered by Chris' blog posts:
@@ -21,11 +21,11 @@ The afternoon we had a more development-oriented [unconference](http://en.wikipe
 [Chris](http://www.steinbeck-molecular.de/steinblog/) as previous such sessions at CDK workshops involved 5 to 10 participants instead some
 20+ now, but things nicely self-organized into 5 sessions:
 
-![](/blog/assets/images/unconf1.jpg)
+![](/assets/images/unconf1.jpg)
 
-![](/blog/assets/images/unconf2.jpg)
+![](/assets/images/unconf2.jpg)
 
-![](/blog/assets/images/unconf3.jpg)
+![](/assets/images/unconf3.jpg)
 
 In words, and linking to the coverage in the CDK wiki:
 
