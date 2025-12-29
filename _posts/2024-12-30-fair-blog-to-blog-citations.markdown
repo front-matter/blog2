@@ -49,14 +49,14 @@ So, when [Martin Fenner](https://blog.front-matter.io/author/martin/) and
 [I](https://chem-bla-ics.linkedchemistry.info/2024/12/08/rich-l-apodaca.html)
 [started](https://chem-bla-ics.linkedchemistry.info/2024/12/27/archiving_blogs.html)
 [archiving](https://doi.org/10.53731/3c6pm-xbp04)
-the [Depth-First blog of Rich Apodaca](https://depth-first.com/) to digitally preserve his blog,
+the [Depth-First blog of Rich Apodaca](https://depth-first.com/) to digitally preserve his blog, <!-- keep link -->
 it also automatically gave the blog posts DOIs. This makes the blog more FAIR, just like it does
 for my blog. And being more FAIR, we can use the DOIs for other things too, like blog to blog
 citations with CiTO intent annotation, as nanopublications.
 (Technically, any Springer Nature journal can do this, but they found reasons to not do it.)
 
 So, let's take [this blog post](https://chem-bla-ics.linkedchemistry.info/2024/12/08/rich-l-apodaca.html).
-I have today updated this to not use `depth-first.com` URLs but, following Martin's example, use the DOIs
+I have today updated this to not use `depth-first.com` URLs but, following Martin's example, use the DOIs <!-- keep link -->
 for those posts instead.
 
 And when I make a nanopublication out of this, I can add the citation intent, and then it looks like

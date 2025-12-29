@@ -2,16 +2,16 @@
 layout: post
 title:  "Cheminformatics Benchmark Project #1"
 date:   2008-12-05
+modified_date: 2025-12-19
 blogger-link: https://chem-bla-ics.blogspot.com/2008/12/cheminformatics-benchmark-project-1.html
 doi: 10.59350/wngzb-y3329
-tags: cheminf cdk
-modified_date: 2025-10-11
+tags: cheminf cdk justdoi:10.59350/1ph8m-fj607
 ---
 
 Yesterday's blog about [Who says Java is not fast?!? <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/12/04/who-says-java-is-not-fast.html)
 caused quite some feedback (thanx to all commenters!) with several good points. Of course, a table like that in the cinfony paper
 (see also the comments in the blogs by [Noel](http://baoilleach.blogspot.com/2008/12/cinfony-paper-published-in-chemistry.html)
-(the author) and [Rich](http://depth-first.com/articles/2008/12/04/choose-java-for-speed)). Many things determine why the CDK
+(the author) and [Rich <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/1ph8m-fj607)). Many things determine why the CDK
 might be fastest in that table for SDF iterating. Suggestions have been that OpenBabel and RDKit may be doing much more than simple reading; Java might actually take advantage of the second core for caching file content.
 
 [ZZ](http://www.simbiosys.ca/blog/) observed something I overlooked: calculating the molecular mass in CDK is by far slowest

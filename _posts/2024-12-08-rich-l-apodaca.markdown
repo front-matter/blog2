@@ -14,7 +14,7 @@ image: /assets/images/depth_first.png
 <img src="/assets/images/depth_first.png" style="width: 40%; display: block; margin-left: auto; margin-right: auto; float: right"
      alt="Screenshot of the first Depth-First blog post" />
 If you are into openscience chemistry or chemistry blogging, then you probably heard of
-[Rich Apodaca](https://orcid.org/0000-0003-3855-9427)'s [Depth-First blog](https://depth-first.com/).
+[Rich Apodaca](https://orcid.org/0000-0003-3855-9427)'s [Depth-First blog](https://depth-first.com/). <!-- keep link -->
 Rich [started blogging in 2006 <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/xyp0f-9dt42) but this is not
 how I discovered his work originally. I know that we at least already had contact in 2005,
 because that is when he wrote about an integration between his Octet library and the Chemistry Development Kit
@@ -22,11 +22,11 @@ in the [CDK News](https://sourceforge.net/projects/cdk/files/CDK%20News/) (volum
 *CDKTools: The CDK-Octet Bridge*. In 2006 he [reviewed our use of the Open Journal System for CDK News <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/esgte-mv539).
 
 But I did find we have been blogging about our work a lot. [Searching for Rich](https://www.google.com/search?q=site%3Achem-bla-ics.blogspot.com+rich)
-gives false positives, but plenty of discussions of his work. At the same time, [my name shows up multiple times](https://www.google.com/search?q=site:depth-first.com+egon)
+gives false positives, but plenty of discussions of his work. At the same time, [my name shows up multiple times](https://www.google.com/search?q=site:depth-first.com+egon) <!-- keep link -->
 in Depth-First too. Looking back at our shared history, we find, for example, Rich has blogged a lot about using the
 [Chemistry Development Kit in Ruby <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/50ebs-4zq55).
 
-Rich [blogged about a lot of cheminformatics innovation](https://depth-first.com/articles/). For example,
+Rich [blogged about a lot of cheminformatics innovation](https://depth-first.com/articles/). For example, <!-- keep link -->
 in 2006 [he was working on multi-atom bonding <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/pz3p6-fv247),
 such as in ferrocene, something that is even today not routinely used in cheminformatics. I replied
 to that in [this post](https://chem-bla-ics.linkedchemistry.info/2006/12/30/modern-chemistry-in-cdk-beyond-two.html).
@@ -57,5 +57,5 @@ was very active in open science and [held many patents](https://patents.google.c
 His latest work was about *Balsa: A Compact Line Notation Based on SMILES*
 (see doi:[10.26434/chemrxiv-2022-01ltp](https://doi.org/10.26434/chemrxiv-2022-01ltp)).
 
-The [Depth-First blog](https://depth-first.com/) has a CC-BY 2.0 license and perhaps [Rogue Scholar](https://rogue-scholar.org/)
+The [Depth-First blog](https://depth-first.com/) has a CC-BY 2.0 license and perhaps [Rogue Scholar](https://rogue-scholar.org/) <!-- keep link -->
 can archive it? It helps us remember Rich and his contributions to open science cheminformatics.
