@@ -4,7 +4,7 @@ title:  "Open Data: the Panton Principles"
 date:   2010-02-19
 modified_date: 2025-03-30
 blogger-link: https://chem-bla-ics.blogspot.com/2010/02/open-data-panton-principles.html
-tags: opendata
+tags: opendata nmrshiftdb
 image: /assets/images/panton_is_it_open_data.png
 doi: 10.59350/q5sed-jea02
 ---

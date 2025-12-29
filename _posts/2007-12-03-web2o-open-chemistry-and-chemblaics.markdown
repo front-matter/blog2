@@ -5,7 +5,7 @@ date:   2007-12-03
 modified_date: 2025-07-30
 blogger-link: https://chem-bla-ics.blogspot.com/2007/12/web2o-open-chemistry-and-chemblaics.html
 doi: 10.59350/afvyc-7bq58
-tags: openscience justdoi:10.63485/9emta-f1x80
+tags: openscience justdoi:10.63485/9emta-f1x80 nmrshiftdb
 image: /assets/images/coolestCaptcha.png
 ---
 

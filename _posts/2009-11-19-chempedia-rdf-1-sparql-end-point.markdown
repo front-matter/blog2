@@ -5,7 +5,7 @@ date:   2009-11-19
 modified_date: 2025-02-16
 doi: 10.59350/qfhff-gen31
 blogger-link: https://chem-bla-ics.blogspot.com/2009/11/chempedia-rdf-1-sparql-end-point.html
-tags: rdf sparql chempedia justdoi:10.59350/kprj3-gyg97
+tags: rdf sparql chempedia justdoi:10.59350/kprj3-gyg97 nmrshiftdb
 ---
 
 Well, you might spot a pattern here; yes, another chemical [SPARQL end point](http://pele.farmbio.uu.se/cc0/sparql)

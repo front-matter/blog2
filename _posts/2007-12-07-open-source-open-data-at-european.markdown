@@ -4,7 +4,7 @@ title:  "Open Source, Open Data at the European Bioinformatics Institute"
 date:   2007-12-07
 blogger-link: https://chem-bla-ics.blogspot.com/2007/12/open-source-open-data-at-european.html
 doi: 10.59350/dw744-0sa70
-tags: bioinfo jchempaint jmol bioclipse
+tags: bioinfo jchempaint jmol bioclipse nmrshiftdb
 ---
 
 I was pleased to hear that [Christoph will move to the EBI](http://www.steinbeck-molecular.de/steinblog/index.php/2007/12/06/steinbeck-group-moves-to-european-bioinformatics-institute-ebi-in-january-2008/)

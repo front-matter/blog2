@@ -4,7 +4,7 @@ title:  "Does ChemSpider really violate Open Data with CC SA?"
 date:   2008-05-10
 blogger-link: https://chem-bla-ics.blogspot.com/2008/05/does-chemspider-really-violate-open.html
 doi: 10.59350/zebnk-k6z97
-tags: chemspider copyright
+tags: chemspider copyright nmrshiftdb
 ---
 
 [ChemSpider](http://www.chemspider.com/) [is afraid](http://www.chemspider.com/blog/it-appears-chemspider-does-bad-by-using-creative-commons-licenses.html)

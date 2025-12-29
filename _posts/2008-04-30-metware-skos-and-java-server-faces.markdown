@@ -5,7 +5,7 @@ date:   2008-04-30
 modified_date: 2025-09-13
 blogger-link: https://chem-bla-ics.blogspot.com/2008/04/metware-skos-and-java-server-faces.html
 doi: 10.59350/13cvj-rgs34
-tags: metware java bioclipse skos
+tags: metware java bioclipse skos nmrshiftdb
 image: /assets/images/metwareJSF2.png
 ---
 

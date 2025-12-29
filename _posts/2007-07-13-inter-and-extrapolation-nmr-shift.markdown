@@ -5,7 +5,7 @@ date:   2007-07-13
 modified_date: 2025-07-30
 doi: 10.59350/tbd0q-67564
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/inter-and-extrapolation-nmr-shift.html
-tags: nmr
+tags: nmr nmrshiftdb
 ---
 
 Chemical blogspace has seen a lengthy discussion on [the quality of a few NMR shift prediction programs <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/06/19/quality-of-chemical-database.html),

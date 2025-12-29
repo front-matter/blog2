@@ -4,7 +4,7 @@ title:  "Open NMR data: raw curves and annotated peak lists"
 date:   2009-03-04
 blogger-link: https://chem-bla-ics.blogspot.com/2009/03/open-nmr-data-raw-curves-and-annotated.html
 doi: 10.59350/cxds4-qnq95
-tags: opendata chemspider nmr
+tags: opendata chemspider nmr nmrshiftdb
 ---
 
 Games are known to trigger technical innovation. But recently it also triggered innovation on open chemical databases. Jean-Claude

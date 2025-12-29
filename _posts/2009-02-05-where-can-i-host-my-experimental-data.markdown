@@ -5,7 +5,7 @@ date:   2009-02-05 00:10
 modified_date: 2025-10-20
 blogger-link: https://chem-bla-ics.blogspot.com/2009/02/where-can-i-host-my-experimental-data.html
 doi: 10.59350/24q7a-eg105
-tags: chemistry opendata
+tags: chemistry opendata nmrshiftdb
 ---
 
 [Rich](http://depth-first.com/) just posted an interesting read on [Web-Centric Science](http://depth-first.com/articles/2009/02/04/web-centric-science),

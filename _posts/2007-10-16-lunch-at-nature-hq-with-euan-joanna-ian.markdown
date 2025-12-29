@@ -5,7 +5,7 @@ date:   2007-10-16 00:10
 modified_date: 2025-03-30
 blogger-link: https://chem-bla-ics.blogspot.com/2007/10/lunch-at-nature-hq-with-euan-joanna-ian.html
 doi: 10.59350/j6dh2-02n14
-tags: connotea chemistry inchi doi
+tags: connotea chemistry inchi doi nmrshiftdb
 image: /assets/images/doiTagDelicious.png
 ---
 

@@ -6,7 +6,7 @@ modified_date: 2025-02-15
 doi: 10.59350/f7vn0-kqz26
 blogger-link: https://chem-bla-ics.blogspot.com/2007/01/cdk-workshop-day-2.html
 tags: cdk kegg knime smiles taverna justdoi:10.1186/1471-2105-7-517
-  inchikey:ZKWNOTQHFKYUNU-JGCIYWTLSA-N
+  inchikey:ZKWNOTQHFKYUNU-JGCIYWTLSA-N nmrshiftdb
 image: /assets/images/choloyl-coa.png
 ---
 

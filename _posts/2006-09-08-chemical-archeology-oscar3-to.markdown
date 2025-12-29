@@ -5,7 +5,7 @@ date:   2006-09-08
 modified_date: 2025-02-16
 doi: 10.59350/am2k8-ygc58
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/chemical-archeology-oscar3-to.html
-tags: oscar bioclipse acs chemistry justdoi:10.1039/b411033a textmining justdoi:10.1039/b411699m
+tags: oscar bioclipse acs chemistry justdoi:10.1039/b411033a textmining justdoi:10.1039/b411699m nmrshiftdb
 image: /assets/images/oscar1.png
 ---
 

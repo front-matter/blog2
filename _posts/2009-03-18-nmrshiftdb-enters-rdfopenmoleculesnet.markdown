@@ -4,7 +4,7 @@ title:  "NMRShiftDB enters rdf.openmolecules.net"
 date:   2009-03-18
 blogger-link: https://chem-bla-ics.blogspot.com/2009/03/nmrshiftdb-enters-rdfopenmoleculesnet.html
 doi: 10.59350/yk97t-8s820
-tags: nmrshiftdb rdf opendata
+tags: nmrshiftdb rdf opendata nmrshiftdb
 image: /assets/images/nmrRDF.png
 modified_date: 2025-11-29
 ---
