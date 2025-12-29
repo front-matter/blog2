@@ -27,7 +27,7 @@ I wonder who spoke first at the meeting.
 
 Anyway, I learned about RSD a while ago already and have been using it for some of our
 group's research software. We don't have a collection for our group, but you will find them
-under the [Maastricht University organisatino page](https://research-software-directory.org/organisations/maastricht-university).
+under the [Maastricht University organisation page](https://research-software-directory.org/organisations/maastricht-university).
 
 And as sketched by Struck and implemented by Spaaks *et al.*, RSD gives rich context
 to the research software. It can track the activity on the project (for GitHub, GitLab,
