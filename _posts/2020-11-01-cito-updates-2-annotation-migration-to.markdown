@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CiTO updates #2: annotation migration to Wikidata and first Scholia patch"
-date:   2020-11-01
+date:   2020-11-01 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2020/11/cito-updates-2-annotation-migration-to.html
 doi: 10.59350/6v7gp-pfd21
 tags: cito wikidata scholia
