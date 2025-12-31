@@ -4,10 +4,10 @@ title:  "Rescuing Scholia #2: getting closer"
 date:   2025-12-31
 doi: 10.59350/6t2qh-2f839
 tags:
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 115813885467920641
 ---
 
 Three weeks ago, I wrote a the post [Rescuing Scholia: will we make it in time?](https://chem-bla-ics.linkedchemistry.info/2025/12/08/rescuing-scholia.html),
