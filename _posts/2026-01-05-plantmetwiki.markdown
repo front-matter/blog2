@@ -18,7 +18,7 @@ on 14th October 2025 ([youtube recording](https://www.youtube.com/watch?v=NgYRHi
 I had not found time yet to post about this meeting, but it was an awesome list of speakers, regrettable absense of some others, but resulting
 in new contacts and some slowly evolving collaborations.
 
-Previously, plant pathways were not negatively prioritized at our BiGCaT research group. Something with Dutch academic politics. But that
+Previously, plant pathways were somewhat negatively prioritized at our BiGCaT research group. Something with Dutch academic politics. But that
 was 10 years ago, and with the notion that human health very much involves the exposome, which includes live around humans, I think the
 plant pathway science is important to human health. Even just the human health impacts of drops in biodiversity. Or the impact on our
 nutrition supply chain of climate change.
