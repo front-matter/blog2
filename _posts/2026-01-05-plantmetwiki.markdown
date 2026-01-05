@@ -6,10 +6,10 @@ doi: 10.59350/wyz5v-vts33
 tags: wikipathways gpml rdf justdoi:10.5281/zenodo.18149988 justdoi:10.1093/nar/gkae991
   justdoi:10.1186/1471-2105-11-5 justdoi:10.5281/zenodo.17245658
 image: /assets/images/plantmetwiki.png
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 115841132838944493
 ---
 
 Back on October I presented *Everything you always wanted to know: plant pathway modelling in WikiPathways* (doi:[10.5281/zenodo.18149988](https://doi.org/10.5281/zenodo.18149988))
