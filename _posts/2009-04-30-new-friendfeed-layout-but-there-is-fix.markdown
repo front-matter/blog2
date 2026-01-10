@@ -4,7 +4,7 @@ title:  "New FriendFeed layout, but there is a fix..."
 date:   2009-04-30
 blogger-link: https://chem-bla-ics.blogspot.com/2009/04/new-friendfeed-layout-but-there-is-fix.html
 doi: 10.59350/0cybr-c0g39
-tags: frienfeed javascript doi:10.1186/1471-2105-8-487
+tags: friendfeed javascript doi:10.1186/1471-2105-8-487
 image: /assets/images/cleanFF.png
 modified_date: 2025-12-29
 ---
