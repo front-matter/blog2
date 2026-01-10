@@ -3,7 +3,7 @@ layout: post
 title:  "WikiPathways curation reports on profile pages"
 date:   2025-11-30
 doi: 10.59350/s7vw2-r7y02
-tags: wikipathways curation
+tags: wikipathways curation europepmc
 image: /assets/images/wpCurationBadge.png
 comments:
   host: social.edu.nl

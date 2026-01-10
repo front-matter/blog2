@@ -10,7 +10,7 @@ tags: iupac cheminf justdoi:10.1038/s41598-021-94082-y justdoi:10.1186/s13321-02
   cito:usesMethodIn:10.21105/JOSS.02558
   cito:usesMethodIn:10.1093/nar/gkad1085
   cito:citesAsEvidence:10.5281/zenodo.14965762
-  cito:citesAsEvidence:10.5281/zenodo.14978557
+  cito:citesAsEvidence:10.5281/zenodo.14978557 europepmc
 image: /assets/images/greedy.png
 doi: 10.59350/tjkf2-k1608
 ---

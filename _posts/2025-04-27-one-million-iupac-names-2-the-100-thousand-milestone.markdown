@@ -5,7 +5,7 @@ date:   2025-04-27
 modified_date: 2025-06-09
 doi: 10.59350/dycsw-qeq51
 tags: iupac textmining oscar cito:citesForInformation:10.1186/s13321-021-00512-4
- cito:citesAsPotentialSolution:10.1093/bioinformatics/btn181
+ cito:citesAsPotentialSolution:10.1093/bioinformatics/btn181 europepmc
 image: /assets/images/iupac-names-commits.png
 ---
 

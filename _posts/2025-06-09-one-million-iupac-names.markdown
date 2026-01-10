@@ -5,6 +5,7 @@ date:   2025-06-09
 modified_date:   2025-08-16
 doi: 10.59350/6f7he-kxt56
 tags: iupac textmining inchikey:DKPKDPKJVDQUPD-XGBIXEJNSA-M cito:containsAssertionFrom:10.59350/rzepa.28802
+  europepmc
 image: /assets/images/iupac_626.png
 comments:
   host: social.edu.nl

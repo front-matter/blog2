@@ -5,6 +5,7 @@ date:   2025-06-29
 modified_date: 2025-11-29
 doi: 10.59350/c4k5q-h8849
 tags: curation openscience justdoi:10.1038/455047A doi:10.1021/CI050400B nmrshiftdb
+  europepmc
 image: /assets/images/biocuration.png
 comments:
   host: social.edu.nl

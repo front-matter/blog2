@@ -3,7 +3,8 @@ layout: post
 title:  "The Internet Journal of Chemistry"
 date:   2025-08-11
 doi: 10.59350/2ss5b-jpr33
-tags: publishing wikidata scholia doi:10.5281/ZENODO.1495470 cito:citesAsEvidence:10.1080/00987913.2000.10764578
+tags: publishing wikidata scholia doi:10.5281/ZENODO.1495470
+  cito:citesAsEvidence:10.1080/00987913.2000.10764578 europepmc
 image: /assets/images/ia_ijc.png
 comments:
   host: social.edu.nl

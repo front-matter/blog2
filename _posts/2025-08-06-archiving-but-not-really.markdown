@@ -5,6 +5,7 @@ date:   2025-08-06
 doi: 10.59350/vwd81-p8z85
 tags: publishing cito:citesAsRecommendedReading:10.59350/svpow.24000 cito:citesAsRecommendedReading:10.1186/s13059-020-02181-2
   cito:describes:10.1186/s13287-025-04166-z cito:obtainsBackgroundFrom:10.1038/sdata.2018.29
+  europepmc
 image: /assets/images/imageResolutionLoss.png
 comments:
   host: mastodon.social

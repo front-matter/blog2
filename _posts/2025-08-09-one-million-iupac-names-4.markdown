@@ -6,7 +6,7 @@ modified_date: 2025-09-03
 doi: 10.59350/krw9n-dv417
 tags: iupac beilstein chembl cito:citesAsRecommendedReading:10.5281/zenodo.16755947
   inchikey:RDOXTESZEPMUJZ-UHFFFAOYSA-N inchikey:QWVGKYWNOKOFNN-UHFFFAOYSA-N
-  cito:citesAsRecommendedReading:10.5281/zenodo.15077270
+  cito:citesAsRecommendedReading:10.5281/zenodo.15077270 europepmc
 comments:
   host: social.edu.nl
   username: egonw

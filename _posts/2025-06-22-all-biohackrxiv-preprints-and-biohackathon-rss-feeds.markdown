@@ -3,7 +3,7 @@ layout: post
 title:  "All BioHackrXiv preprints and BioHackathon RSS feeds"
 date:   2025-06-22
 doi: 10.59350/18gr7-6mx88
-tags: biohackrxiv
+tags: biohackrxiv europepmc
 image: /assets/images/biohackrxiv_index.png
 comments:
   host: social.edu.nl
