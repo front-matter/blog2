@@ -3,13 +3,15 @@ layout: post
 title:  "Where does the WikiPathways Cited In information come from?"
 date:   2026-01-10
 doi: 10.59350/0xxqw-90533
-tags: wikipathways europepmc doi:10.1186/S13321-023-00683-2 cito:citesAsDataSource:10.1096/FJ.11-203091 cito:obtainsBackgroundFrom:10.1021/jm010934d
+tags: wikipathways europepmc doi:10.1186/S13321-023-00683-2
+  cito:citesAsDataSource:10.1096/FJ.11-203091
+  cito:obtainsBackgroundFrom:10.1021/jm010934d
   doi:10.1093/NAR/GKAD960
 image: /assets/images/wp_cited_in.png
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 115871487563585901
 ---
 
 I have been wanting to blog about this since this summer, but with everything going on, I never really got around to it.
