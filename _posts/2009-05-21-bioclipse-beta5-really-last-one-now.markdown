@@ -5,7 +5,7 @@ date:   2009-05-21
 blogger-link: https://chem-bla-ics.blogspot.com/2009/05/bioclipse-beta5-really-last-one-now.html
 doi: 10.59350/6xj82-qag38
 tags: chembl bioclipse cdk
-image: /blog/assets/images/starlite.png
+image: /assets/images/starlite.png
 ---
 
 [Bioclipse beta 5](http://bioclipse.blogspot.com/2009/05/bioclipse-20-beta5-released.html) was just released by Ola, and the team had
@@ -13,7 +13,7 @@ some bad days over an [problem](http://chemicalrcp.blogspot.com/2009/05/eclipse-
 a merge of [an important branch](http://jonalv.blogspot.com/2009/04/i-just-came-up-with-yet-another-way-of.html) regarding the
 managers we are using to allow scripting of Bioclipse.
 
-![](/blog/assets/images/starlite.png)
+![](/assets/images/starlite.png)
 
 In the end, [Jonathan](http://jonalv.blogspot.com/) found a workaround for the problem, even though we still have no clue what was
 the exact cause. Additionally, Arvid implemented one of the last missing features of the JChemPaint editor, being the ability to
