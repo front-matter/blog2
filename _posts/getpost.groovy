@@ -2,12 +2,17 @@
 //
 // GPL v3
 
-@Grab(group='io.github.egonw.bacting', module='managers-ui', version='1.0.7')
-@Grab(group='io.github.egonw.bacting', module='net.bioclipse.managers.jsoup', version='1.0.7')
+@Grab(group='io.github.egonw.bacting', module='managers-ui', version='1.0.9-SNAPSHOT')
+@Grab(group='io.github.egonw.bacting', module='net.bioclipse.managers.jsoup', version='1.0.9-SNAPSHOT')
 
 bioclipse = new net.bioclipse.managers.BioclipseManager("..");
 ui = new net.bioclipse.managers.UIManager("..");
 jsoup = new net.bioclipse.managers.JSoupManager("..");
+
+if (args.length < 2) {
+  println "Syntax: groovy getposts.groovy [URL] [DAY]"
+  System.exit(-1);
+}
 
 blogpost = args[0]
 day = args[1]
