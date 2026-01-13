@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Cb: New Blogs #14"
+date:   2010-10-22
+blogger-link: https://chem-bla-ics.blogspot.com/2010/10/cb-new-blogs-14.html
+doi: 10.59350/drfp6-c5p44
+tags: cb
+---
+
+Just a few new blogs since [#13 in July](https://chem-bla-ics.blogspot.com/2010/07/cb-new-blogs-13.html):
+
+* [Chemical Abstracts Service Committee (CCAS)](https://communities.acs.org/groups/chemical-abstracts-service-committee/blog)
+    ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=257))
+* [Agilemolecule's Blog](http://agilemolecule.wordpress.com/)
+    ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=258))
+* [The Allotrope](http://allotrope.fieldofscience.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=259))
+
+If you know good chemistry blogs, please contact the author and ask them to email me for inclusion.

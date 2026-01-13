@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Cb: New Blogs #13"
+date:   2010-07-15
+blogger-link: https://chem-bla-ics.blogspot.com/2010/07/cb-new-blogs-13.html
+doi: 10.59350/qarkm-5py65
+tags: cb
+---
+
+The [Cb](http://cb.openmolecules.net/) software is still holding... I jettinsoned the old post cache, which speeded up the processing of blogs considerably,
+but the system just doesn't scale right. Yet, [Euan](http://www.ghastlyfop.com/blog/2009/03/postgenomic-hiatus.html) has done a great job, and the Cb site
+has now been online for some three years! Here are some new blogs included in the aggregation and analysis:
+
+* [Paul Dobson Research](http://dobsonlab.blogspot.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=241))
+* [Loose Morels » science](http://verpa.wordpress.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=242))
+* [The plate is bad](http://theplateisbad.blogspot.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=243))
+* [Laborantje](http://laborantje.nl/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=244))
+* [alchemoinformatics](http://alchemoinformatics.blogspot.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=245))
+* [Andy's Blog - Oral Roberts University](http://webapps.oru.edu/new_php/blog) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=246))
+* [UU Cheminformatics Journal Club](http://uucheminfoclub.blogspot.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=247))
+* [Is this going to be on the exam?](http://michaelseery.com/home) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=248))
+* [Asad's Blog » Work](http://chembioinfo.wordpress.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=249))
+* [Chemical Calisthenics](http://blogs.nature.com/catalyst/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=250))
+* [Chemistry & Cooking](http://chemistandcook.blogspot.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=251))
+* [Master Organic Chemistry](http://masterorganicchemistry.wordpress.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=252))
+* [Imaging Chemistry](http://imagingchemistry.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=253))
+* [Click Chemistry](http://clickchemistry.blogspot.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=254))
+* [Dr. Joaquin Barroso's Blog](http://joaquinbarroso.wordpress.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=255))
+* [Tripod Development](http://tripod.nih.gov/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=256))
+
+Happy reading!
+
+BTW, some WordPress feeds are weird, causing the blog post titles to not show up properly in Cb. I'll investigate this soon.
