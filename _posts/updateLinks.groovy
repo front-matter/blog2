@@ -2,7 +2,7 @@
 //
 // GPL v3
 
-@Grab(group='io.github.egonw.bacting', module='managers-ui', version='1.0.7')
+@Grab(group='io.github.egonw.bacting', module='managers-ui', version='1.0.9-SNAPSHOT')
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -15,6 +15,7 @@ ui = new net.bioclipse.managers.UIManager("..");
 mappings = [
   "2021/06/conflict-of-interest-or-why-i-am.html": "2021/06/11/conflict-of-interest-or-why-i-am.html",
   "2020/11/cito-updates-1-first-research-paper-in.html": "2020/11/01/cito-updates-1-first-research-paper-in.html",
+  "2010/07/cb-new-blogs-13.html": "2010/07/15/cb-new-blogs-13.html",
   "2009/08/bioclipse-and-sparql-end-points.html": "2009/08/16/bioclipse-and-sparql-end-points.html",
   "2009/03/nature-chemistry-improves-publishing.html": "2009/03/19/nature-chemistry-improves-publishing.html",
   "2009/03/open-nmr-data-raw-curves-and-annotated.html": "2009/03/04/open-nmr-data-raw-curves-and-annotated.html",

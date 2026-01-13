@@ -5,6 +5,7 @@ date:   2009-05-11 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2009/05/which-feature-must-i-install-for.html
 doi: 10.59350/347vb-pfw04
 tags: bioclipse eclipse rdf
+modified_date: 2026-01-13
 ---
 
 Dear lazyweb!
@@ -13,7 +14,7 @@ I have been trying to figure out which Eclipse 3.4 feature I must install from t
 in my environment.
 
 I installed the [Zest](http://www.eclipse.org/gef/zest/) feature (which I am going to use to
-[visualize an RDF network](http://chem-bla-ics.blogspot.com/2008/11/solubility-data-in-bioclipse-1.html)), but my workspace still
+[visualize an RDF network <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/11/18/solubility-data-in-bioclipse-1.html)), but my workspace still
 complained that I did not have the plugin.
 
 Maybe I should rerun *Set Target Platform* for our product, but I and others in the Bioclipse development community have been
