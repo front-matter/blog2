@@ -11,7 +11,7 @@ comments:
   id: 115911624045354212
 ---
 
-Like many awesome internet phenomenu, [blogging started in the late nineties](https://en.wikipedia.org/wiki/Blog).
+Like many awesome internet phenomena, [blogging started in the late nineties](https://en.wikipedia.org/wiki/Blog).
 [Nature](https://doi.org/10.1038/432933a) [authors](https://doi.org/10.1038/ngeo170) [and](https://doi.org/10.1038/ncb0905-845b)
 [editors](https://doi.org/10.1038/4571058a) recognized the effort early. In 2006 there were already
 more than 45 million blogs, and at least 50 science blogs made it in the top 50,000 and
