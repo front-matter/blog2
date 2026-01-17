@@ -14,7 +14,7 @@ tags: blog nature justdoi:10.1038/4571058a justdoi:10.1038/ngeo170 justdoi:10.10
 Like many awesome internet phenomenu, [blogging started in the late nineties](https://en.wikipedia.org/wiki/Blog).
 [Nature](https://doi.org/10.1038/432933a) [authors](https://doi.org/10.1038/ngeo170) [and](https://doi.org/10.1038/ncb0905-845b)
 [editors](https://doi.org/10.1038/4571058a) recognized the effort early. In 2006 there were already
-more than 45 million blogs, and at least 50 made it in the top 50,000 and
+more than 45 million blogs, and at least 50 science blogs made it in the top 50,000 and
 [5 in the top 3,500](https://doi.org/10.1038/442009a).
 
 I started blogging in 2005, around the time many others did, among which many chemists.
