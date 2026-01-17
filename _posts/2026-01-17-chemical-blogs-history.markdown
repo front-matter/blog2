@@ -5,10 +5,10 @@ date:   2026-01-17
 doi: 10.59350/v13h7-7av66
 tags: blog nature justdoi:10.1038/4571058a justdoi:10.1038/ngeo170 justdoi:10.1038/ncb0905-845b
   justdoi:10.1038/442009a justdoi:10.1038/432933a
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 115911624045354212
 ---
 
 Like many awesome internet phenomenu, [blogging started in the late nineties](https://en.wikipedia.org/wiki/Blog).
