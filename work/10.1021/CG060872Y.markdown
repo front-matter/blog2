@@ -1,7 +1,7 @@
 ---
 layout: work
 title: "Work: Supervised Self-Organizing Maps in Crystal Property and Structure Prediction"
-type: ScholarlyWork
+type: ScholarlyArticle
 tag: doi:10.1021/CG060872Y
 doi: 10.1021/CG060872Y
 ---
