@@ -3,7 +3,7 @@ layout: post
 title:  "Rescuing Scholia #2: getting closer"
 date:   2025-12-31
 doi: 10.59350/6t2qh-2f839
-tags:
+tags: wikidata scholia sparql rdf
 comments:
   host: social.edu.nl
   username: egonw
