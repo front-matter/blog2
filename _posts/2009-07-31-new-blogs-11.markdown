@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "New Blogs #11"
+date:   2009-07-31
+blogger-link: https://chem-bla-ics.blogspot.com/2009/07/new-blogs-11.html
+doi: 10.59350/7sbjg-3e122
+tags: blog cb
+---
+
+Not that the last two weeks has seen a boost on blog submissions to [Chemical blogspace](http://cb.openmolecules.net/);
+just that I was not really finished with [New Blogs #10](http://chem-bla-ics.blogspot.com/2009/07/new-blogs-10.html).
+
+* [The Realm of Organic Synthesis](http://therealmoforganicsynthesis.blogspot.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=201))
+* [Carbon Chemistry](http://carbontube.blogspot.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=20))
+* [OChemOnline](http://ochemonline.wordpress.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=203))
+* [polymer processing](http://polymerprocessing.blogspot.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=204))
+* [Metallome](http://metallome.blogspot.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=205))
+* [BKBlog](http://notimetolouse.blogspot.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=206))
+* [Sam's notes](http://sea36.blogspot.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=207))
+* [Zusammen](http://zusammen.metamolecular.com/posts) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=208))
+* [Kashthealien's Blog](http://kashthealien.wordpress.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=209))
+* [Chemjobber](http://chemjobber.blogspot.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=210))
+* [Henry Rzepa](http://www.ch.ic.ac.uk/rzepa/blog) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=211))
+* [ChemCafé](http://www.chemcafe.net/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=213))
+* [Phosphorus carbide](http://phoscarb.blogspot.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=214))
+* [Molecular Modeling Basics](http://molecularmodelingbasics.blogspot.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=215))
+* [/chemical/structure Blog](http://cactus.nci.nih.gov/blog) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=216))
+* [Indiana University Cheminformatics News](http://cheminfonews.blogspot.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=217))
+* [Accelrys \| Blog](http://blog.accelrys.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=218))
+
+Happy reading!
