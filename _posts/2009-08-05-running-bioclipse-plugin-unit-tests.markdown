@@ -5,7 +5,7 @@ date:   2009-08-05 00:20
 blogger-link: https://chem-bla-ics.blogspot.com/2009/08/running-bioclipse-plugin-unit-tests.html
 doi: 10.59350/b3t7r-0ge09
 tags: bioclipse ubuntu eclipse
-image: /blog/assets/images/eclipseSolution.png
+image: /assets/images/eclipseSolution.png
 ---
 
 Sometimes you can feel so stupid. For example, when the answer is right on front of you, but only after many hours you realize the right
@@ -28,7 +28,7 @@ the solution, but why running the unit tests was not affected by that solution. 
 testing was using a clean environment, not based on the Eclipse environment I was working in; therefore, adding that line to my Eclipse
 environment did not help. Instead, I only had to that line to the Run Configuration of my plugin unit tests too:
 
-![](/blog/assets/images/eclipseSolution.png)
+![](/assets/images/eclipseSolution.png)
 
 Surely, there are aspects to this which helped me overlook this solution. For example, I had installed Eclipse freshly yesterday, and then
 the it worked fine. Only after installing some EMF and GEF features, it stopped working again. Bitten by the correlation/causation

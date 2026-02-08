@@ -5,7 +5,7 @@ date:   2009-07-31 00:20
 blogger-link: https://chem-bla-ics.blogspot.com/2009/07/maintaining-jchempaint-primary-patch.html
 doi: 10.59350/fht9j-cv384
 tags: cdk jchempaint git bioclipse
-image: /blog/assets/images/jcpPatch.png
+image: /assets/images/jcpPatch.png
 ---
 
 Not so long ago, I finished porting the JChemPaint-Primary [branch](http://cdk.svn.sourceforge.net/viewvc/cdk/cdk/branches/jchempaint-primary/)
@@ -48,4 +48,4 @@ git rebase 11-controlawt
 
 This give me, again a clean patch against the latest CDK master:
 
-![](/blog/assets/images/jcpPatch.png)
+![](/assets/images/jcpPatch.png)

@@ -5,7 +5,7 @@ date:   2009-07-07 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2009/07/bioclipse-jchempaint-2.html
 doi: 10.59350/qj1xp-mas31
 tags: bioclipse jchempaint cdk doi:10.1186/1471-2105-8-59 chembl
-image: /blog/assets/images/jcpRoundingError.png
+image: /assets/images/jcpRoundingError.png
 ---
 
 Recently, I blogged about [Bioclipse-JChemPaint](http://chem-bla-ics.blogspot.com/2009/06/bioclipse-jchempaint.html) of the imminent Bioclipse 2.0.0
@@ -18,6 +18,6 @@ but also notes that such may be more suitable for the StructureDB
 Browsing a large set of structures with there properties gives a quick overview of the data set. It also makes bugs shallow,
 such as the one shown below found when I was browsing the [StarLite](http://www.chemblog.org/) database:
 
-![](/blog/assets/images/jcpRoundingError.png)
+![](/assets/images/jcpRoundingError.png)
 
 The MDL molfile for structure 55 is available from the [bug report I filed against Bioclipse](http://pele.farmbio.uu.se/cgi-bin/bugzilla/attachment.cgi?id=78&action=edit).

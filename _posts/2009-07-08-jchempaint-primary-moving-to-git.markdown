@@ -5,7 +5,7 @@ date:   2009-07-08
 blogger-link: https://chem-bla-ics.blogspot.com/2009/07/jchempaint-primary-moving-to-git.html
 doi: 10.59350/vrevg-x5008
 tags: jchempaint git cdk
-image: /blog/assets/images/jcpGit.png
+image: /assets/images/jcpGit.png
 ---
 
 I knew it was going to be painful, but making the [jchempaint-primary branch](http://cdk.svn.sourceforge.net/viewvc/cdk/cdk/branches/jchempaint-primary/)
@@ -14,7 +14,7 @@ a proper patch to the CDK master branch **is** painful. I am working my way towa
 copies is save, but please hold of any forking and/or branching on top of it until it is final. Thanx.) for the patch, with split ups of the various
 parts into reviewable blobs:
 
-![](/blog/assets/images/jcpGit.png)
+![](/assets/images/jcpGit.png)
 
 As you can see (when you click on the image to enlarge it), I have more or less finished the first drafts of the patch sets (see
 [this wiki page](https://sourceforge.net/apps/mediawiki/cdk/index.php?title=JChemPaint_Primary_Patches)) 0-other, 1-render, 2-renderbasic,

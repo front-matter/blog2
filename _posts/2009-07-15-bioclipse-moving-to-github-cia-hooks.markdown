@@ -5,7 +5,7 @@ date:   2009-07-15
 blogger-link: https://chem-bla-ics.blogspot.com/2009/07/bioclipse-moving-to-github-cia-hooks.html
 doi: 10.59350/6c3ha-gmy93
 tags: git bioclipse github sourceforge
-image: /blog/assets/images/githubHooks.png
+image: /assets/images/githubHooks.png
 ---
 
 Following the CDK and [JChemPaint Primary](http://chem-bla-ics.blogspot.com/2009/07/jchempaint-primary-moving-to-git.html),
@@ -31,7 +31,7 @@ Git repository. GitHub recently must have added hooks recently, but I am really 
 have hooks turned on for [CIA](http://cia.vc/stats/project/bioclipse.core) (so that commit messages end up on our #bioclipse IRC
 channel) and email (as indicated by the green color):
 
-![](/blog/assets/images/githubHooks.png)
+![](/assets/images/githubHooks.png)
 
 The splitting up, was rather interesting indeed. We wanted to keep the complete commit history, but still reduce the git repositories
 considerably. This means removing history of the plugins which should not end up in the repository. Git allows this! Git rules! This

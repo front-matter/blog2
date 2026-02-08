@@ -5,7 +5,7 @@ date:   2009-07-20
 blogger-link: https://chem-bla-ics.blogspot.com/2009/07/updating-my-bioclipseqsar-fork-with.html
 doi: 10.59350/5sxn7-4va27
 tags: bioclipse git github
-image: /blog/assets/images/githubUpdatingMyFork.png
+image: /assets/images/githubUpdatingMyFork.png
 ---
 
 [GitHub](http://github.com/) makes forking cheap, and I have a [fork](http://github.com/egonw/bioclipse.qsar/tree/master) of the
@@ -23,11 +23,11 @@ $ git pull olas master
 
 This gets me into the following state:
 
-![](/blog/assets/images/githubUpdatingMyFork.png)
+![](/assets/images/githubUpdatingMyFork.png)
 
 This [gitk](http://www.kernel.org/pub/software/scm/git/docs/gitk.html) output show that my local *master* branch is
 identical to Ola's master *branch* on GitHub, while both are three commits ahead of my current *master* branch at GitHub.
 
 Right after this, I updated my fork at GitHub with a simple `git push`, resulting in this gitk output:
 
-![](/blog/assets/images/githubUpdatingMyFork1.png)
+![](/assets/images/githubUpdatingMyFork1.png)

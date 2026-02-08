@@ -5,14 +5,14 @@ date:   2009-06-30
 blogger-link: https://chem-bla-ics.blogspot.com/2009/06/jchempaint-hack-session-at-uppsala.html
 doi: 10.59350/m0zsx-9ta16
 tags: cdk jchempaint
-image: /blog/assets/images/jcpHackWeek.JPG
+image: /assets/images/jcpHackWeek.JPG
 ---
 
 Arvid and I had a meeting on the ControllerHub refactoring, to make it modular to the bone. Actually,
 it is the [IChemModelRelay](http://cdk.svn.sourceforge.net/viewvc/cdk/cdk/branches/jchempaint-primary/src/main/org/openscience/cdk/controller/IChemModelRelay.java?view=log)
 that needs refactoring. This is what we wrote down:
 
-![](/blog/assets/images/jcpHackWeek.JPG)
+![](/assets/images/jcpHackWeek.JPG)
 
 In this picture you can see our priorities (1,2 for Arvid, and A,B for me).
 

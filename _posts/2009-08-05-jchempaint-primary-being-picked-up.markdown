@@ -5,7 +5,7 @@ date:   2009-08-05
 blogger-link: https://chem-bla-ics.blogspot.com/2009/08/jchempaint-primary-being-picked-up.html
 doi: 10.59350/wkk5p-56y41
 tags: jchempaint
-image: /blog/assets/images/compound.png
+image: /assets/images/compound.png
 ---
 
 Backporting the [JChemPaint-Primary patch for master](http://chem-bla-ics.blogspot.com/2009/07/maintaining-jchempaint-primary-patch.html) to the cdk-1.2.x
@@ -20,4 +20,4 @@ Switzerland.
 
 Ruby CDK is a web environment for molecular structures, and based on the new rendering code, it looks like (copyright by Sebastian):
 
-![](/blog/assets/images/compound.png)
+![](/assets/images/compound.png)
