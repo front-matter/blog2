@@ -20,10 +20,10 @@ grants:
     funder:
       name: "Dutch Research Council"
       ror: 04jsz6e67
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 116058933655966427
 ---
 
 When I first started writing this post, I started writing up why scientific communication is important, but because I started
