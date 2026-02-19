@@ -3,7 +3,7 @@ layout: post
 title:  "Two meetings: ELIXIR Toxicology and FAIR4ChemNL"
 date:   2024-06-10
 tags: elixir fair chemistry doi:10.1038/S41597-023-02166-3 justdoi:10.1007/978-3-030-65847-2_13 justdoi:10.1186/S13321-024-00807-2
-  rdf sparql
+  rdf sparql fair4chemnl
 doi: 10.59350/m9g28-dne38
 ---
 
