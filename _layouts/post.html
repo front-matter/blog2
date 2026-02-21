@@ -126,7 +126,7 @@ dois.push("{{ doi }}")
     {% elsif check[0] == "cito" %}
       {% capture doi %}{{ check[2] }}{% endcapture %}
 dois.push("{{ doi }}")
-intentionMap.set("{{ doi }}", "{{ check[1] }}")
+intentionMap.set("{{ doi }}".toUpperCase(), "{{ check[1] }}")
     {% endif %}
   {% endif %}
 {% endfor %}
@@ -139,8 +139,8 @@ if (dois.length > 0) {
       },
       append: function (entry) {
         intentionStr = ""
-        if (intentionMap.has(entry.DOI)) {
-          intentionStr = " <b>[cito:" + intentionMap.get(entry.DOI) + "]</b>"
+        if (intentionMap.has(entry.DOI.toUpperCase())) {
+          intentionStr = " <b>[cito:" + intentionMap.get(entry.DOI.toUpperCase()) + "]</b>"
         }
         return intentionStr + ' <a href="https://doi.org/' + entry.DOI + '">CrossRef</a> <a href="https://scholia.toolforge.org/doi/' + entry.DOI + '">Scholia</a>'
       }
