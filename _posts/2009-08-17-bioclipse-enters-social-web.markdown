@@ -30,4 +30,4 @@ Or, as copy/pastable script:
 And you can see it really hit Twitter [here](http://search.twitter.com/search?q=bioclipse+social+feature) and in this screenshot of my
 [Choqok](http://choqok.gnufolks.org/) client:
 
-![](/assets/images/bioclipseTweet.png)
+![](/blog/assets/images/bioclipseTweet.png)
