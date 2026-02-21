@@ -5,7 +5,7 @@ date:   2009-08-07
 blogger-link: https://chem-bla-ics.blogspot.com/2009/08/searching-pubchem-from-within-bioclipse.html
 doi: 10.59350/wcms5-hqy57
 tags: bioclipse pubchem inchikey:VNWKTOKETHGBQD-UHFFFAOYSA-N
-image: /blog/assets/images/pubchemSearchResults.png
+image: /assets/images/pubchemSearchResults.png
 ---
 
 For the application note which we are about to submit, I was working on improving the [PubChem](http://pubchem.ncbi.nlm.nih.gov/)
@@ -40,4 +40,4 @@ ui.open("/Virtual/hits.sdf")
 
 Resulting in:
 
-![](/blog/assets/images/pubchemSearchResults.png)
+![](/assets/images/pubchemSearchResults.png)
