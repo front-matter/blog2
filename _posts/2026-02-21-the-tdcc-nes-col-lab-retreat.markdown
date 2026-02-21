@@ -20,10 +20,10 @@ grants:
     funder:
       name: "Dutch Research Council"
       ror: 04jsz6e67
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 116110304917969331
 ---
 
 Last autumn two TDCC projects started, *FAIR4ChemNL* ([with the PeerTube channel](https://chem-bla-ics.linkedchemistry.info/2026/02/08/open-infrastructures.html)
