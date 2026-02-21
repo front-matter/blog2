@@ -5,6 +5,21 @@ date:   2026-02-21
 doi: 10.59350/pm3c5-89k94
 tags: fair doi:10.1162/DINT_A_00035 chemistry metabolomics fair4chemnl fairify
   cito:citesAsEvidence:10.5281/ZENODO.15050550 nanopub crate pubchem
+grants:
+  - grant:
+    title: "FAIRify your metabolomics data: achieving convergence on standards for reuse-ready data and workflows"
+    acronym: "FAIRify"
+    id: doi:10.61686/CSGIP04334
+    funder:
+      name: "Dutch Research Council"
+      ror: 04jsz6e67
+  - grant:
+    title: "FAIR4ChemNL: Accelerating the adoption of universal data standards in chemistry"
+    acronym: "FAIR4ChemNL"
+    id: doi:10.61686/XVYQV45374
+    funder:
+      name: "Dutch Research Council"
+      ror: 04jsz6e67
 #comments:
 #  host: social.edu.nl
 #  username: egonw
