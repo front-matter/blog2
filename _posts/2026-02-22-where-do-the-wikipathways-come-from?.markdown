@@ -7,10 +7,10 @@ tags: wikipathways rdf justdoi:10.1093/database/bar032 sparql justdoi:10.1093/na
   doi:10.1007/978-3-030-67727-5_73 justdoi:10.1007/s12263-010-0192-8 justdoi:10.1371/journal.pcbi.1004941
   justdoi:10.1007/s12263-010-0192-8 justdoi:10.37044/osf.io/m37f2\_v1
 image: /assets/images/wikipathways_authorList.png
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 116115859493978092
 ---
 
 [WikiPathways](https://en.wikipedia.org/wiki/WikiPathways) was [founded in 2008](https://qlever.scholia.wiki/topic/Q7999828#earliest-published-works),
