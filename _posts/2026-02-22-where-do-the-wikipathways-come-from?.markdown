@@ -63,7 +63,7 @@ SELECT ?pathway ?version ?ordinal ?author_ ?name ?orcid ?page WHERE {
 ```
 
 We can see who the 8 people are who contributed to this pathway (we cannot actually see here what they contributed), and many
-authors are member of the WikiPathways review team who focus more on technical quality and the biology. The first author,
+authors are member of the WikiPathways review team who focus more on technical quality than the biology. The first author,
 however, often is the person who contributed most of the biological knowledge in the pathway, in this case
 [Akhilesh Pandey](https://www.wikipathways.org/authors/A.Pandey) from the NetSlim collaboration
 (see doi:[10.1093/database/bar032](https://doi.org/10.1093/database/bar032)):
