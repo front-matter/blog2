@@ -14,7 +14,7 @@ comments:
 ---
 
 [WikiPathways](https://en.wikipedia.org/wiki/WikiPathways) was [founded in 2008](https://qlever.scholia.wiki/topic/Q7999828#earliest-published-works),
-in the year I left Wageningen (and we Nijmegen) and moved to Uppsala, Sweden. When we dediced to move back to The Netherlands in 2012, I got to opporunity
+in the year I left Wageningen (and we Nijmegen) and moved to Uppsala, Sweden. When we dediced to move back to The Netherlands in 2012, I got to opportunity
 to join the Department of Bioinformatics (BiGCaT) and work on Open PHACTS. I had visited the group in March 2011 because I had a COST action
 workshop near Maastricht (about nanoQSAR) and the bioinformatics group did [WikiPathways](https://wikipathways.org/).
 
