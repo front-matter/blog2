@@ -15,7 +15,8 @@ I honestly did not know. Three weeks and some serious hacking by an internationa
 Actually, just before christmas, we started writing a [SWAT4HCLS 2026](https://www.swat4ls.org/) demonstration abstract. This was accepted and
 you can read the *Scholia 2026: Compliance with SPARQL 1.1* preprint [here](https://github.com/WolfgangFahl/ScholiaGraphSplitPaper) and
 [here](https://commons.wikimedia.org/wiki/File:Scholia_2026_Compliance_with_SPARQL_1.1.pdf).
-This paper describes the work that had to be done, and I am deeply grateful to everyone who contributed with smaller or bigger contributions.
+This paper describes the work that had to be done, and I am deeply grateful to everyone who contributed with smaller or
+bigger contributions (Daniel, Peter, Konrad, Johannes, Lars, Wolfgang, Hannah).
 I am merely first author for the demo, and just another contributor to the long series of patches, in a
 [branch started by Prof. Hannah Bast](https://github.com/WDscholia/scholia/pull/2715).
 
