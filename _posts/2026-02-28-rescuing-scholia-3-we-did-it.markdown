@@ -4,10 +4,10 @@ title:  "Rescuing Scholia #3: We did it!"
 date:   2026-02-28
 doi: 10.59350/kd793-2fe02
 tags: scholia sparql swat4ls doi:10.3897/RIO.5.E35820
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 116150103331712797
 ---
 
 It was not a set up, when I openly [wondered if we would be able to rescue Scholia in time](https://chem-bla-ics.linkedchemistry.info/2025/12/08/rescuing-scholia.html).
