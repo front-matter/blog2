@@ -5,7 +5,7 @@ date:   2009-08-17
 modified_date: 2026-02-21
 blogger-link: https://chem-bla-ics.blogspot.com/2009/08/social-web-does-not-wait-for-bioclipse.html
 doi: 10.59350/1hvtk-7ka60
-tags: google
+tags: google wave
 ---
 
 [Google Wave](https://wave.google.com/) is going to change the web. It's the end of Google Docs, and likely many other services. It's
