@@ -5,13 +5,14 @@ date:   2009-08-29
 blogger-link: https://chem-bla-ics.blogspot.com/2009/08/reminder-my-talk-in-frankfurt-on-monday.html
 doi: 10.59350/mwcz7-gmj05
 tags: openscience openaccess blue-obelisk
+modified_date: 2026-03-07
 ---
 
-Quick and short reminder about my [Open Knowledge: Reproducibility in Cheminformatics with Open Data, Open Source and Open Standards](http://chem-bla-ics.blogspot.com/2009/04/open-knowledge-reproducibility-in.html)
+Quick and short reminder about my [Open Knowledge: Reproducibility in Cheminformatics with Open Data, Open Source and Open Standards <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/04/08/open-knowledge-reproducibility-in.html)
 talk on Monday. The session is great anyway, with other talks from [Cameron](http://blog.openwetware.org/scienceintheopen/), [John](http://chembl.blogspot.com/) and
 someone from Berlin on a Open Access HTS system (which reminds me to talk about the *Open Access* and that the term is tainted).
 
-I still have a free program, other than I want to see [Google Wave](http://chem-bla-ics.blogspot.com/2009/08/social-web-does-not-wait-for-bioclipse.html)
+I still have a free program, other than I want to see [Google Wave <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/08/17/social-web-does-not-wait-for-bioclipse.html)
 in action (and while I have receive my invitation, I have not received a login account yet). There is a potentially interesting talk about
 *Second Generation Small Molecule Therapeutics* by 15:00. But no plans otherwise for the afternoon and/or evening.
 

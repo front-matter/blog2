@@ -5,10 +5,11 @@ date:   2009-07-31
 blogger-link: https://chem-bla-ics.blogspot.com/2009/07/new-blogs-11.html
 doi: 10.59350/7sbjg-3e122
 tags: blog cb
+modified_date: 2026-03-07
 ---
 
 Not that the last two weeks has seen a boost on blog submissions to [Chemical blogspace](http://cb.openmolecules.net/);
-just that I was not really finished with [New Blogs #10](http://chem-bla-ics.blogspot.com/2009/07/new-blogs-10.html).
+just that I was not really finished with [New Blogs #10 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/07/23/new-blogs-10.html).
 
 * [The Realm of Organic Synthesis](http://therealmoforganicsynthesis.blogspot.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=201))
 * [Carbon Chemistry](http://carbontube.blogspot.com/) ([entry in Cb](http://cb.openmolecules.net/blog_search.php?blog_id=20))

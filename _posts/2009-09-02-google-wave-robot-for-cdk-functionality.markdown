@@ -6,9 +6,10 @@ blogger-link: https://chem-bla-ics.blogspot.com/2009/09/google-wave-robot-for-cd
 doi: 10.59350/stdr4-6rm16
 tags: cdk cheminf google wave
 image: /assets/images/cdkitty.png
+modified_date: 2026-03-07
 ---
 
-I was really happy to hear early last week that I was invited to take part in the [Google Wave](http://chem-bla-ics.blogspot.com/2009/08/social-web-does-not-wait-for-bioclipse.html) beta,
+I was really happy to hear early last week that I was invited to take part in the [Google Wave <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/08/17/social-web-does-not-wait-for-bioclipse.html) beta,
 and received my account details this Monday, while at attending (and [speaking at](http://chem-bla-ics.blogspot.com/2009/09/open-knowledge-reproducibility-in.html)) the GDCh
 Wissenschaftsforum Chemie 2009. Yesterday was a travel day, and while working on course material for the [Pharmaceutical Bioinformatics](http://www.pharmbio.org/) course that
 uses [Bioclipse](http://www.bioclipse.net/), I set up an Eclipse environment for development of a wave robot. [Documentation](http://code.google.com/apis/wave/extensions/robots/java-tutorial.html)

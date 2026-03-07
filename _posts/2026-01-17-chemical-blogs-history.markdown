@@ -9,6 +9,7 @@ comments:
   host: social.edu.nl
   username: egonw
   id: 115911624045354212
+modified_date: 2026-03-07
 ---
 
 Like many awesome internet phenomena, [blogging started in the late nineties](https://en.wikipedia.org/wiki/Blog).
@@ -46,7 +47,7 @@ You can also just visit many of these blogs to relive the dynamics at the time:
 * [New Blogs #7](https://chemicalblogspace.blogspot.com/2007/06/these-are-new-blogs-that-entered.html)
 * [New Blogs #8](https://chemicalblogspace.blogspot.com/2007/10/new-blogs-8.html)
 * [New Blogs #9](https://chemicalblogspace.blogspot.com/2008/04/new-blogs-9.html) (2008)
-* [New Blogs #10](https://chem-bla-ics.blogspot.com/2009/07/new-blogs-10.html) (2009)
+* [New Blogs #10 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/07/23/new-blogs-10.html) (2009)
 * [New Blogs #11](https://chem-bla-ics.blogspot.com/2009/07/new-blogs-11.html)
 * [New Blogs #12](https://chemicalblogspace.blogspot.com/2009/11/new-blogs-12.html)
 * [Cb: New Blogs #13](https://chem-bla-ics.linkedchemistry.info/2010/07/15/cb-new-blogs-13.html) (2010)

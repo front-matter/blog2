@@ -6,11 +6,12 @@ blogger-link: https://chem-bla-ics.blogspot.com/2009/09/open-chemical-data-1-nmr
 doi: 10.59350/g3jct-gta96
 tags: opendata friendfeed chemistry
 image: /assets/images/ocdGroup.png
+modified_date: 2026-03-07
 ---
 
 As I reported earlier, progress is only possible of you can modify and redistribute. This is why Open Data, Open Source, and
 Open Standards are so important to us [Blue Obelisk](http://en.wikipedia.org/wiki/Blue_Obelisk) members. For data,
-[proper licensing](http://chem-bla-ics.blogspot.com/2009/05/open-data-license-rights-aggregation.html) makes these two
+[proper licensing <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/05/18/open-data-license-rights-aggregation.html) makes these two
 requirements possible, but more importantly, make those rights explicit. [Rich](http://depth-first.com/) is running the
 nice [Zusammen](http://zusammen.metamolecular.com/) blog, but most of his entries are **not** Open Data. Even larger
 chemistry data repositories can be vague and have seemingly contradicting statements.

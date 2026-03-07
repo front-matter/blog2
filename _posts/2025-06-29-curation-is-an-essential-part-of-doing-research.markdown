@@ -2,7 +2,7 @@
 layout: post
 title:  "Curation is an essential part of doing research"
 date:   2025-06-29
-modified_date: 2025-11-29
+modified_date: 2026-03-07
 doi: 10.59350/c4k5q-h8849
 tags: curation openscience justdoi:10.1038/455047A doi:10.1021/CI050400B nmrshiftdb
   europepmc
@@ -80,7 +80,7 @@ of:
   [the ERM indentifier database](https://nanocommons.github.io/erm-database/)
 * made RDF for supplementary information (e.g. [this NanoE-Tox spreadsheet](http://chem-bla-ics.linkedchemistry.info/2018/09/16/data-curation-5-inspiration-95.html),
   full databases, like [ChEMBL](https://chem-bla-ics.linkedchemistry.info/2011/04/21/chembl-09-as-rdf.html) and
-  [NMRShiftDb](https://chem-bla-ics.blogspot.com/2009/09/nmrshiftdb-enters-rdfopenmoleculesnet-2.html)
+  [NMRShiftDb <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/09/04/nmrshiftdb-enters-rdfopenmoleculesnet-2.html)
 * organized [an online ChemCuration event](https://chem-bla-ics.linkedchemistry.info/2019/10/14/chemcuration-2019-poster-conference.html) (inspired by the ISB annual meetings!)
 
 I am also curation my blog, which was [originally in blogger.com but being ported to Markdown with extra annotation](https://chem-bla-ics.linkedchemistry.info/2023/08/18/last-post-here-freebie-model-online.html).

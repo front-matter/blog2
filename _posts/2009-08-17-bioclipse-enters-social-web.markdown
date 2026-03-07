@@ -2,7 +2,7 @@
 layout: post
 title:  "Bioclipse enters the social web"
 date:   2009-08-17
-modified_date: 2026-02-21
+modified_date: 2026-03-07
 blogger-link: https://chem-bla-ics.blogspot.com/2009/08/bioclipse-enters-social-web.html
 doi: 10.59350/9zgvr-hfk92
 tags: bioclipse twitter friendfeed
@@ -15,7 +15,7 @@ the data on [FriendFeed](https://www.friendfeed.com/).
 
 When someone asked last week on the [Taverna](https://taverna.sf.net/) mailing list about a Twitter [node](http://twitter.com/),
 I was surely interested. Though this can hardly be called *core research*, I, *fortunately*, had to test
-[the new Bioclipse SDK](http://chem-bla-ics.blogspot.com/2009/08/making-bioclipse-development-easier-new.html) :)
+[the new Bioclipse SDK <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/08/13/making-bioclipse-development-easier-new.html) :)
 
 So, I hacked up a Twitter plugin for [Bioclipse](https://www.bioclipse.net/) in no time using [JTwitter](https://www.winterwell.com/software/jtwitter.php)
 (license:LGPL), to allow sending tweets to [my Twitter account <i class="fa-solid fa-link-slash fa-xs"></i>](https://twitter.com/egonwillighagen) (but not yet my

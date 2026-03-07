@@ -5,6 +5,7 @@ date:   2009-09-04
 blogger-link: https://chem-bla-ics.blogspot.com/2009/09/nmrshiftdb-enters-rdfopenmoleculesnet-2.html
 doi: 10.59350/nv925-tje87
 tags: rdf sparql nmrshiftdb cheminf
+modified_date: 2026-03-07
 ---
 
 About 6 months ago I [reported](http://chem-bla-ics.blogspot.com/2009/03/nmrshiftdb-enters-rdfopenmoleculesnet.html) about my efforts to RDF-ize the data from the
@@ -29,7 +30,7 @@ binary debs for 5.0.12 on my laptop. With some basic Apache magic, I hooked up t
 ```
 
 Nice thing about this is, that I can set up multiple servers, allowing me to keep incompatibly licensed data sets apart (see
-[Open Data: license, rights, aggregation, clean interfaces?](http://chem-bla-ics.blogspot.com/2009/05/open-data-license-rights-aggregation.html)), which is
+[Open Data: license, rights, aggregation, clean interfaces? <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/05/18/open-data-license-rights-aggregation.html)), which is
 the same approach Bio2RDF is taking.
 
 The [end point](http://pele.farmbio.uu.se/nmrshiftdb/sparql) now offers about [278887](http://pele.farmbio.uu.se/nmrshiftdb/sparql?default-graph-uri=&query=SELECT+count%28*%29+WHERE+{\%0D%0A++%3Fs+%3Fp+%3Fo+.%0D%0A}&format=text%2Fhtml&debug=on)

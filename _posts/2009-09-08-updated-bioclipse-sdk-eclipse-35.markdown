@@ -6,11 +6,12 @@ blogger-link: https://chem-bla-ics.blogspot.com/2009/09/updated-bioclipse-sdk-ec
 doi: 10.59350/hx839-f4h59
 tags: bioclipse eclipse java
 image: /assets/images/newBCProject2.png
+modified_date: 2026-03-07
 ---
 
 Last Friday, the Bioclipse 2.1 development series moved to [Eclipse 3.5](http://update.eclipse.org/downloads/drops/R-3.5-200906111540/eclipse-news-all.html),
 so I had to update the [Bioclipse SDK](http://wiki.bioclipse.net/index.php?title=Bioclipse_SDK) too, which
-[we developed earlier](http://chem-bla-ics.blogspot.com/2009/08/making-bioclipse-development-easier-new.html).
+[we developed earlier <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/08/13/making-bioclipse-development-easier-new.html).
 
 With a new Eclipse version also comes new screenshots to talk you through the process of setting up a new
 [Bioclipse manager](http://wiki.bioclipse.net/index.php?title=How_to_make_a_manager_2) plugin.

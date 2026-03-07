@@ -2,7 +2,7 @@
 layout: post
 title:  "ChemPedia RDF #1: the SPARQL end point"
 date:   2009-11-19
-modified_date: 2025-02-16
+modified_date: 2026-03-07
 doi: 10.59350/qfhff-gen31
 blogger-link: https://chem-bla-ics.blogspot.com/2009/11/chempedia-rdf-1-sparql-end-point.html
 tags: rdf sparql chempedia justdoi:10.59350/kprj3-gyg97 nmrshiftdb
@@ -44,7 +44,7 @@ json.each { it ->
 ```
 
 After uploading it into [Virtuoso](http://virtuoso.openlinksw.com/dataspace/dav/wiki/Main/VOSIndex) (now using `DB.DBA.TTLP` instead of
-[DB.DBA.RDF_LOAD_RDFXML_MT](http://chem-bla-ics.blogspot.com/2009/09/nmrshiftdb-enters-rdfopenmoleculesnet-2.html)), we can now have our
+[DB.DBA.RDF_LOAD_RDFXML_MT <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/09/04/nmrshiftdb-enters-rdfopenmoleculesnet-2.html)), we can now have our
 regular SPARQL fun with the data from ChemPedia. For example, list the 10 names with the most votes:
 
 ```sparql
