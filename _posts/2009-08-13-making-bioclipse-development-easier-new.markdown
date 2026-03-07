@@ -5,7 +5,7 @@ date:   2009-08-13 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2009/08/making-bioclipse-development-easier-new.html
 doi: 10.59350/g2qh1-n7q51
 tags: eclipse bioclipse
-image: /blog//assets/images/bioclipseSDK1.png
+image: /assets/images/bioclipseSDK1.png
 ---
 
 Today, [Jonathan](http://jonalv.blogspot.com/), Carl, Arvid and I made writing managers for [Bioclipse](http://www.bioclipse.net/)
@@ -44,15 +44,15 @@ But we know and understand that setting up this framework is even more challengi
 at least 10 times before. So, today we implemented a *New Wizard* (source available from this Git repository:
 [bioclipse.sdk](http://github.com/egonw/bioclipse.sdk/tree/master)).
 
-![](/blog//assets/images/bioclipseSDK1.png)
+![](/assets/images/bioclipseSDK1.png)
 
 It just asks you a project name:
 
-![](/blog//assets/images/bioclipseSDK2.png)
+![](/assets/images/bioclipseSDK2.png)
 
 and a few other settings:
 
-![](/blog//assets/images/bioclipseSDK3.png)
+![](/assets/images/bioclipseSDK3.png)
 
 ## Installing the Bioclipse SDK
 
@@ -64,20 +64,20 @@ Eclipse RCP release.
 
 Go to the *Software Updates* in the *Help* menu:
 
-![](/blog//assets/images/bioclipseSDK4.png)
+![](/assets/images/bioclipseSDK4.png)
 
 and pick *Add Site...*. Enter the aforementioned update site as shown here:
 
-![](/blog//assets/images/bioclipseSDK5.png)
+![](/assets/images/bioclipseSDK5.png)
 
 Then, select the Bioclipse plugin:
 
-![](/blog//assets/images/bioclipseSDK6.png)
+![](/assets/images/bioclipseSDK6.png)
 
 After you hit *Install* and Eclipse install the fews tens of kBs of the plugin, the plugin should show up in
 your installation, like it did in mine:
 
-![](/blog//assets/images/bioclipseSDK.png)
+![](/assets/images/bioclipseSDK.png)
 
 ## Implementation Details
 
