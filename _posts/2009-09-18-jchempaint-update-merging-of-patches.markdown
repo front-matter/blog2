@@ -5,7 +5,7 @@ date:   2009-09-18 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2009/09/jchempaint-update-merging-of-patches.html
 doi: 10.59350/sna4h-d4c37
 tags: cdk jchempaint git
-image: /blog/assets/images/jcpStatus.png
+image: /assets/images/jcpStatus.png
 ---
 
 With the [JChemPaint workshop](http://sourceforge.net/apps/mediawiki/cdk/index.php?title=JChemPaintWorkshop2009) just passed, there is much work from UU and the
@@ -15,7 +15,7 @@ the CDK.
 
 The current set of JChemPaint patches looks like:
 
-![](/blog/assets/images/jcpStatus.png)
+![](/assets/images/jcpStatus.png)
 
 The two top most branches (*bioclipse-2.1.x* and *12-ebiStage*) are actually staging branches: patches that have not yet been integrated into the
 JChemPaint-Primary branch. Likewise, the *0-other* branch is a staging branch for patches that are in or up for the review process for CDK *master*

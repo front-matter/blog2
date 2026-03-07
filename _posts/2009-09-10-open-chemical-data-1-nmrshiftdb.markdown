@@ -5,7 +5,7 @@ date:   2009-09-10
 blogger-link: https://chem-bla-ics.blogspot.com/2009/09/open-chemical-data-1-nmrshiftdb.html
 doi: 10.59350/g3jct-gta96
 tags: opendata friendfeed chemistry
-image: /blog/assets/images/ocdGroup.png
+image: /assets/images/ocdGroup.png
 ---
 
 As I reported earlier, progress is only possible of you can modify and redistribute. This is why Open Data, Open Source, and
@@ -26,7 +26,7 @@ I will not say much about the database itself, and even less now, as I think the
 Moreover, I have set up a [FriendFeed](http://friendfeed.com/) room, [Open Chemical Data](http://friendfeed.com/openchemicaldata),
 where I will aggregate feeds of new molecules in these databases:
 
-![](/blog/assets/images/ocdGroup.png)
+![](/assets/images/ocdGroup.png)
 
 Now, the only problem is, I need candidate for this series, and cannot actually think of a third entry (second being the
 [Open Notebook Science Solubility](http://spreadsheets.google.com/ccc?key=plwwufp30hfq0udnEmRD1aQ) data)... Want to help

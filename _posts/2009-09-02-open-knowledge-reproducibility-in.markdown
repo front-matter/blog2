@@ -11,4 +11,4 @@ tags: cheminf doi:10.5281/ZENODO.2652076
 Below are the slides of my presentation of last Monday (see my [earlier](http://chem-bla-ics.blogspot.com/2009/08/reminder-my-talk-in-frankfurt-on-monday.html)
 [blogs](http://chem-bla-ics.blogspot.com/2009/04/open-knowledge-reproducibility-in.html)):
 
-[![](/blog/assets/images/frankfurthSlides.png)](https://zenodo.org/records/2652077)
+[![](/assets/images/frankfurthSlides.png)](https://zenodo.org/records/2652077)
