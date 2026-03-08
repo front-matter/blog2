@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "CDK 2.12"
+date:   2026-03-08
+doi: 10.59350/gw9at-srp84
+tags: cdk openscience justdoi:10.5281/zenodo.18850648
+grants:
+  - grant:
+    title: "The Chemistry Development Kit in 2024: improving cheminformatics research"
+    acronym: "CDK2024"
+    id: drc.filenumber:osf232097
+    funder:
+      name: "Dutch Research Council"
+      ror: 04jsz6e67
+#comments:
+#  host: social.edu.nl
+#  username: egonw
+#  id: ...
+---
+
+[Version 2.12](https://github.com/cdk/cdk/releases/tag/cdk-2.12) of the [Chemistry Development Kit](https://cdk.github.io/) has been released.
+It is the last release with contributions by [our NWO Open Science grant](https://www.nwo.nl/en/projects/osf232097).
+This release adds some nice new APIs:
+
+* harmonize hydrogens to various states: depiction, stereo, minimal, and unsafe (useful for depictions)
+* generate wedge bonds based on coordinates and stereochemistry
+* more Markush / RGroup support
+* atropisomers via CXSMILES
+* sugar extraction
+
+I also update the following libraries/tools to use CDK 2.12:
+
+* [NanoJava 2.16](https://github.com/enanomapper/nanojava/releases/tag/nanojava-2.0.6)
+* [Bacting 1.0.10](https://github.com/egonw/bacting/releases/tag/bacting-1.0.10) (and the Python pyBacting will follow asap)
