@@ -12,10 +12,10 @@ grants:
     funder:
       name: "Dutch Research Council"
       ror: 04jsz6e67
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 116193887238257866
 ---
 
 [Version 2.12](https://github.com/cdk/cdk/releases/tag/cdk-2.12) of the [Chemistry Development Kit](https://cdk.github.io/) has been released.
