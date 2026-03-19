@@ -5,7 +5,7 @@ date:   2009-10-17
 blogger-link: https://chem-bla-ics.blogspot.com/2009/10/work-in-progress-open-doccheck.html
 doi: 10.59350/qfnkc-xtx89
 tags: cdk javadoc java xml
-image: /blog/assets/images/ojdcheckXHTML.png
+image: /assets/images/ojdcheckXHTML.png
 ---
 
 While it is still very much in progress, I have already made more progress than I had hoped for. The [JavaDoc Doclet API](http://java.sun.com/j2se/1.5.0/docs/guide/javadoc/doclet/spec/index.html)
@@ -31,7 +31,7 @@ and the current version provides the ability to write custom tests (which I plan
 [CDK taglet](http://cdk.sourceforge.net/guides/devel/ch01.html) content), and create XML as well as XHTML which can be saved to any file.
 To give you a glimps of where things are going, here's a screenshot of the current XHTML output:
 
-![](/blog/assets/images/ojdcheckXHTML.png)
+![](/assets/images/ojdcheckXHTML.png)
 
 The current list of tests is really small, and consists of a single test:
 

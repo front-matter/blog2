@@ -5,7 +5,7 @@ date:   2009-11-04 01:00
 blogger-link: https://chem-bla-ics.blogspot.com/2009/11/new-bioclipse-features-kabsch-alignment.html
 doi: 10.59350/2ty9f-n0m97
 tags: cheminf cdk bioclipse jmol
-image: /blog/assets/images/bioclipseKabsch1.png
+image: /assets/images/bioclipseKabsch1.png
 ---
 
 We recently submitted a second paper on [Bioclipse](http://www.bioclipse.net/), and have worked hard in the past two weeks on addressing the
@@ -84,11 +84,11 @@ content with 3D coordinates! And Bioclipse inherits this functionality by using 
 
 When Bioclipse is run, this looks like:
 
-![](/blog/assets/images/kabsch.png)
+![](/assets/images/kabsch.png)
 
 And the alignment results will nicely show up in a Jmol viewer (while it is implemented as an Eclipse editor, it is not yet):
 
-![](/blog/assets/images/bioclipseKabsch1.png)
+![](/assets/images/bioclipseKabsch1.png)
 
 The first screenshot also shows the new pop-up menus for calculating two matrices for 3 or more molecules. One is based on the
 [RMSD](http://en.wikipedia.org/wiki/Root_mean_square_deviation) of the 3D atomic coordinats of the atoms in the
@@ -97,7 +97,7 @@ later Bioclipse version too.) and will create a distance matrix. The second new 
 measure based on CDK fingerprints on the selected chemical graphs. If the Bioclipse Statistics feature is installed, the
 created [CSV](http://en.wikipedia.org/wiki/Comma-separated_values) files will open up in a matrix editor:
 
-![](/blog/assets/images/rmsdMatrix.png)
+![](/assets/images/rmsdMatrix.png)
 
 Kabsch alignment of protein backbones is planned for a later Bioclipse release, but an important feature for
 [our groups proteochemometrics work](http://www.ncbi.nlm.nih.gov/sites/entrez?term=proteochemometrics%20wikberg).

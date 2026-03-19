@@ -5,7 +5,7 @@ date:   2009-10-09
 blogger-link: https://chem-bla-ics.blogspot.com/2009/10/nmrshiftdb-rdf-3-bio2rdf.html
 doi: 10.59350/rnjv0-tj350
 tags: nmrshiftdb rdf bio2rdf
-image: /blog/assets/images/nmrRDF1.png
+image: /assets/images/nmrRDF1.png
 ---
 
 My might have seen my efforts to convert the [NMRShiftDB](http://www.nmrshiftdb.org/) data into RDF:
@@ -20,8 +20,8 @@ The structure of the exposed triples is not perfect, and I just realized I made 
 in a namespace I have not control over (bad me). The Virtuoso6 faceted browser allows you to navigate the data in Bio2RDF
 by molecule (e.g. [molecule 234](http://cu.bio2rdf.org/page/nmrshiftdb_molecule:234)):
 
-![](/blog/assets/images/nmrRDF1.png)
+![](/assets/images/nmrRDF1.png)
 
 And by spectrum too (e.g. [spectrum 4735](http://cu.bio2rdf.org/page/nmrshiftdb_spectrum:4735)):
 
-![](/blog/assets/images/nmrRDF2.png)
+![](/assets/images/nmrRDF2.png)
