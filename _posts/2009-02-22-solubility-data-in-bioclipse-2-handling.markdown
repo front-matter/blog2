@@ -5,11 +5,11 @@ date:   2009-02-22
 blogger-link: https://chem-bla-ics.blogspot.com/2009/02/solubility-data-in-bioclipse-2-handling.html
 doi: 10.59350/z5rpq-5k922
 tags: bioclipse sparql rdf
-modified_date: 2025-12-29
+modified_date: 2026-03-19
 ---
 
 [RDF](http://en.wikipedia.org/wiki/Resource_Description_Framework) is swiftly becoming the [lingua franca](http://en.wikipedia.org/wiki/Lingua_franca) of life sciences
-(see for example [[1 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/10/24/one-billion-biochemical-rdf-triples.html),[2](http://chem-bla-ics.blogspot.com/2007/07/rdf-ing-molecular-space.html)]).
+(see for example [[1 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/10/24/one-billion-biochemical-rdf-triples.html),[2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/07/31/rdf-ing-molecular-space.html)]).
 Bioclipse is an excellent platform to visualize results from analysis of the network, both for graph visualization (see
 [[3 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/11/18/solubility-data-in-bioclipse-1.html)]), as well of visualization of domain
 specific data types (e.g. sequences, molecules, ...).
@@ -21,5 +21,5 @@ Yesterday I uploaded a Bioclipse feature that adds a *rdf* manager to handle RDF
 See also:
 
 * [One Billion Biochemical RDF Triples! <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/10/24/one-billion-biochemical-rdf-triples.html)
-* [RDF-ing molecular space](http://chem-bla-ics.blogspot.com/2007/07/rdf-ing-molecular-space.html)
+* [RDF-ing molecular space <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/07/31/rdf-ing-molecular-space.html)
 * [Solubility Data in Bioclipse #1 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/11/18/solubility-data-in-bioclipse-1.html)

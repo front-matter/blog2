@@ -5,13 +5,14 @@ date:   2009-10-15
 blogger-link: https://chem-bla-ics.blogspot.com/2009/10/sparql-end-points-jena-and-bifcontains.html
 doi: 10.59350/g7yhg-frs33
 tags: sparql rdf bioclipse bio2rdf
+modified_date: 2026-03-19
 ---
 
 I have been having fun with SPARQL in [Bioclipse](http://www.bioclipse.net/) for a while now, and blogged at several occasions:
 
 * [NMRShiftDB enters rdf.openmolecules.net #2: SPARQL end point with Virtuoso]()
-* [Bioclipse and SPARQL end points #2: MyExperiment](http://chem-bla-ics.blogspot.com/2009/08/bioclipse-and-sparql-end-points-2.html)
-* [Bioclipse and SPARQL end points](http://chem-bla-ics.blogspot.com/2009/08/bioclipse-and-sparql-end-points.html)
+* [Bioclipse and SPARQL end points #2: MyExperiment <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/08/21/bioclipse-and-sparql-end-points-2.html)
+* [Bioclipse and SPARQL end points <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/08/16/bioclipse-and-sparql-end-points.html)
 
 One thing I had not been able to work out, is that [Virtuoso](http://virtuoso.openlinksw.com/dataspace/dav/wiki/Main/) uses a
 (rather nice) *bif:contains* extension that support indexing. However, [Jena](http://jena.sourceforge.net/) would complain with:

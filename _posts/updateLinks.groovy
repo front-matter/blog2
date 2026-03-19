@@ -20,6 +20,7 @@ mappings = [
   "2009/08/bioclipse-and-sparql-end-points.html": "2009/08/16/bioclipse-and-sparql-end-points.html",
   "2009/08/social-web-does-not-wait-for-bioclipse.html": "2009/08/17/social-web-does-not-wait-for-bioclipse.html",
   "2009/08/making-bioclipse-development-easier-new.html": "2009/08/13/making-bioclipse-development-easier-new.html",
+  "2009/08/bioclipse-and-sparql-end-points-2.html": "2009/08/21/bioclipse-and-sparql-end-points-2.html",
   "2009/07/new-blogs-10.html": "2009/07/23/new-blogs-10.html",
   "2009/05/open-data-license-rights-aggregation.html": "2009/05/18/open-data-license-rights-aggregation.html",
   "2009/04/open-knowledge-reproducibility-in.html": "2009/04/08/open-knowledge-reproducibility-in.html",
@@ -52,6 +53,7 @@ mappings = [
   "2008/09/moved-to-sweden-post-doc-in-bioclipse.html": "2008/09/24/moved-to-sweden-post-doc-in-bioclipse.html",
   "2008/09/cdk-development-with-branches-using-git.html": "2008/09/07/cdk-development-with-branches-using-git.html",
   "2008/08/metware-screenshot-spectrum-support.html": "2008/08/20/metware-screenshot-spectrum-support.html",
+  "2008/08/science-blogging-2008-london-was-cool.html": "2008/08/31/science-blogging-2008-london-was-cool.html",
   "2008/07/commercial-qsar-modeling-sorry-already.html": "2008/07/23/commercial-qsar-modeling-sorry-already.html",
   "2008/07/peer-reviewed-chemoinformatics-why.html": "2008/07/22/peer-reviewed-chemoinformatics-why.html",
   "2008/06/recovering-full-mass-spectra-from-gc-ms.html": "2008/06/04/recovering-full-mass-spectra-from-gc-ms.html",
@@ -72,7 +74,8 @@ mappings = [
   "2007/11/molecules-in-wikipedia-without-inchis-3.html": "2007/11/16/molecules-in-wikipedia-without-inchis-3.html",
   "2007/10/one-billion-biochemical-rdf-triples.html": "2007/10/24/one-billion-biochemical-rdf-triples.html",
   "2007/07/osra-gpl-ed-molecule-drawing-to-smiles.html": "2007/07/20/osra-gpl-ed-molecule-drawing-to-smiles.html",
-  "2007/07/atom-typing-in-cdk.html": "2007/07/01/atom-typing-in-cdk.html"
+  "2007/07/atom-typing-in-cdk.html": "2007/07/01/atom-typing-in-cdk.html",
+  "2007/07/rdf-ing-molecular-space.html": "2007/07/31/rdf-ing-molecular-space.html"
 ]
 
 oldPref = "http://chem-bla-ics.blogspot.com/"

@@ -6,13 +6,13 @@ blogger-link: https://chem-bla-ics.blogspot.com/2009/04/new-friendfeed-layout-bu
 doi: 10.59350/0cybr-c0g39
 tags: friendfeed javascript doi:10.1186/1471-2105-8-487
 image: /assets/images/cleanFF.png
-modified_date: 2025-12-29
+modified_date: 2026-03-19
 ---
 
 [FriendFeed](http://friendfeed.com/) is the missing link between social [bookmarking|news|...] and [IRC](http://en.wikipedia.org/wiki/Internet_Relay_Chat)
 (#cdk on [irc.freenode.net](http://www.freenode.net/)); I quite like it. Anyway, as of today, they have a new layout, and that I do not like. No more
 icons for feed types, and big avatar photo's. Really, I *know* what my fellow blogger look like (even met many of them
-[in London last year](http://chem-bla-ics.blogspot.com/2008/08/science-blogging-2008-london-was-cool.html)). The rest of
+[in London last year <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/08/31/science-blogging-2008-london-was-cool.html)). The rest of
 the layout is a bit too colourful for my taste.
 
 Fortunately, [Neil](http://nsaunders.wordpress.com/) posted [three very useful](http://friendfeed.com/neilfws/3c83a2e5/my-beta-ff-greasemonkey-suite-is-complete)
