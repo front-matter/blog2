@@ -5,7 +5,7 @@ date:   2008-08-06
 modified_date: 2025-08-26
 blogger-link: https://chem-bla-ics.blogspot.com/2008/08/scientific-progress-is-primary-human.html
 doi: 10.59350/na9qg-p4f95
-tag: cheminf openscience
+tags: cheminf openscience
 ---
 
 [Deepak](http://mndoci.com/blog) [asked me](http://friendfeed.com/e/bb0667e2-7fbb-f3f5-3b15-696e9af8a492/Is-your-web-service-open-source/) to comment
