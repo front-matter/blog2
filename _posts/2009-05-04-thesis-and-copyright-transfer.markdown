@@ -6,7 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2009/05/thesis-and-copyright-tra
 doi: 10.59350/atb3h-1x106
 tags: career
 image: /assets/images/thesisCover.png
-modified_date: 2025-12-29
+modified_date: 2026-03-20
 ---
 
 [My thesis <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/03/01/todo-april-2nd-defend-my-phd-work.html) was *released* slightly over a year ago in print form. The electronic form
@@ -18,7 +18,7 @@ peer-review in the form they are present in the thesis too. (The layout is diffe
 
 So, my thesis has [six chapters <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/03/01/todo-april-2nd-defend-my-phd-work.html) which I cannot redistribute. I am still happy having
 published in the [Journal of Chemical Information and Modeling](http://pubs.acs.org/journal/jcisd8) (formerly *JCICS*), and still review papers for that journal; it
-still is the main forum in cheminformatics, but recently [challenged](http://chem-bla-ics.blogspot.com/2009/03/journal-of-cheminformatics-i-hope.html).
+still is the main forum in cheminformatics, but recently [challenged <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/03/22/journal-of-cheminformatics-i-hope.html).
 
 I have come to the conclusion that copyright transfer will not be my author choice in the future, and the ACS AuthorChoice still seems to require copyright transfer,
 if I do not misunderstand the legal talk.
