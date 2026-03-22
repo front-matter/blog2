@@ -1,0 +1,97 @@
+---
+layout: post
+title:  "CDK 1.2.4: the changes"
+date:   2009-11-18
+blogger-link: https://chem-bla-ics.blogspot.com/2009/11/cdk-124-changes.html
+doi: 10.59350/tjz2n-7xe87
+tags: cdk git
+---
+
+Here is the changelog of [CDK](http://cdk.sf.net/) 1.2.4 which I am about to upload to [SourceForge](http://sourceforge.net/projects/cdk/files/cdk/):
+
+<ul>
+<li>Fixed param name <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=743bad345e">743bad345e</a></li>
+<li>Updated the makefp3d target to work with the current build system <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=bbb78ee581">bbb78ee581</a></li>
+<li>Set up a branch for the 1.2.4 release <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=4801d79b8c">4801d79b8c</a></li>
+<li>Fixes bug 2898399. Updates to the SMARTS parser to handle proper matching for explicit hydrogens (including H, 1H, 2H and 3H). SMARTSQueryVisitor updated to take into account different isotopes of H.  Also updated unit tests to take into account proper H matching. Added a unit test to further check H matching. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=b67d76ac96">b67d76ac96</a></li>
+<li>Added tests to match hydrogens <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=45a7f54c3d">45a7f54c3d</a></li>
+<li>Reworked the tests for bug 2898032. Updated Javadocs for smiles generator <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=7f68b07aa8">7f68b07aa8</a></li>
+<li>Added unit test to confirm and check for bug 2898032 <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=924b56395e">924b56395e</a></li>
+<li>Updated UIT to handle single atom queries and added a unit test for bug 2888845. Also updated Javadocs to specifically note behavior of single atom queries <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=dfb28054f2">dfb28054f2</a></li>
+<li>Added generation of java source jars <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=e33fba2af0">e33fba2af0</a></li>
+<li>Fixed matchers to allow XML without new lines (closes #2832835) <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=f9a0552430">f9a0552430</a></li>
+<li>Added unit tests for detection of PubChem XML files. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=571f434a94">571f434a94</a></li>
+<li>Overwrite unit tests, because there are no change events passed around at all for the NoNotification interface implementations <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=36f295bf8a">36f295bf8a</a></li>
+<li>Added missing unit tests for IChemModel event propagation for the ICrystal field <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=2993e0c5a0">2993e0c5a0</a></li>
+<li>Fixed propagation of change events to IChemModel when modifications are made in child IChemObjects <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=0c8a88fec8">0c8a88fec8</a></li>
+<li>Fixed unit tests: the IChemModel.setFoo(null) should actually give a change event on the listener of the IChemModel, and not after unregistering of the Foo object. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=b8331764c2">b8331764c2</a></li>
+<li>Added unit test to the function of the new IO setting to force 2D coordinate output. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=4e2b2bf31e">4e2b2bf31e</a></li>
+<li>Added writer IO option to force writing of 2D coordinates if 3D coordinates are present too, which now are preferably outputted. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=0e6aa2cf14">0e6aa2cf14</a></li>
+<li>Added unit test to verify that if 2D and 3D coordinates are available, the 3D coordinates are outputted. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=56852f8bd5">56852f8bd5</a></li>
+<li>Fixed Taglets: only return HTML if the Tag is really given; the toString() method is given for all cases, not just when the tag is found <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=1107fb2fba">1107fb2fba</a></li>
+<li>Fixeda bug which was causing various parts of the DescriptorEngine to fail - it was trying to instantiate a non-descriptor class which happens to reside in the descriptor package directory. This fix is a bit kludgy - ideally only descriptors should be in that directory <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=0242d9ad67">0242d9ad67</a></li>
+<li>Fixes ClassCastException when not IMolecule <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=6f3e848f9d">6f3e848f9d</a></li>
+<li>Upgraded to PMD 2.4.5 with many bug fixes, giving more accurate error reports <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=f29a66b63a">f29a66b63a</a></li>
+<li>Added missing dependency on cdk-diff, being used in one of the unit tests <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=0e287dd450">0e287dd450</a></li>
+<li>Fixed methods names to match those in the test class <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=789a314a8e">789a314a8e</a></li>
+<li>Fixed test method name to match the expected patters, fixing a coverage test fail <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=ac136190d0">ac136190d0</a></li>
+<li>Removed duplicate code: MolecularFormulaTest now extends AbstractMolecularFormulaTest <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=b8651c75c8">b8651c75c8</a></li>
+<li>Fixed test method annotation to point to the right method <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=bb7d341577">bb7d341577</a></li>
+<li>Added missing @TestMethod annotation <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=f6f759b227">f6f759b227</a></li>
+<li>Added modules that were missing from the PMD testing <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=073e5ec96b">073e5ec96b</a></li>
+<li>Added modules that were missing from the doccheck testing <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=10dc19c09b">10dc19c09b</a></li>
+<li>Patch for bug 2843445. Aims to fix generation of NaN coordinates by SDG <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=d1397fe99d">d1397fe99d</a></li>
+<li>Fix the unit test to not give a 'input must support mark' exception on some platforms, by wrapping the InputStream in a BufferedInputStream. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=6f6f41ede3">6f6f41ede3</a></li>
+<li>Added missing dependencies <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=8759481c19">8759481c19</a></li>
+<li>Added ioformats to modules to test <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=56289e2dbc">56289e2dbc</a></li>
+<li>Use StringBuilder to aggregate the field data, which gives an huge performance boost for SD file where multiline field data is found. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=df35f02d32">df35f02d32</a></li>
+<li>Use StringBuilder to aggregate the field data, which gives an huge performance boost for SD file where very much field data, like the ChEBI_complete.sdf <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=eac8266fe9">eac8266fe9</a></li>
+<li>Factored out steps in reading the SD file data block <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=678e7ca206">678e7ca206</a></li>
+<li>Bumped version, to make it clear this is not the 1.2.3 release <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=8c8166a1a2">8c8166a1a2</a></li>
+<li>Fixed registering on the cdk.threadnonsage tag (closes #2796362) <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=d451576275">d451576275</a></li>
+<li>Removed obsolete pattern from old svnrev tag <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=c8f5a727a3">c8f5a727a3</a></li>
+<li>Fixed JavaDoc to remove traces of the old svnrev Tag <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=1a70488b81">1a70488b81</a></li>
+<li>Synchronized exception message with implementation (fixes #2844333) <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=c70b79cbec">c70b79cbec</a></li>
+<li>The Pauling Electronegativity is copied in configure as well. I can't see why not copy everything we have. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=3fd2b171e8">3fd2b171e8</a></li>
+<li>Added bug annotation <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=38d0235bba">38d0235bba</a></li>
+<li>test case for bug #2846213 <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=f84c53b98a">f84c53b98a</a></li>
+<li>Fixed perception of N.planar3 where N.sp2 was detected, by now taking into account the given hydrogen count. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=1714de2663">1714de2663</a></li>
+<li>Fixed perception of benzene with all single bond, but hydrogen count 1 and bonds flagged aromatic. In this case, the type is C.sp2 not C.sp3. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=05e0be39a0">05e0be39a0</a></li>
+<li>Added assertions to unit test for values being not null <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=863b0a5325">863b0a5325</a></li>
+<li>Added two unit tests for the same problem: carbon atom types are not correctly perceived if bond order info is SINGLE only, and hydrogen count and aromaticity flag is set. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=f19a451a72">f19a451a72</a></li>
+<li>Moved class into a org.openscience.cdk package, which seems to work now. I'm puzzled why it did not before. Solved several unit test fails. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=b055c6b0b0">b055c6b0b0</a></li>
+<li>Merge branch 'cdk-1.2.x' of ssh://egonw@cdk.git.sourceforge.net/gitroot/cdk into cdk-1.2.x <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=f77db9c186">f77db9c186</a></li>
+<li>Unsealed the XOM jar to allow having the CustomSerializer <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=3b8234020c">3b8234020c</a></li>
+<li>Fixed Javadocs error <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=e0304bf4bd">e0304bf4bd</a></li>
+<li>Fixed a wrong javadoc tag. Also removed svn tag in the SMARTS parser JJT file, replaced with git tag <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=c8887734af">c8887734af</a></li>
+<li>Added support for 'public enum's <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=4bf822d57b">4bf822d57b</a></li>
+<li>corrected bug in bondtools.isStereo(IAtomContainer container, IAtom stereoAtom). A comparision of atom symbols in a nested loop was using the counter of the outer loop twice. Note it worked before, because there is a sort of fallback to Morgan numbers. fallback to morgan (fixes #2830287) <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=025fb472b8">025fb472b8</a></li>
+<li>added a new test for bondtools <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=13f72bd406">13f72bd406</a></li>
+<li>Fixed inconsistency between accepts() and write: also support writing of IAtomContainerSet and IAtomContainer as accepts() indicates (fixes #2827745) <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=6380578865">6380578865</a></li>
+<li>General test for testing consistency between write() and accepts(), testing that all accepted IChemObject's can also be written <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=f0678eb65a">f0678eb65a</a></li>
+<li>Added unit test for bug #2826961: inconsistent atom typing for two SMILES. Unit test does not show a fail, ruling out a CDK bug <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=42e45efcd9">42e45efcd9</a></li>
+<li>Remove erroneous throws statement <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=f8cfea8bc3">f8cfea8bc3</a></li>
+<li>Bug found calculating the exact mass given a molecular formula when it is negative charged. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=3d1de45add">3d1de45add</a></li>
+<li>Fixed reading of the cdk/dict/data/elements.owl database which is now in OWL <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=73225a083a">73225a083a</a></li>
+<li>Fixed issue 2458210: use assertNotNull(foo) etc instead of assertTrue(foo != null). <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=182afe6670">182afe6670</a></li>
+<li>Added minimum equivalents for BondManipulator.getMaximumBondOrder() methods <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=6e126962ea">6e126962ea</a></li>
+<li>Fixes asserts: after removal *no* change should be recorded <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=3b9fa30041">3b9fa30041</a></li>
+<li>Added IO option to disable generator of XML declaration statements in the output CML. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=74451b8f0e">74451b8f0e</a></li>
+<li>Added generics, and consistified code by always returning a List<?> of the same '?'. (And some 80 chars fixes in the JavaDocs.) <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=d6337cd596">d6337cd596</a></li>
+<li>Added unit tests to test that when a [Molecule|Reaction|Ring]Set has been removed from a ChemModel, the ChemModel should unregister as listener. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=63e6c014a1">63e6c014a1</a></li>
+<li>Added unit tests for event propagation from [Molecule|Reaction|Ring]Sets to ChemModel. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=e01103543b">e01103543b</a></li>
+<li>More testing of flags. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=abb53842bf">abb53842bf</a></li>
+<li>Fix for junior job id: [ 1837692 ] Test methods should throw only one Exception. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=8c3853638e">8c3853638e</a></li>
+<li>Fixed missing imports and wrapped to 80 chars <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=fd2d2df6ef">fd2d2df6ef</a></li>
+<li>Better excpetion handling in builder3d: <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=bc5837d848">bc5837d848</a></li>
+<li>Fixed serialization of IAtom's with null formal charge to not cause NullPointerExceptions <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=acc8012b6c">acc8012b6c</a></li>
+<li>Added unit test for serialization of null formal charges into the MDL molfile format (which currently fails) <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=df57aea10f">df57aea10f</a></li>
+<li>Updated Javadocs for SMARTS query tool to indicate unsupported features <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=e1da4c0689">e1da4c0689</a></li>
+<li>Cleaned up source file to remove spurious line endings <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=3d7adae977">3d7adae977</a></li>
+</ul>
+
+This overview was created with this Linux one-liner:
+
+```shell
+git log --oneline cdk-1.2.3.. | sed 's/\([a-f0-9]*\)\s\(.*\).*/<li>\2 <a href="http:\/\/cdk.git.sourceforge.net\/git\/gitweb.cgi?p=cdk\/cdk;a=commit;h=\1">\1<\/a><\/li>/'
+```
