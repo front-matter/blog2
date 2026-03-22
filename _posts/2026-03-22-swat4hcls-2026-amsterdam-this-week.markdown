@@ -4,10 +4,10 @@ title:  "SWAT4HCLS 2026 Amsterdam this week"
 date:   2026-03-22
 doi: 10.59350/mztnx-y1770
 tags: rdf sparql swat4ls wikidata
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 116272326159562993
 ---
 
 Tomorrow, [SWAT4HCLS 2026](https://www.swat4ls.org/workshops/amsterdam2026/) will start, again in Amsterdam.
