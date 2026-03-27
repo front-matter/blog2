@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "CDK 1.2.4: the authors"
+date:   2009-11-18 00:10
+blogger-link: https://chem-bla-ics.blogspot.com/2009/11/cdk-124-authors.html
+doi: 10.59350/22kw4-c3g34
+tags: cdk git
+---
+
+The [CDK](http://cdk.sf.net/) [1.2.4 changelog](http://chem-bla-ics.blogspot.com/2009/11/cdk-124-changes.html) I posted earlier was directly
+created from git output. [Git](http://git-scm.com/) has many features which makes such thing simple. Here's a list of authors of
+the 1.2.4 change set:
+
+```
+56 Egon Willighagen
+ 9 Rajarshi  Guha
+ 5 Stefan Kuhn
+ 2 mark_rynbeek
+ 1 Uli Köhler
+ 1 Rajarshi Guha
+ 1 Peter Odéus
+ 1 Paul Turner
+ 1 Miguel Rojas Cherto
+ 1 Arvid Berg
+```
+
+This is just the number of commits, and many of mine are logistic in nature. You can also notice that [Rajarshi](http://blog.rguha.net/)
+has changed his name (removed the extraneous space :). Thanx to all of authors for contributing to this release! I am happy to see a few
+new names in this list, which seems to indicate that the people are settling in on the whole move from Subversion to Git.
+
+This list was created with this command adapted from [this StackOverflow question](http://stackoverflow.com/questions/1486819/which-git-commit-stats-are-easy-to-pull):
+
+```
+git log --pretty=format:%an cdk-1.2.3..cdk-1.2.4 | awk -- '{ ++c[$0]; } END { for(cc in c) printf "%5d %s\n",c[cc],cc; }' | sort -n -r
+```
