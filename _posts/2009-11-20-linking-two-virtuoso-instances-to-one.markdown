@@ -2,6 +2,7 @@
 layout: post
 title:  "Linking two Virtuoso instances to one Apache server"
 date:   2009-11-20
+modified_date: 2026-03-28
 blogger-link: https://chem-bla-ics.blogspot.com/2009/11/linking-two-virtuoso-instances-to-one.html
 doi: 10.59350/zgafr-mre81
 tags: virtuoso apache
@@ -32,14 +33,14 @@ ServerPort                      = 2291
 Then modify the */etc/apache2/mods-enabled/proxy.conf* (or whatever equivalent on your system) to have two sections creating two URL rewrites proxying the request to the virtuoso server:
 
 ```
-<Proxy [/nmrshiftdb/sparql](http://pele.farmbio.uu.se/nmrshiftdb/sparql)>
+<Proxy /nmrshiftdb/sparql>
   RewriteEngine On
   Allow from all
   ProxyPass        http://localhost:2290/sparql
   ProxyPassReverse http://localhost:2290/sparql
 </Proxy>
 
-<Proxy [/cc0/sparql](http://pele.farmbio.uu.se/cc0/sparql)>
+<Proxy /cc0/sparql>
   RewriteEngine On
   Allow from all
   ProxyPass        http://localhost:2291/sparql
