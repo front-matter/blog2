@@ -64,7 +64,17 @@ layout:
           {% assign check = ref | split:':' %}
           {% if check.size > 1 %}
             { "url": "{{ "https://doi.org/" | append: check[1] }}", "doi": "{{ check[1] }}"
-            {% if check[0] != "cites" %}, "cito": [ "{{ check[0] }}" ]{% endif %} }
+            {% if check[0] != "cites" %}, "cito":
+              {% assign citoTags = check[0] | split:',' %}
+              {% if citoTags.size > 0 %}
+                [ {% for citoTag in citoTags %}
+                  "{{ citoTag }}"
+                  {% unless forloop.last %},{% endunless %}
+                {% endfor %} ]
+              {% else %}
+                [ "{{ citoTags }}" ]
+              {% endif %}
+            {% endif %} }
             {% unless forloop.last %},{% endunless %}
           {% endif %}
         {% endfor %}],

@@ -140,7 +140,15 @@ if (dois.length > 0) {
       append: function (entry) {
         intentionStr = ""
         if (intentionMap.has(entry.DOI.toUpperCase())) {
-          intentionStr = " <b>[cito:" + intentionMap.get(entry.DOI.toUpperCase()) + "]</b>"
+          intentionList = intentionMap.get(entry.DOI.toUpperCase())
+          if (intentionList.includes(",")) {
+            var intentionArray = intentionList.split(',');
+            for (var i = 0; i < intentionArray.length; i++) {
+              intentionStr += " <b>[cito:" + intentionArray[i] + "]</b>"
+            }
+          } else {
+            intentionStr = " <b>[cito:" + intentionMap.get(entry.DOI.toUpperCase()) + "]</b>"
+          }
         }
         return intentionStr + ' <a href="https://doi.org/' + entry.DOI + '">CrossRef</a> <a href="https://scholia.toolforge.org/doi/' + entry.DOI + '">Scholia</a>'
       }
