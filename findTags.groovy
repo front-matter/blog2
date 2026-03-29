@@ -87,7 +87,23 @@ tags.grep{ it.toString().startsWith("doi:") }.each() { tag ->
     file.text = """---
 layout: work
 title: "Work: XXXX"
-type: XXXX
+type: ScholarlyArticle
+tag: doi:${tag}
+doi: doi:${tag}
+---
+"""
+  }
+}
+tags.grep{ it.toString().startsWith("mycito:") }.each() { tag ->
+  lastIndex = tag.lastIndexOf(":")
+  tag = tag.substring(lastIndex+1).toUpperCase()
+  file = new File("work/${tag}.markdown")
+  if (!file.exists()) {
+    println "Creating $file"
+    file.text = """---
+layout: work
+title: "Work: XXXX"
+type: ScholarlyArticle
 tag: doi:${tag}
 doi: doi:${tag}
 ---
