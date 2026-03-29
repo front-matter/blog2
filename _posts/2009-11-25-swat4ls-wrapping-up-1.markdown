@@ -2,6 +2,7 @@
 layout: post
 title:  "SWAT4LS: wrapping up #1"
 date:   2009-11-25
+modified_date: 2026-03-29
 blogger-link: https://chem-bla-ics.blogspot.com/2009/11/swat4ls-wrapping-up-1.html
 doi: 10.59350/78fbd-y6h76
 tags: swat4ls blue-obelisk jmol sparql
@@ -34,7 +35,7 @@ then (which was done)!**
 
 There was also note of the [Amino Acid Ontology](http://www.co-ode.org/ontologies/amino-acid/2009/02/16/), which comes closer to our groups
 proteochemometrics work, but I have yet to look if this can be used for or linked protein descriptors. Also interesting is the idea behind
-[RDFHerd](http://neurocommons.org/page/RDF_installer), a project aiming to distribute RDF data sets as installable packages. If I understood
+[RDFHerd <i class="fa-solid fa-recycle fa-xs"></i>](https://github.com/alanruttenberg/rdfherd), a project aiming to distribute RDF data sets as installable packages. If I understood
 correctly, only [Virtuoso](http://virtuoso.openlinksw.com/dataspace/dav/wiki/Main/) is yet supported, but this thing can fly, particularly,
 if these packages are easily converted into [Debian packages](http://www.debian.org/doc/FAQ/ch-pkg_basics.en.html).
 
