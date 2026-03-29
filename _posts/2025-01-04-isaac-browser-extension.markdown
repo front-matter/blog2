@@ -2,14 +2,15 @@
 layout: post
 title:  "ISAAC Chrome Extension"
 date:   2025-01-04
-modified_date: 2025-08-31
+modified_date: 2026-03-29
 authors:
   - name: Egon Willighagen
     orcid: 0000-0001-7542-0286
   - name: Lars Willighagen
     orcid: 0000-0002-4751-4637
-tags: javascript cito:usesMethodIn:10.7717/peerj-cs.214 doi:10.5281/ZENODO.14562484
-  doi:10.5281/ZENODO.14562504
+tags: javascript cito:usesMethodIn:10.7717/peerj-cs.214
+  mycito:citesAsEvidence:10.5281/ZENODO.14562484
+  mycito:citesAsEvidence:10.5281/ZENODO.14562504
 image: /assets/images/isaac2025_1.png
 doi: 10.59350/1cg8w-qth68
 ---

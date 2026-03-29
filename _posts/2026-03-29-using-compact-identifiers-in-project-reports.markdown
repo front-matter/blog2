@@ -5,8 +5,8 @@ date:   2026-03-29
 doi: 10.59350/re9j2-hk972
 tags: identifier semweb cito cito:usesMethodIn,includesQuotationFrom:10.1038/sdata.2018.29
   cito:obtainsBackgroundFrom:10.1007/s12021-015-9284-3 cito:usesMethodIn:10.1093/bioinformatics/btaa864
-  cito:usesMethodIn:10.1038/s41597-022-01807-3 cito:obtainsBackgroundFrom:10.1038/sdata.2016.18
-  cito:includesQuotationFrom:10.1186/s13321-022-00614-7 cito:includesQuotationFrom:10.1186/s13321-020-00448-1
+  mycito:usesMethodIn:10.1038/S41597-022-01807-3 cito:obtainsBackgroundFrom:10.1038/sdata.2016.18
+  mycito:includesQuotationFrom:10.1186/S13321-022-00614-7 mycito:includesQuotationFrom:10.1186/S13321-020-00448-1
 grants:
   - grant:
     title: "FAIR4ChemNL: Accelerating the adoption of universal data standards in chemistry"
