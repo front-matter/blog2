@@ -55,6 +55,9 @@ layout:
           {% elsif check[0] == "cito" %}
             {% capture references_tags %}{{ references_tags | append: check[1] | append: ":" | append: check[2] | append: '|' }}{% endcapture %}
             {% assign has_references = true %}
+          {% elsif check[0] == "mycito" %}
+            {% capture references_tags %}{{ references_tags | append: check[1] | append: ":" | append: check[2] | append: '|' }}{% endcapture %}
+            {% assign has_references = true %}
           {% endif %}
         {% endif %}
       {% endfor %}

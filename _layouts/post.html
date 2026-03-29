@@ -52,7 +52,7 @@ layout: base
             {% capture tag_name %}{{ tag }}{% endcapture %}
             {% assign type = "tag" %} <!-- failsafe -->
             {% assign icon = "tag" %}
-          {% else %}
+          {% elsif check.size == 2 %}
             {% capture tag_name %}{{ check[1] }}{% endcapture %}
             {% if check[0] == "inchikey" %}
               {% assign type = "molecule" %}
@@ -62,11 +62,17 @@ layout: base
             {% elsif check[0] == "doi" %}
               {% assign type = "work" %}
               {% assign icon = "file" %}
-            {% elsif check[0] == "cito" %}
-              {% assign type = "skip" %}
             {% else %}
               {% assign type = "tag" %} <!-- failsafe -->
               {% assign icon = "tag" %}
+            {% endif %}
+          {% else %}
+            {% capture tag_name %}{{ check[2] }}{% endcapture %}
+            {% if check[0] == "cito" %}
+              {% assign type = "skip" %}
+            {% elsif check[0] == "mycito" %}
+              {% assign type = "work" %}
+              {% assign icon = "file" %}
             {% endif %}
           {% endif %}
           {% if type != "skip" %}
@@ -124,6 +130,10 @@ dois.push("{{ doi }}")
       {% capture doi %}{{ check[1] }}{% endcapture %}
 dois.push("{{ doi }}")
     {% elsif check[0] == "cito" %}
+      {% capture doi %}{{ check[2] }}{% endcapture %}
+dois.push("{{ doi }}")
+intentionMap.set("{{ doi }}".toUpperCase(), "{{ check[1] }}")
+    {% elsif check[0] == "mycito" %}
       {% capture doi %}{{ check[2] }}{% endcapture %}
 dois.push("{{ doi }}")
 intentionMap.set("{{ doi }}".toUpperCase(), "{{ check[1] }}")
