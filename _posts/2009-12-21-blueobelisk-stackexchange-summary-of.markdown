@@ -12,12 +12,12 @@ The [Blue Obelisk StackExchange <i class="fa-solid fa-box-archive fa-xs"></i>](h
 (BO<sub>x</sub>) has seen a relatively good start,
 but the number of questions is dropping. The average number of unique visits is about 23-30 now:
 
-![](/blog/assets/images/box.png)
+![](/assets/images/box.png)
 
 The number of [registered users <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20091231024627/http://blueobelisk.stackexchange.com/users) is not insignificant but also
 has not been growing much lately:
 
-![](/blog/assets/images/box1.png)
+![](/assets/images/box1.png)
 
 At the same time, the quality of the questions are high, and have real users questions:
 
@@ -28,7 +28,7 @@ At the same time, the quality of the questions are high, and have real users que
 The overall state is [37 questions <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20100413233403/http://blueobelisk.stackexchange.com/questions) with about
 [50 different tags <i class="fa-solid fa-link-slash fa-xs"></i>](http://blueobelisk.stackexchange.com/tags):
 
-![](/blog/assets/images/box2.png)
+![](/assets/images/box2.png)
 
 To the make progress with BO<sub>x</sub>, we primarily need to promote it more as central point of entry to people who
 want to know what *free* tools they can use to perform there need, and to the people who want to contribute to

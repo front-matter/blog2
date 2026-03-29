@@ -5,7 +5,7 @@ date:   2009-11-11
 blogger-link: https://chem-bla-ics.blogspot.com/2009/11/blueobelisk-stackexchange-com.html
 doi: 10.59350/nvdsb-ygz96
 tags: blue-obelisk
-image: /blog/assets/images/boExchangeScreeny.png
+image: /assets/images/boExchangeScreeny.png
 ---
 
 Oh no, not another communication channel?! We already have [Google](http://chem-bla-ics.blogspot.com/2009/09/google-wave-robot-for-cdk-functionality.html)
@@ -13,7 +13,7 @@ Oh no, not another communication channel?! We already have [Google](http://chem-
 
 Well, you are right. But I could not resist: [blueobelisk.stackexchange.com](http://blueobelisk.stackexchange.com/)...
 
-![](/blog/assets/images/boExchangeScreeny.png)
+![](/assets/images/boExchangeScreeny.png)
 
 No, it is not using an Open platform, but plenty of Windows and Max users among us... the data is
 [CC0](http://creativecommons.org/choose/zero).

@@ -5,14 +5,14 @@ date:   2009-11-07
 blogger-link: https://chem-bla-ics.blogspot.com/2009/11/call-for-collaboration-javadoc.html
 doi: 10.59350/49cn8-6n163
 tags: cdk javadoc
-image: /blog/assets/images/ojdcheck.png
+image: /assets/images/ojdcheck.png
 ---
 
 I reported recently about my efforts to write an [Open Source DocCheck replacement](http://chem-bla-ics.blogspot.com/2009/10/work-in-progress-open-doccheck.html).
 I received the first patches (from [Rajarshi](http://blog.rguha.net/)), and brought it online in a [CDK](http://cdk.sf.net/) branch (see
 [this Nightly page](http://pele.farmbio.uu.se/nightly-ojdcheck/ojdcheckSummary.html)).
 
-![](/blog/assets/images/ojdcheck.png)
+![](/assets/images/ojdcheck.png)
 
 This list shows a mix of tests that are now implemented in OpenJavaDocCheck itself, but the third line is actually a test that is plugged in and specific for the CDK. This is an important feature, I think, and allows users of OpenJavaDocCheck to add functionality is that is not interesting to the general public, but very interesting for the JavaDoc being analyzed. Well, at least, it is to our CDK project :)
 
