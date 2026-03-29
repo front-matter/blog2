@@ -3,5 +3,5 @@ layout: work
 title: "Work: Unifying the identification of biomedical entities with the Bioregistry"
 type: ScholarlyArticle
 tag: doi:10.1038/S41597-022-01807-3
-doi: doi:10.1038/S41597-022-01807-3
+doi: 10.1038/S41597-022-01807-3
 ---
