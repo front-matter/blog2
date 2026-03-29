@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: Bioclipse 2: A scriptable integration platform for the life sciences"
+type: ScholarlyArticle
+tag: doi:10.1186/1471-2105-10-397
+doi: doi:10.1186/1471-2105-10-397
+---
