@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "SWAT4HCLS 2026"
+date:   2026-04-04 16:54
+doi: 10.59350/bmxve-vry14
+tags: swat4ls mastodon justdoi:10.1039/D3DD00238A justdoi:10.1145/3132847.3132921
+#comments:
+#  host: social.edu.nl
+#  username: egonw
+#  id: ...
+---
+
+A bit over a week ago, [SWAT4HCLS 2026](https://www.swat4ls.org/workshops/amsterdam2026/) took place, with the matching
+[biohackathon](https://www.swat4ls.org/workshops/amsterdam2026/swat4hcls-biohackathon-2026/) on Thursday (see
+[this post](https://chem-bla-ics.linkedchemistry.info/2026/03/22/swat4hcls-2026-amsterdam-this-week.html).
+I attempted a bit of live coverage on mastodon: [day 1](https://social.edu.nl/@egonw/116285060969709401) and
+[day 2](https://social.edu.nl/@egonw/116289579219485790). But it seems the semantic web community interested
+in SWAT4HCLS has not found the fediverse yet. So, make sure to check
+[this full list of abstracts](https://www.swat4ls.org/workshops/amsterdam2026/programme/accepted-submissions/).
+
+The meeting consisted of [four keynotes](https://www.swat4ls.org/workshops/amsterdam2026/programme/keynotes/), each
+one was quite interesting. Cornet gave a nice historic perspective of the venue and of the semantic web field,
+which is a great way to welcome the participants to your institute. The talk also touches on the main theme
+of the meeting: clinical data. It is a long standing (and important) research field, but progress is slow.
+Cornet [comments](https://social.edu.nl/@egonw/116283216644714695) along the lines that *we have been talking
+about reasoning over patient data for more than twenty years, but we still have not solve it*.
+
+The problem is really not only privacy, but simple also lack of a common language. As
+[Sabine Österle](https://qlever.scholia.wiki/orcid/0000-0003-3248-7899) explains
+about sharing health/patient data in Switzerland, across 26 kantons and legislations and 4 national languages.
+Another issue is more technical, running SPARQL across hospitals involves more than just aligning ontologies,
+but also requires (too much) fiddling with SPARQL queries.
+
+There was plenty of other content too, however. For example, I was pleasantly
+[surprised](https://social.edu.nl/@egonw/116284409447761902) by the
+[RDF4RiskAssessment](https://www.swat4ls.org/workshops/amsterdam2026/programme/accepted-submissions/#RDF4RiskAssessment_Toolkit_A_Toolkit_for_Converting_Tabular_Research_Data_to_FAIR_RDF_for_Risk_Assessment_and_Life_Sciences)
+work, the [RO-Crates for BioImaging](https://www.swat4ls.org/workshops/amsterdam2026/programme/accepted-submissions/#RO-Crates_for_BioImaging),
+and [FDPcrawleR](https://www.swat4ls.org/workshops/amsterdam2026/programme/accepted-submissions/#FDPcrawleR_A_Lightweight_R_Framework_for_Auditing_FAIR_Data_Points_and_FAIR_Virtual_Platforms).
+All these projects have direct links to research ongoing in [our TGX team](https://www.maastrichtuniversity.nl/research/translational-genomics).
+
+[Hanna Bast](https://qlever.scholia.wiki/orcid/0000-0003-1213-6776) gave the second keynote of the first day, about [QLever](https://qlever.dev/)
+(doi:[10.1145/3132847.3132921](https://doi.org/10.1145/3132847.3132921)). She talked about some of the recent improvements,
+something we really [needed for Scholia](https://chem-bla-ics.linkedchemistry.info/2026/02/28/rescuing-scholia-3-we-did-it.html).
+She showed a technical approach to make federated queries faster, tho it currently only works between endpoints
+that both run QLever. One thing I am looking forward to, is playing with the notion of
+[materialized views](https://docs.qlever.dev/materialized-views/?h=materialize), but the biohackathon
+was too short to get around to that during the Thursday.
+
+The second day kicked off with a keynote by [Janna Hastings](https://qlever.scholia.wiki/orcid/0000-0002-3469-4923),
+whose work I greatly admire. I was not disappointed today, and she showed the
+[Behaviour Change Intervention Ontology](https://www.bciontology.org/) and [Chebifier](https://chebifier.hastingslab.org/)
+(doi:[10.1039/D3DD00238A](https://doi.org/10.1039/D3DD00238A)).
+
+The last talk I want to mention in the blog is by two researcher working with Michel Dumontier. They
+[presented](https://www.swat4ls.org/workshops/amsterdam2026/programme/accepted-submissions/#Embedding-based_Deduplication_of_Knowledge_Graphs_using_Graph_Neural_Networks)
+a study about deduplication in/of knowledge graphs. This is something I want to read in more detail.
