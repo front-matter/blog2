@@ -4,10 +4,10 @@ title:  "SWAT4HCLS 2026"
 date:   2026-04-04 16:54
 doi: 10.59350/bmxve-vry14
 tags: swat4ls mastodon justdoi:10.1039/D3DD00238A justdoi:10.1145/3132847.3132921
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 116348268407713103
 ---
 
 A bit over a week ago, [SWAT4HCLS 2026](https://www.swat4ls.org/workshops/amsterdam2026/) took place, with the matching
