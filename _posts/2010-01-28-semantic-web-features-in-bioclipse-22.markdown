@@ -15,10 +15,10 @@ today, and asked me to show case the semantic web functionality in Bioclipse. I 
 
 * [Bioclipse Manager for MyExperiment.org](http://chem-bla-ics.blogspot.com/2009/11/bioclipse-manager-for-myexperimentorg.html)
 * [Bioclipse, RDF and defeasible reasoning](http://chem-bla-ics.blogspot.com/2009/09/bioclipse-rdf-and-defeasible-reasoning.html) (see also [Samuel's blog](http://saml.rilspace.com/))
-* [Bioclipse and SPARQL end points #2: MyExperiment](http://chem-bla-ics.blogspot.com/2009/08/bioclipse-and-sparql-end-points-2.html)
-* [Bioclipse and SPARQL end points](http://chem-bla-ics.blogspot.com/2009/08/bioclipse-and-sparql-end-points.html)
-* [Solubility Data in Bioclipse #2: handling RDF](http://chem-bla-ics.blogspot.com/2009/02/solubility-data-in-bioclipse-2-handling.html)
-* [Solubility Data in Bioclipse #3: Finding ChEBI IDs](http://chem-bla-ics.blogspot.com/2009/02/solubility-data-in-bioclipse-3-finding.html)
+* [Bioclipse and SPARQL end points #2: MyExperiment <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/08/21/bioclipse-and-sparql-end-points-2.html)
+* [Bioclipse and SPARQL end points <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/08/16/bioclipse-and-sparql-end-points.html)
+* [Solubility Data in Bioclipse #2: handling RDF <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/02/22/solubility-data-in-bioclipse-2-handling.html)
+* [Solubility Data in Bioclipse #3: Finding ChEBI IDs <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/02/27/solubility-data-in-bioclipse-3-finding.html)
 * [Solubility Data in Bioclipse #4: Finding ChEBI IDs (Again, but better)](http://chem-bla-ics.blogspot.com/2009/03/solubility-data-in-bioclipse-4-finding.html)
 * [/me is having Bioclipse/XMPP/RDF fun](http://chem-bla-ics.blogspot.com/2009/05/me-is-having-bioclipsexmpprdf-fun.html)
 

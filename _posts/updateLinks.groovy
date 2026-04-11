@@ -14,6 +14,7 @@ ui = new net.bioclipse.managers.UIManager("..");
 
 mappings = [
   "2021/06/conflict-of-interest-or-why-i-am.html": "2021/06/11/conflict-of-interest-or-why-i-am.html",
+  "2009/11/bioclipse-manager-for-myexperimentorg.html": "2009/11/04/bioclipse-manager-for-myexperimentorg.html",
   "2020/11/cito-updates-1-first-research-paper-in.html": "2020/11/01/cito-updates-1-first-research-paper-in.html",
   "2010/07/cb-new-blogs-13.html": "2010/07/15/cb-new-blogs-13.html",
   "2009/09/nmrshiftdb-enters-rdfopenmoleculesnet-2.html": "2009/09/04/nmrshiftdb-enters-rdfopenmoleculesnet-2.html",
@@ -31,11 +32,11 @@ mappings = [
   "2009/03/open-nmr-data-raw-curves-and-annotated.html": "2009/03/04/open-nmr-data-raw-curves-and-annotated.html",
   "2009/02/dbpedia-enters-rdfopenmoleculesnet.html": "2009/02/17/dbpedia-enters-rdfopenmoleculesnet.html",
   "2009/02/dbpedia-lookup-and-autocomplete-of.html": "2009/02/dbpedia-lookup-and-autocomplete-of.html",
+  "2009/02/solubility-data-in-bioclipse-3-finding.html": "2009/02/27/solubility-data-in-bioclipse-3-finding.html",
   "2009/02/solubility-data-in-bioclipse-2-handling.html": "2009/02/22/solubility-data-in-bioclipse-2-handling.html",
   "2009/02/bioclipse2-scripting-2-searching.html": "2009/02/21/bioclipse2-scripting-2-searching.html",
   "2009/02/bioclipse-for-cdk-developers-1.html": "2009/02/15/bioclipse-for-cdk-developers-1.html",
   "2009/02/cdk-12-release-candidate.html": "2009/02/10/cdk-12-release-candidate.html",
-  "2009/02/solubility-data-in-bioclipse-3-finding.html": "2009/02/27/solubility-data-in-bioclipse-3-finding.html",
   "2009/01/rsc-now-allows-jmol-in-main-text-of.html": "2009/01/19/rsc-now-allows-jmol-in-main-text-of.html",
   "2009/01/details-behind-calling-xmpp-cloud.html": "2009/01/21/details-behind-calling-xmpp-cloud.html",
   "2009/01/calling-xmpp-cloud-services-from.html": "2009/01/19/calling-xmpp-cloud-services-from.html",

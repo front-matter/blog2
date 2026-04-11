@@ -2,7 +2,7 @@
 layout: post
 title:  "Linking two Virtuoso instances to one Apache server"
 date:   2009-11-20
-modified_date: 2026-03-28
+modified_date: 2026-04-11
 blogger-link: https://chem-bla-ics.blogspot.com/2009/11/linking-two-virtuoso-instances-to-one.html
 doi: 10.59350/zgafr-mre81
 tags: virtuoso apache
@@ -10,7 +10,7 @@ tags: virtuoso apache
 
 [Virtuoso](http://virtuoso.openlinksw.com/dataspace/dav/wiki/Main/) comes with its own web front end, but I did not want to make that public.
 Additionally, I actually have two instances running, one for the [GNU FDL](http://www.gnu.org/copyleft/fdl.html)
-licensed [NMRShiftDB](http://chem-bla-ics.blogspot.com/2009/09/nmrshiftdb-enters-rdfopenmoleculesnet-2.html)
+licensed [NMRShiftDB <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/09/04/nmrshiftdb-enters-rdfopenmoleculesnet-2.html)
 data, and one for the CC0 [ChemPedia](http://chem-bla-ics.blogspot.com/2009/11/chempedia-rdf-1-sparql-end-point.html) and
 [Solubility](http://chem-bla-ics.blogspot.com/2009/11/open-notebook-science-solubility-sparql.html) data sets.
 
