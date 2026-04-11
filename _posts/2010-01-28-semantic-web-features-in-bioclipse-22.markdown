@@ -2,13 +2,15 @@
 layout: post
 title:  "Semantic Web features in Bioclipse 2.2"
 date:   2010-01-28
+modified_date: 2026-04-11
 blogger-link: https://chem-bla-ics.blogspot.com/2010/01/semantic-web-features-in-bioclipse-22.html
 doi: 10.59350/6m8qd-xed40
 tags: java bioclipse rdf sparql
 image: /blog/assets/images/dbPediaMolTable.png
 ---
 
-[Ola](http://www.blogger.com/profile/10379047094508592338) is releasing [Bioclipse](http://bioclipse.net/) [2.2.0](http://sourceforge.net/projects/bioclipse/files/bioclipse2/bioclipse2.2.0/)
+[Ola](http://www.blogger.com/profile/10379047094508592338) is releasing [Bioclipse <i class="fa-solid fa-box-archive fa-xs"></i>](http://web.archive.org/web/20100111032721/https://bioclipse.net/)
+[2.2.0](http://sourceforge.net/projects/bioclipse/files/bioclipse2/bioclipse2.2.0/)
 today, and asked me to show case the semantic web functionality in Bioclipse. I realized that I do not have a nice page showing the semantic web overview. But I did blog a lot about RDF functionality, so here's a list of pointers:
 
 * [Bioclipse Manager for MyExperiment.org](http://chem-bla-ics.blogspot.com/2009/11/bioclipse-manager-for-myexperimentorg.html)
@@ -20,7 +22,8 @@ today, and asked me to show case the semantic web functionality in Bioclipse. I 
 * [Solubility Data in Bioclipse #4: Finding ChEBI IDs (Again, but better)](http://chem-bla-ics.blogspot.com/2009/03/solubility-data-in-bioclipse-4-finding.html)
 * [/me is having Bioclipse/XMPP/RDF fun](http://chem-bla-ics.blogspot.com/2009/05/me-is-having-bioclipsexmpprdf-fun.html)
 
-Or check this screenshot from [a Posterous post about a MyExperiment workflow](http://egonw.posterous.com/molecules-in-dbpedia-visualized-with-bioclips):
+Or check this screenshot from [a Posterous post about a MyExperiment workflow
+<i class="fa-solid fa-box-archive fa-xs"></i>](http://web.archive.org/web/20130310013833/http://egonw.posterous.com/molecules-in-dbpedia-visualized-with-bioclips):
 
 ![](/blog/assets/images/dbPediaMolTable.png)
 
