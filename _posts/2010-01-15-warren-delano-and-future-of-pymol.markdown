@@ -5,7 +5,7 @@ date:   2010-01-15
 blogger-link: https://chem-bla-ics.blogspot.com/2010/01/warren-delano-and-future-of-pymol.html
 doi: 10.59350/dskgb-hdz03
 tags: odosos chemistry
-image: /blog/assets/images/pymol2.png
+image: /assets/images/pymol2.png
 ---
 
 This blog is old and new news. The old news is that [Warren passed away](http://warrendelano.blogspot.com/2009/11/warren-delano-passes-away.html) at the
@@ -13,7 +13,7 @@ end of last year, after having successfully shown how OpenSource cheminformatics
 ([DeLano Scientific](http://delanoscientific.com/)), and [PyMol](http://pymol.org/) was a huge success. Warren had a SourceForge account
 ([wdelano](http://sourceforge.net/users/wdelano)) for almost 10 years:
 
-![](/blog/assets/images/pymol1.png)
+![](/assets/images/pymol1.png)
 
 I had not blogged about it before as the news hit me hard. Surely, Warren knew a lot of people and I only was only one of many, but Warren's memory sticked well.
 I know Warren from the [Jmol](http://www.jmol.org/) project, where we talked in the past of coming to an Open Specification for exchanging scenes between
@@ -39,12 +39,12 @@ But, unless I missed any other Open Source (-oriented) product, the acquisition 
 PyMol is a major Open Source product, bigger than KNIME at the moment, I'd guess. My immediate response to the acquisition is whether
 they acquired copyrights, and they did, according to [this commit](http://pymol.svn.sf.net/viewvc/pymol/branches/b099/pymol/layer0/Base.h?r1=3886&r2=3885&pathrev=3886):
 
-![](/blog/assets/images/pymol2.png)
+![](/assets/images/pymol2.png)
 
 This is important as it puts Schrödinger in charge of license changes. Fortunately, they seem rather serious about the Open Source thing, and
 hired an active PyMol developer (Jason), and kept the existing Open Source license:
 
-![](/blog/assets/images/pymol.png)
+![](/assets/images/pymol.png)
 
 Therefore, congratulations to Schrödinger for getting seriously into the Open Source community, making them the next
 [Dr Who of PyMol](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=2059), and

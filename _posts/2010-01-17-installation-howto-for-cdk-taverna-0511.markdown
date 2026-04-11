@@ -30,30 +30,30 @@ $ sh runme.sh
 
 Plugins can be installed using with the *Plugin manager* which can be accessed via the *Tools* menu:
 
-![](/blog/assets/images/cdktav4.png)
+![](/assets/images/cdktav4.png)
 
 Clicking the *Find New Plugins* takes you to a second dialog listing known plugin sites, and the default download has several already:
 
-![](/blog/assets/images/cdktav1.png)
+![](/assets/images/cdktav1.png)
 
 The CDK-Taverna update site is available at *http://cdk-taverna.de/plugin/*, and we can make Taverna aware of this update site by clicking the
 *Add Plugin Site* button:
 
-![](/blog/assets/images/cdktav.png)
+![](/assets/images/cdktav.png)
 
 After filling out these values and approving it with the *OK* button, it will show up on the dialog showing all available plugins,
 where you need the check the check box in front of the CDK-Taverna plugin name, as done in this screenshot:
 
-![](/blog/assets/images/cdktav2.png)
+![](/assets/images/cdktav2.png)
 
 You can then hit the *Install* button after which the plugin will be downloaded:
 
-![](/blog/assets/images/cdktav3.png)
+![](/assets/images/cdktav3.png)
 
 After it is done downloading the plugin, you can close the *Plugin Sites* and *Plugin Manager* dialogs. I shutdown and restarted Taverna with
 `sh runme.se`, but not entirely sure this is needed. After that, the CDK nodes showed up in the list of Taverna processors:
 
-![](/blog/assets/images/cdktav5.png)
+![](/assets/images/cdktav5.png)
 
 ### MyExperiment Plugin
 
@@ -61,7 +61,7 @@ Using the same Taverna *Plugin Manager* you can also install the MyExperiment pl
 Taverna workflows from the MyExperiment website from within Taverna itself. I installed the plugin, and then used it to search for CDK workflows
 (and downloaded a QSAR workflow):
 
-![](/blog/assets/images/cdktav6.png)
+![](/assets/images/cdktav6.png)
 
 This about everything to get you going. It's not particularly rocket science, but I guess this howto is useful as you get to see what
 you should expect when setting up a CDK-Taverna environment. If you have further questions, please leave those in the comments section,

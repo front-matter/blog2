@@ -6,7 +6,7 @@ modified_date: 2026-04-11
 blogger-link: https://chem-bla-ics.blogspot.com/2010/01/semantic-web-features-in-bioclipse-22.html
 doi: 10.59350/6m8qd-xed40
 tags: java bioclipse rdf sparql
-image: /blog/assets/images/dbPediaMolTable.png
+image: /assets/images/dbPediaMolTable.png
 ---
 
 [Ola](http://www.blogger.com/profile/10379047094508592338) is releasing [Bioclipse <i class="fa-solid fa-box-archive fa-xs"></i>](http://web.archive.org/web/20100111032721/https://bioclipse.net/)
@@ -25,7 +25,7 @@ today, and asked me to show case the semantic web functionality in Bioclipse. I 
 Or check this screenshot from [a Posterous post about a MyExperiment workflow
 <i class="fa-solid fa-box-archive fa-xs"></i>](http://web.archive.org/web/20130310013833/http://egonw.posterous.com/molecules-in-dbpedia-visualized-with-bioclips):
 
-![](/blog/assets/images/dbPediaMolTable.png)
+![](/assets/images/dbPediaMolTable.png)
 
 One thing I have not blogged about yet (I think), is that the Bioclipse RDF manager also understands RDFa now. Well, sort of... it relies on a webservice, but this is what the script looks like:
 
