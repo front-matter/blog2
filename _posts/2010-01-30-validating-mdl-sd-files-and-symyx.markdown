@@ -5,7 +5,7 @@ date:   2010-01-30 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2010/01/validating-mdl-sd-files-and-symyx.html
 doi: 10.59350/zwv8r-yey62
 tags: cdk chemistry
-image: /blog/assets/images/errorReporting.png
+image: /assets/images/errorReporting.png
 ---
 
 
@@ -42,7 +42,7 @@ available, and the reader could safely ignore the missing information. Per user 
 Now, personally, I rather send the file back to the user with a proper error report and show them what is wrong with the file. Or better, provide them with a MDL V2000
 text editor (e.g. in Bioclipse) which would graphically highlight errors, as many of us are used to with Eclipse:
 
-![](/blog/assets/images/errorReporting.png)
+![](/assets/images/errorReporting.png)
 
 ## CDK Patch
 
