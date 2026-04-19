@@ -11,7 +11,7 @@ tags: oscar beilstein chemistry justdoi:10.3762/bjoc.6.32
 
 Some smart software developer once said to not optimize your code too early. However, not caring about it at all does not help either.
 Some basic knowledge of memory management can keep you going. That is, I just ran into the limits of [Oscar](http://oscar3-chem.sf.net/)
-and ChemicalTagger. As I blogged earlier today, I am [analyzing the BJOC literature](https://chem-bla-ics.blogspot.com/2010/12/status-update-on-bjoc-analysis-with.html),
+and ChemicalTagger. As I blogged earlier today, I am [analyzing the BJOC literature <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/12/11/status-update-on-bjoc-analysis-with.html),
 but Lezan and I are running into a reproducible out-of-memory exception. At first I thought it was a memory leak, as it was the 95th
 paper if fell over on, but after we optimized our code a bit, by reusing classes, the problem remained and turned out to be not in
 recreating objects (though the code is significantly faster now), but in a single BJOC paper being too large.

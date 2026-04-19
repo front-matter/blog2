@@ -6,6 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2009/11/new-bioclipse-features-k
 doi: 10.59350/2ty9f-n0m97
 tags: cheminf cdk bioclipse jmol
 image: /assets/images/bioclipseKabsch1.png
+modified_date: 2026-04-19
 ---
 
 We recently submitted a second paper on [Bioclipse](http://www.bioclipse.net/), and have worked hard in the past two weeks on addressing the
@@ -18,7 +19,7 @@ To strengthen our intentions towards the 3D cheminformatics world, we have imple
 functionality. For example, we added Kabsch aligment and the related RMSD between molecular structures implemented as both popup menus
 as well as manager methods. The manager method you can see in action in [MyExperiment workflow 937](http://www.myexperiment.org/workflows/937),
 which you can download directly into Bioclipse with one simple command (see
-[Bioclipse Manager for MyExperiment.org](http://chem-bla-ics.blogspot.com/2009/11/bioclipse-manager-for-myexperimentorg.html)):
+[Bioclipse Manager for MyExperiment.org <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/11/04/bioclipse-manager-for-myexperimentorg.html)):
 
 ```javascript
 var smileses = new Array("CC(C)C", "CCCN", "CCC=O");

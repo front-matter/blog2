@@ -6,10 +6,11 @@ doi: 10.59350/8n7nt-fas57
 blogger-link: https://chem-bla-ics.blogspot.com/2010/12/status-update-on-bjoc-analysis-with_23.html
 tags: oscar chemicaltagger beilstein justdoi:10.1186/1860-5397-1-11
 image: /assets/images/chemtag1.png
+modified_date: 2026-04-19
 ---
 
-The [two](http://chem-bla-ics.blogspot.com/2010/12/status-update-on-bjoc-analysis-with_11.html)
-[earlier](http://chem-bla-ics.blogspot.com/2010/12/status-update-on-bjoc-analysis-with.html) posts
+The [two <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/12/11/status-update-on-bjoc-analysis-with_11.html)
+[earlier <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/12/11/status-update-on-bjoc-analysis-with.html) posts
 in this series showed screenshots of results of Oscar, but the title also promised results by Lezan's
 [ChemicalTagger](http://www-ucc.ch.cam.ac.uk/products/software/chemicaltagger). Sam
 helped with getting the HTML pages online via the Cambridge Hudson installation. Where

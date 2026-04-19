@@ -2,7 +2,7 @@
 layout: post
 title:  "Text mining chemistry from Dutch or Swedish texts"
 date:   2010-12-30
-modified_date: 2025-03-05
+modified_date: 2026-04-19
 doi: 10.59350/k1tea-hnb50
 blogger-link: https://chem-bla-ics.blogspot.com/2010/12/text-mining-chemistry-from-dutch-or.html
 tags: oscar textmining justdoi:10.59350/vtadn-tdt17 justdoi:10.59350/nbtxd-kdz73
@@ -22,9 +22,9 @@ aspects of Oscar4 at several occasions:
 * [Oscar4 command line utilities <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/11/18/oscar4-command-line-utilities.html)
 * [Installing Oscar](http://chem-bla-ics.blogspot.com/2010/11/installing-oscar.html)
 * [Adding a new dictionary to Oscar <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/11/29/adding-new-dictionary-to-oscar.html)
-* [Status update on BJOC analysis with Oscar and ChemicalTagger](http://chem-bla-ics.blogspot.com/2010/12/status-update-on-bjoc-analysis-with.html)
-* [Status update on BJOC analysis with Oscar and ChemicalTagger #2](http://chem-bla-ics.blogspot.com/2010/12/status-update-on-bjoc-analysis-with_11.html)
-* [Supramolecular chemistry](http://chem-bla-ics.blogspot.com/2010/12/supramolecular-chemistry.html)
+* [Status update on BJOC analysis with Oscar and ChemicalTagger <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/12/11/status-update-on-bjoc-analysis-with.html)
+* [Status update on BJOC analysis with Oscar and ChemicalTagger #2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/12/11/status-update-on-bjoc-analysis-with_11.html)
+* [Supramolecular chemistry <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/12/11/supramolecular-chemistry.html)
 * [Status update on BJOC analysis with Oscar and ChemicalTagger #3 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/12/23/status-update-on-bjoc-analysis-with_23.html)
 * [Oscar: training data, models, etc <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/12/26/oscar-training-data-models-etc.html)
 

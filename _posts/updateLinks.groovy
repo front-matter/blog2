@@ -14,9 +14,12 @@ ui = new net.bioclipse.managers.UIManager("..");
 
 mappings = [
   "2021/06/conflict-of-interest-or-why-i-am.html": "2021/06/11/conflict-of-interest-or-why-i-am.html",
-  "2009/11/bioclipse-manager-for-myexperimentorg.html": "2009/11/04/bioclipse-manager-for-myexperimentorg.html",
   "2020/11/cito-updates-1-first-research-paper-in.html": "2020/11/01/cito-updates-1-first-research-paper-in.html",
+  "2010/12/status-update-on-bjoc-analysis-with_11.html": "2010/12/11/status-update-on-bjoc-analysis-with_11.html",
+  "2010/12/status-update-on-bjoc-analysis-with.html": "2010/12/11/status-update-on-bjoc-analysis-with.html",
+  "2010/12/supramolecular-chemistry.html": "2010/12/11/supramolecular-chemistry.html",
   "2010/07/cb-new-blogs-13.html": "2010/07/15/cb-new-blogs-13.html",
+  "2009/11/bioclipse-manager-for-myexperimentorg.html": "2009/11/04/bioclipse-manager-for-myexperimentorg.html",
   "2009/09/nmrshiftdb-enters-rdfopenmoleculesnet-2.html": "2009/09/04/nmrshiftdb-enters-rdfopenmoleculesnet-2.html",
   "2009/08/bioclipse-and-sparql-end-points.html": "2009/08/16/bioclipse-and-sparql-end-points.html",
   "2009/08/social-web-does-not-wait-for-bioclipse.html": "2009/08/17/social-web-does-not-wait-for-bioclipse.html",
