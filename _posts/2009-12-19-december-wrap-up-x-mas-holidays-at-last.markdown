@@ -2,6 +2,7 @@
 layout: post
 title:  "December wrap up. X-mas holidays at last!"
 date:   2009-12-19
+modified_data: 2026-04-19
 blogger-link: https://chem-bla-ics.blogspot.com/2009/12/december-wrap-up-x-mas-holidays-at-last.html
 doi: 10.59350/pxwbm-2wn02
 tags: bioclipse bioinf cheminfo doi:10.1186/1471-2105-10-397 latex
@@ -43,8 +44,8 @@ I am also happy to have a second student starting in January, who will work prim
 Another thing that required my attention was the problem brought up by Andew on licensing. There was considerable
 out-of-date problems with the statements the [CDK](http://cdk.sf.net/) makes on the license and copyright informations
 certain CDK modules use, and the implications that has on what the CDK project is required to do (e.g. link to source
-code of third party libraries) and for downstream CDK distributors, like the [Debian](https://chem-bla-ics.blogspot.com/2009/12/packages.debian.org/libcdk-java)
-and [Ubuntu](https://chem-bla-ics.blogspot.com/2009/12/packages.ubuntu.com/libcdk-java) projects. For example, it
+code of third party libraries) and for downstream CDK distributors, like the [Debian](https://packages.debian.org/libcdk-java)
+and [Ubuntu](https://packages.ubuntu.com/libcdk-java) projects. For example, it
 became apparent that the Debian package cannot distribute the XML Schema of [CML](http://en.wikipedia.org/wiki/Chemical_Markup_Language),
 which is [CC-BY-ND](http://creativecommons.org/licenses/by-nd/2.5/) which is not DSFG-compatible. A few bugs
 have been reported, and work is ongoing to fix the issues.
