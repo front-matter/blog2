@@ -2,7 +2,7 @@
 layout: post
 title:  "s/Twitter/Mastodon/g"
 date:   2022-11-12
-modified_date: 2025-02-16
+modified_date: 2026-04-19
 doi: 10.59350/ejhaf-0k749
 blogger-link: https://chem-bla-ics.blogspot.com/2022/11/stwittermastodong.html
 tags: mastodon twitter justdoi:10.1038/d41586-022-03668-7
@@ -15,7 +15,7 @@ Yeah, it has been hard to miss it (see e.g. [Should I join Mastodon? A scientist
 Twitter is experiencing some turbulence and [Mastodon](https://joinmastodon.org/) has become a very attractive, open source,
 community-driven, inclusive alternative. It's been [around since 2016](https://scholia.toolforge.org/topic/Q27986619) and there
 is some [research literature about it](https://scholia.toolforge.org/topic/Q27986619) already. I got
-[my account in 2018](https://chem-bla-ics.blogspot.com/2018/09/mastodon-somewhere-between-twitter-and.html?q=mastodon), but did
+[my account in 2018](https://chem-bla-ics.blogspot.com/2018/09/mastodon-somewhere-between-twitter-and.html), but did
 not start actively using it until earlier this year.
 
 It's a fascinating platform: federated, community driven, and open source. Oh, and it uses an open standard:

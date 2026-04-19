@@ -2,6 +2,7 @@
 layout: post
 title:  "New paper: From papers to RDF-based integration of physicochemical data and adverse outcome pathways for nanomaterials"
 date:   2024-05-20
+modified_date: 2026-04-19
 tags: fair rdf doi:10.1186/S13321-024-00833-0 doi:10.14573/ALTEX.2102191 doi:10.3390/NANO10102068 erm
   doi:10.1186/S13321-022-00614-7 doi:10.3389/FPHY.2023.1271842 doi:10.3762/BJNANO.6.165
   doi:10.1089/AIVT.2021.0010
@@ -10,7 +11,7 @@ doi: 10.59350/jdj8r-h6187
 ---
 
 Making something FAIR is hard, particularly when you do more than making something findable. We've seen before that
-making something usefully findable [requires deep indexing](https://chem-bla-ics.blogspot.com/2020/10/new-paper-semi-automated-workflow-for.html?q=serena),
+making something usefully findable [requires deep indexing](https://chem-bla-ics.blogspot.com/2020/10/new-paper-semi-automated-workflow-for.html),
 and already that continues to be difficult, because we are not seeing it enough.
 So, when I thought convert a [paper led by Hoet's lab in Leuven](https://chem-bla-ics.blogspot.com/2021/05/new-strategy-towards-generation-of.html)
 into machine-actionable RDF to make it FAIR, I gravely underestimated the amount of work.
