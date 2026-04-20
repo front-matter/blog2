@@ -2,7 +2,7 @@
 layout: post
 title:  "Open Science Retreat #2: CiTO Nanopublications"
 date:   2024-04-02
-modified_date: 2025-12-24
+modified_date: 2026-04-20
 doi: 10.59350/p4g67-ajf20
 previous-doi: 10.59350/n39kz-48173
 tags: osr24nl openscience cito nanopub justdoi:10.3233/ISU-2010-0613 doi:10.1109/ESCIENCE.2018.00024 doi:10.1186/S13321-023-00683-2 wikidata
@@ -12,7 +12,7 @@ image: /assets/images/citoPub.png
 During the [Open Science Retreat](http://chem-bla-ics.linkedchemistry.info/2024/03/31/open-science-retreat-1.html) I organized
 a short session where we looking into typing citation intentions using a new nanopublication template. First, let's describe
 nanopublications (originally used in doi:[10.3233/ISU-2010-0613](https://doi.org/10.3233/ISU-2010-0613)) a bit.
-Scholia gives [a nice overview of (macro?)publications on the topic](https://scholia.toolforge.org/topic/Q57814310).
+Scholia gives [a nice overview of (macro?)publications on the topic](https://qlever.scholia.wiki/topic/Q57814310).
 The [nanopub.net](https://nanopub.net/)
 website describes that *[a nanopublication is a small knowledge graph snippet with metadata that is treated as an
 independent (scientific) publication.]*. The knowledge graph, it continues, can be anything from an opinion to the link
@@ -20,7 +20,7 @@ between a disease and a gene (doi:[10.1109/ESCIENCE.2018.00024](https://doi.org/
 
 Now, in this post I will document an update of how we can use nanopublications for citation intention annotation, and
 compare this to existing solutions. I have been collecting and indexing the CiTO intention annotations in Wikidata and
-visualizing the corpus with Scholia at [scholia.toolforge.org/cito/](https://scholia.toolforge.org/cito/). There are
+visualizing the corpus with Scholia at [qlever.scholia.wiki/cito/](https://qlever.scholia.wiki/cito/). There are
 currently 22 journal articles with explicit CiTO annoation, largely thanks to a [Journal of Cheminformatics pilot](https://www.biomedcentral.com/collections/cito)
 (e.g. see doi:[10.1186/s13321-023-00683-2](https://doi.org/10.1186/s13321-023-00683-2)). Recently,
 the preprint/report server [BioHackrXiv](https://biohackrxiv.org/discover) started
@@ -109,7 +109,7 @@ This is what it will [look like in Wikidata](https://www.wikidata.org/wiki/Q1133
 
 ![](/assets/images/citoPub3.png)
 
-And this is [what it looks](https://scholia.toolforge.org/cito/#articles) (yellow) when we compare the contributions
+And this is [what it looks](https://qlever.scholia.wiki/cito/#articles) (yellow) when we compare the contributions
 from nanopublications now with the other sources:
 
 ![](/assets/images/citoPubs4.png)
