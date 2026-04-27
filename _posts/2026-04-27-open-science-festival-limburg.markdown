@@ -4,10 +4,10 @@ title:  "Open Science Festival Limburg"
 date:   2026-04-27
 doi: 10.59350/0qjrj-59n30
 tags: openscience osflimburg
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 116478337727278232
 ---
 
 One of the things I have been busy with in the past weeks (besides contributing to grant proposals) is the organization
