@@ -5,7 +5,7 @@ date:   2010-02-09
 blogger-link: https://chem-bla-ics.blogspot.com/2010/02/chembl-rdf-1sparql-end-point.html
 doi: 10.59350/1g80w-92w22
 tags: rdf chembl sparql
-image: /blog/assets/images/chemblSnorQL.png
+image: /assets/images/chemblSnorQL.png
 ---
 
 In a [series](http://chem-bla-ics.blogspot.com/2009/11/chempedia-rdf-1-sparql-end-point.html)
@@ -19,7 +19,7 @@ with the data based on [ChEMBL 02](ftp://ftp.ebi.ac.uk/pub/databases/chembl/rele
 There is a [SPARQL end point](http://rdf.farmbio.uu.se/chembl/sparql/), as well as a
 [SNORQL interface](http://rdf.farmbio.uu.se/chembl/snorql/):
 
-![](/blog/assets/images/chemblSnorQL.png)
+![](/assets/images/chemblSnorQL.png)
 
 There are 2.4M [activities](http://rdf.farmbio.uu.se/chembl/snorql/?query=SELECT+DISTINCT+%3Finstance%0D%0AWHERE+{+%3Finstance+a+%3Chttp://rdf.farmbio.uu.se/chembl/onto/%23Activity%3E+}%0D%0AORDER+BY+%3Finstance+LIMIT+25),
 34k [papers](http://rdf.farmbio.uu.se/chembl/snorql/?query=SELECT+DISTINCT+%3Finstance%0D%0AWHERE+{+%3Finstance+a+%3Chttp://purl.org/ontology/bibo/Article%3E+}%0D%0AORDER+BY+%3Finstance+LIMIT+25),
@@ -28,7 +28,7 @@ There are 2.4M [activities](http://rdf.farmbio.uu.se/chembl/snorql/?query=SELECT
 associated with 7k [targets](http://rdf.farmbio.uu.se/chembl/snorql/?query=SELECT+DISTINCT+%3Finstance%0D%0AWHERE+{+%3Finstance+a+%3Chttp://rdf.farmbio.uu.se/chembl/onto/%23Target%3E+}%0D%0AORDER+BY+%3Finstance+LIMIT+25)
 (proteins etc):
 
-![](/blog/assets/images/chemblSnorQL1.png)
+![](/assets/images/chemblSnorQL1.png)
 
 I will not discuss any cool mashups with the rich data set and [Bioclipse](http://www.bioclipse.net/),
 as that is the main topic my student [Annzi's Masters project](http://annziproject.blogspot.com/).

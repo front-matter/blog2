@@ -5,7 +5,7 @@ date:   2010-02-07 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2010/02/rdf-jena-bioclipse-eclipse-zest-mashups.html
 doi: 10.59350/vd8tm-2qy68
 tags: rdf bioclipse apache
-image: /blog/assets/images/jenaZestMashup.png
+image: /assets/images/jenaZestMashup.png
 ---
 
 Quite a while a go, I blogged about [Zest](http://www.eclipse.org/gef/zest/) in [Bioclipse](http://www.bioclipse.net/) showing
@@ -19,4 +19,4 @@ Things are different now, and the Bioclipse-RDF functionality (using [Jena](http
 and I got around to writing the graphical goodies for the following papers. Not submitted yet, but here's the screenshot
 showing a N3 file opened with a Zest-powered editor (read-only) and a plain text editor:
 
-![](/blog/assets/images/jenaZestMashup.png)
+![](/assets/images/jenaZestMashup.png)
