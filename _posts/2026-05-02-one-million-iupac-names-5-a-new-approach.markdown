@@ -5,10 +5,10 @@ date:   2026-05-02
 doi: 10.59350/gqtbx-jta57
 tags: iupac textmining xml europepmc
 image: /assets/images/jats_analysis.png
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 116506249437053153
 ---
 
 About fifteen months ago a new project started: [One Million IUPAC names](https://chem-bla-ics.linkedchemistry.info/2025/03/08/iupac-names.html):
@@ -37,7 +37,7 @@ on which the JATS were deposited, I had to got back to previous months and redo 
 
 Europe PMC, however, also provides the JATS XML files as download on [their FTP site](https://europepmc.org/ftp/oa/).
 Already that [august 2025](https://chem-bla-ics.linkedchemistry.info/2025/08/09/one-million-iupac-names-4.html) I had
-a propotype and knew it would change the game. These gzipped XML files are about 150 to 250 MB. Unzipped, about 1 GB each.
+a prototype and knew it would change the game. These gzipped XML files are about 150 to 250 MB. Unzipped, about 1 GB each.
 Better, these files are based on Europe PMC identifiers, hopefully resolving the issue with using dates in the queries.
 
 Now, parsing a 1 GB XML files is a total non-issue. I have done it plenty of times before. Just use a
