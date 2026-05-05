@@ -20,6 +20,8 @@ mappings = [
   "2010/12/supramolecular-chemistry.html": "2010/12/11/supramolecular-chemistry.html",
   "2010/10/multiple-unit-test-inheritance-with.html": "2010/10/26/multiple-unit-test-inheritance-with.html",
   "2010/07/cb-new-blogs-13.html": "2010/07/15/cb-new-blogs-13.html",
+  "2010/02/further-statistics-on-papers-citing-cdk.html": "2010/02/22/further-statistics-on-papers-citing-cdk.html",
+  "2010/02/bioclipse-understands-ontologies-note.html": "2010/02/11/bioclipse-understands-ontologies-note.html",
   "2009/11/chempedia-rdf-1-sparql-end-point.html": "2009/11/19/chempedia-rdf-1-sparql-end-point.html",
   "2009/11/open-notebook-science-solubility-sparql.html": "2009/11/19/open-notebook-science-solubility-sparql.html",
   "2009/11/bioclipse-manager-for-myexperimentorg.html": "2009/11/04/bioclipse-manager-for-myexperimentorg.html",
@@ -82,12 +84,14 @@ mappings = [
   "2008/03/chemical-object-identifier-or-freedom.html": "2008/03/09/chemical-object-identifier-or-freedom.html",
   "2008/03/todo-april-2nd-defend-my-phd-work.html": "2008/03/01/todo-april-2nd-defend-my-phd-work.html",
   "2008/01/be-in-my-advisory-board-2-jchempaint.html": "2008/01/15/be-in-my-advisory-board-2-jchempaint.html",
+  "2008/01/cdk-literature-4.html": "2008/01/06/cdk-literature-4.html",
   "2007/12/christmas-presents.html": "2007/12/21/christmas-presents.html",
   "2007/11/be-in-my-advisory-board-1-being-good.html": "2007/11/27/be-in-my-advisory-board-1-being-good.html",
   "2007/11/metware-metabolomics-database-project.html": "2007/11/22/metware-metabolomics-database-project.html",
   "2007/11/molecules-in-wikipedia-without-inchis-3.html": "2007/11/16/molecules-in-wikipedia-without-inchis-3.html",
   "2007/10/one-billion-biochemical-rdf-triples.html": "2007/10/24/one-billion-biochemical-rdf-triples.html",
   "2007/07/osra-gpl-ed-molecule-drawing-to-smiles.html": "2007/07/20/osra-gpl-ed-molecule-drawing-to-smiles.html",
+  "2007/07/cdk-literature-2.html": "2007/07/14/cdk-literature-2.html",
   "2007/07/atom-typing-in-cdk.html": "2007/07/01/atom-typing-in-cdk.html",
   "2007/07/rdf-ing-molecular-space.html": "2007/07/31/rdf-ing-molecular-space.html"
 ]

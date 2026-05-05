@@ -6,6 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2010/02/what-if-or-article-level
 doi: 10.59350/ykak6-j8s49
 tags: cdk publishing justdoi:10.1093/nar/gkh081 justdoi:10.1093/nar/30.1.47
 image: /assets/images/impact.png
+modified_date: 2026-05-05
 ---
 
 This weekend there was the really nice [Science Commons Symposium](http://friendfeed.com/science-commons-sympo), which I
@@ -14,7 +15,7 @@ virtually attended, and there is an interesting discussion at [FriendFeed on art
 <img src="/assets/images/impact.png" style="width: 30%; display: block; margin-left: auto; margin-right: auto; float: right"
      alt="Screenshot of section of a website (forgot one) showing several impact metrics, like citations and discussions." />
 
-Now, I just reported on the [CDK functionality used in published research](http://chem-bla-ics.blogspot.com/2010/02/further-statistics-on-papers-citing-cdk.html).
+Now, I just reported on the [CDK functionality used in published research <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/02/22/further-statistics-on-papers-citing-cdk.html).
 Linking this to impact, the CDK with 115 citations now (both papers, [nice increase from 2006](http://chem-bla-ics.blogspot.com/2006/11/when-is-open-source-chemoinformatics.html))
 is not doing bad. But the real impact goes further than the direct citations. The [BRENDA enzyme database](http://www.brenda-enzymes.org/)
 is one of the project where CDK functionality is (was?) used, and the matching papers (doi:[10.1093/nar/gkh081](https://doi.org/10.1093/nar/gkh081)

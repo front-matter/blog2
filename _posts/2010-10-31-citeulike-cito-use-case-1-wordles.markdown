@@ -2,7 +2,7 @@
 layout: post
 title:  "CiteULike CiTO Use Case #1: Wordles"
 date:   2010-10-31
-modified_date: 2025-02-23
+modified_date: 2026-05-05
 blogger-link: https://chem-bla-ics.blogspot.com/2010/10/citeulike-cito-use-case-1-wordles.html
 tags: justdoi:10.1186/2041-1480-1-S1-S6 cito citeulike cdk wordle doi:10.1021/CI025584Y
 doi: 10.59350/npbqm-gfa49
@@ -82,5 +82,5 @@ I annotated in CiteULike with CiTO.
 
 ![](/assets/images/wordleCDK2.png)
 
-Interesting differences... more statistics will soon follow. See [Further statistics on the papers citing the CDK](http://chem-bla-ics.blogspot.com/2010/02/further-statistics-on-papers-citing-cdk.html)
+Interesting differences... more statistics will soon follow. See [Further statistics on the papers citing the CDK <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/02/22/further-statistics-on-papers-citing-cdk.html)
 for the kind of analyses I have in mind.
