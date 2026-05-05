@@ -5,13 +5,13 @@ date:   2010-02-22
 blogger-link: https://chem-bla-ics.blogspot.com/2010/02/what-if-or-article-level-metrics-does.html
 doi: 10.59350/ykak6-j8s49
 tags: cdk publishing justdoi:10.1093/nar/gkh081 justdoi:10.1093/nar/30.1.47
-image: /blog/assets/images/impact.png
+image: /assets/images/impact.png
 ---
 
 This weekend there was the really nice [Science Commons Symposium](http://friendfeed.com/science-commons-sympo), which I
 virtually attended, and there is an interesting discussion at [FriendFeed on article level metrics](http://friendfeed.com/jcbradley/18e76233/binfield-article-level-metrics-should-be).
 
-<img src="/blog/assets/images/impact.png" style="width: 30%; display: block; margin-left: auto; margin-right: auto; float: right"
+<img src="/assets/images/impact.png" style="width: 30%; display: block; margin-left: auto; margin-right: auto; float: right"
      alt="Screenshot of section of a website (forgot one) showing several impact metrics, like citations and discussions." />
 
 Now, I just reported on the [CDK functionality used in published research](http://chem-bla-ics.blogspot.com/2010/02/further-statistics-on-papers-citing-cdk.html).

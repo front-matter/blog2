@@ -5,7 +5,7 @@ date:   2010-03-04
 blogger-link: https://chem-bla-ics.blogspot.com/2010/03/rdf-jena-bioclipse-eclipse-zest-2-icons.html
 doi: 10.59350/11ezg-n8811
 tags: rdf bioclipse jena
-image: /blog/assets/images/rdfEditorIcons.png
+image: /assets/images/rdfEditorIcons.png
 ---
 
 [Jonathan](http://se.linkedin.com/in/jonathanalvarssson) worked this week on new features for the [Bioclipse](http://www.bioclipse.net/)
@@ -40,6 +40,6 @@ into a Bioclipse IBioObject, such as an IMolecule (see this [list of currently s
 The second method returns an icon, which makes the editor more visually pleasing, and provides a nice way to see when you can double
 click the RDF node to have it open in an domain specific editor:
 
-![](/blog/assets/images/rdfEditorIcons.png)
+![](/assets/images/rdfEditorIcons.png)
 
 For example, double clicking the *ron:mol2* node, would open up a JChemPaint editor.
