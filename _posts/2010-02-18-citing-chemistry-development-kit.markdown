@@ -48,7 +48,7 @@ project papers.
 ## The CDK citation database
 
 So, here goes (it's [RDFa-enabled](http://www.w3.org/TR/xhtml-rdfa-primer/); check this
-[RDF pulled out](http://www.w3.org/2007/08/pyRdfa/extract?uri=http://chem-bla-ics.blogspot.com/2010/02/citing-chemistry-development-kit.html)):
+[RDF pulled out](http://www.w3.org/2007/08/pyRdfa/extract?uri=http://chem-bla-ics.blogspot.com/2010/02/citing-chemistry-development-kit.html)): <!-- keep link -->
 
 <pre xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:bibocto="http://github.com/egonw/bibo-cto/" about="urn:doi:10.1021/ci025584y"
      rel="bibocto:cites" typeof="bibo:Article">@prefix bibo: &lt;http://purl.org/ontology/bibo/&gt;.
