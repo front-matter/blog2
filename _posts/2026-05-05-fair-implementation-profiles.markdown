@@ -13,14 +13,14 @@ grants:
     funder:
       name: "Dutch Research Council"
       ror: 04jsz6e67
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 116523648978401165
 ---
 
 I have had this on my todo list for way too long: writing about [FAIR Implementation Profiles](https://www.go-fair.org/how-to-go-fair/fair-implementation-profile/),
-or FIPs for short (see also doi:[10.1007/978-3-030-65847-2_13](https://doi.org/10.1007/978-3-030-65847-2_13):
+or FIPs for short (see also doi:[10.1007/978-3-030-65847-2_13](https://doi.org/10.1007/978-3-030-65847-2_13)):
 
 > The FIP is a collection of FAIR implementation choices made by a community of practice for each of the FAIR Principles.
 
