@@ -5,6 +5,7 @@ date:   2026-05-05
 doi: 10.59350/x115q-m5f95
 tags: fair doi:10.1162/dint_a_00035 doi:10.1016/J.IMPACT.2024.100513 cito:citesAsPotentialSolution:10.1186/s13321-021-00520-4
   cito:citesAsPotentialSolution:10.1021/acsenvironau.5c00314 doi:10.37044/OSF.IO/UN2RW cito:citesForInformation:10.1007/978-3-030-65847-2_13
+  justdoi:10.5281/zenodo.7378109
 grants:
   - grant:
     title: "FAIR4ChemNL: Accelerating the adoption of universal data standards in chemistry"
@@ -50,7 +51,7 @@ In brackets I list (a selection of) the FAIR enabling resources mentioned in tha
 
 * [Adverse Outcome Pathways FIP](https://fip-wizard.ds-wizard.org/wizard/projects/2f1c0e80-3c9d-4967-9dc6-fd05fac96269/metrics) (DOI, AOP Wiki ID)
 * [Toxicogenomics](https://docs.google.com/spreadsheets/d/1yNEYzJRbx10RkuqJmLcO7RPOq-nrimUKQLQW6uWzfho/edit?gid=127295437#gid=127295437) (ISA-Tab, BioStudies, ArrayExpress)
-* [WorldFAIR WP04 NANOMATERIALS FIP01](https://fip-wizard.ds-wizard.org/wizard/projects/b0d84171-4556-46ed-9ace-c1c58db38092) (DOI, ORCID, UUID, ROR, InChI, DataCite, QMRF, RDF/JSON-LD, OWL)
+* [WorldFAIR WP04 NANOMATERIALS FIP01](https://fip-wizard.ds-wizard.org/wizard/projects/b0d84171-4556-46ed-9ace-c1c58db38092) (DOI, ORCID, UUID, ROR, InChI, DataCite, QMRF, RDF/JSON-LD, OWL; doi[10.5281/zenodo.7378109](https://doi.org/10.5281/zenodo.7378109))
 
 Is that all? No, I do not think so, but this is all I can easily find (ironically). Well, I guess you now see why I have had a so much trouble starting to write down this post...
 Someone will surely give me some pointers...
