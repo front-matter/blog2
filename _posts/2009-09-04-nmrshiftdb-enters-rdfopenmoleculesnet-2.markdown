@@ -5,7 +5,7 @@ date:   2009-09-04
 blogger-link: https://chem-bla-ics.blogspot.com/2009/09/nmrshiftdb-enters-rdfopenmoleculesnet-2.html
 doi: 10.59350/nv925-tje87
 tags: rdf sparql nmrshiftdb cheminf
-modified_date: 2026-03-07
+modified_date: 2026-05-05
 ---
 
 About 6 months ago I [reported](http://chem-bla-ics.blogspot.com/2009/03/nmrshiftdb-enters-rdfopenmoleculesnet.html) about my efforts to RDF-ize the data from the
@@ -54,6 +54,6 @@ and non-semantic formats for anything. But, to me, this is mostly a technologica
 RDF data.
 
 Querying this data is a simple with SPARQL, and the results are available in various formats, such as JSON, which makes it easy to integrate in
-third-party applications or [Google Wave robots](http://chem-bla-ics.blogspot.com/2009/09/google-wave-robot-for-cdk-functionality.html)
+third-party applications or [Google Wave robots <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/09/02/google-wave-robot-for-cdk-functionality.html)
 (did I hear someone say [NMRShifty](http://nmrshifty.appspot.com/)?). As I have [blogged before](http://chem-bla-ics.blogspot.com/search?q=sparql),
 SPARQL is an excellent tool to aggregate scientific data prior to data analysis. And I will demo more interesting queries later this month.

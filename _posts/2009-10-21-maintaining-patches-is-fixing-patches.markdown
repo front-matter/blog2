@@ -5,6 +5,7 @@ date:   2009-10-21
 blogger-link: https://chem-bla-ics.blogspot.com/2009/10/maintaining-patches-is-fixing-patches.html
 doi: 10.59350/7862g-njh70
 tags:
+modified_date: 2026-05-05
 ---
 
 Today I had a question about having to fix patches against upstream changes because those patches were not included upstream yet is *not very productive*.
@@ -24,7 +25,7 @@ I very much understand his feeling of being unproductive when updating patches; 
 all the quality assurance functionality I have set up in the past for the CDK, nicely integrated in [Rajarshi](http://blog.rguha.net/)'s
 [Nightly](http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/nightly;a=summary) script, I hope to make it easier
 for people to write proper maintainable patches. Often these reports are, however, again about doing tasks which make you feel unproductive. But I can
-assure you that writing such tools quality assurance tools, like the [OpenJavaDocCheck](http://chem-bla-ics.blogspot.com/2009/10/work-in-progress-open-doccheck.html)
+assure you that writing such tools quality assurance tools, like the [OpenJavaDocCheck <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/10/17/work-in-progress-open-doccheck.html)
 I worked on this weekend, makes you feel even less productive.
 
 ### Redesign

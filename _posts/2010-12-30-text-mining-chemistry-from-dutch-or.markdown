@@ -2,7 +2,7 @@
 layout: post
 title:  "Text mining chemistry from Dutch or Swedish texts"
 date:   2010-12-30
-modified_date: 2026-04-19
+modified_date: 2026-05-05
 doi: 10.59350/k1tea-hnb50
 blogger-link: https://chem-bla-ics.blogspot.com/2010/12/text-mining-chemistry-from-dutch-or.html
 tags: oscar textmining justdoi:10.59350/vtadn-tdt17 justdoi:10.59350/nbtxd-kdz73
@@ -17,7 +17,7 @@ aspects of Oscar4 at several occasions:
 
 * [Working on Oscar for three months <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/15/working-on-oscar-for-three-months.html)
 * [Oscar text mining in Taverna <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/21/oscar-text-mining-in-taverna.html)
-* [Multiple unit test inheritance with JExample](http://chem-bla-ics.blogspot.com/2010/10/multiple-unit-test-inheritance-with.html)
+* [Multiple unit test inheritance with JExample <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/26/multiple-unit-test-inheritance-with.html)
 * [Oscar4 Java API: chemical name dictionaries <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/28/oscar4-java-api-chemical-name.html)
 * [Oscar4 command line utilities <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/11/18/oscar4-command-line-utilities.html)
 * [Installing Oscar](http://chem-bla-ics.blogspot.com/2010/11/installing-oscar.html)

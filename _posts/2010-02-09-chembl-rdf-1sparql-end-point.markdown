@@ -6,11 +6,12 @@ blogger-link: https://chem-bla-ics.blogspot.com/2010/02/chembl-rdf-1sparql-end-p
 doi: 10.59350/1g80w-92w22
 tags: rdf chembl sparql
 image: /assets/images/chemblSnorQL.png
+modified_date: 2026-05-05
 ---
 
-In a [series](http://chem-bla-ics.blogspot.com/2009/11/chempedia-rdf-1-sparql-end-point.html)
-[of](http://chem-bla-ics.blogspot.com/2009/11/open-notebook-science-solubility-sparql.html)
-[SPARQL end points](http://chem-bla-ics.blogspot.com/2009/09/nmrshiftdb-enters-rdfopenmoleculesnet-2.html),
+In a [series <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/11/19/chempedia-rdf-1-sparql-end-point.html)
+[of <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/11/19/open-notebook-science-solubility-sparql.html)
+[SPARQL end points <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/09/04/nmrshiftdb-enters-rdfopenmoleculesnet-2.html),
 I am happy to present a new [Virtuoso 6.1](http://virtuoso.openlinksw.com/dataspace/dav/wiki/Main/VOSNews#Announcing%20Virtuoso%20Open-Source%20Edition%20v6.1.0)-hosted
 SPARQL end point for the [ChEMBL database](http://www.ebi.ac.uk/chembl/) ([CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/)),
 at our groups new [rdf.farmbio.uu.se](http://rdf.farmbio.uu.se/) server. The server is hosting

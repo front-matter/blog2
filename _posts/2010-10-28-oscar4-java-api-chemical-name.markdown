@@ -2,7 +2,7 @@
 layout: post
 title:  "Oscar4 Java API: chemical name dictionaries"
 date:   2010-10-28
-modified_date: 2025-03-30
+modified_date: 2026-05-05
 doi: 10.59350/866tq-qv177
 blogger-link: https://chem-bla-ics.blogspot.com/2010/10/oscar4-java-api-chemical-name.html
 tags: oscar java chebi inchikey:XLYOFNOQVPJJNP-UHFFFAOYSA-N inchikey:QTBSBXVTEAMEQO-UHFFFAOYSA-N
@@ -11,7 +11,7 @@ tags: oscar java chebi inchikey:XLYOFNOQVPJJNP-UHFFFAOYSA-N inchikey:QTBSBXVTEAM
 Besides getting Oscar used by [ChEBI](http://www.ebi.ac.uk/chebi/) (hopefully [via Taverna <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/21/oscar-text-mining-in-taverna.html)),
 my main task in [my three month Oscar project <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/15/working-on-oscar-for-three-months.html)
 is to refactor things to make it more modular, and remove some features no longer needed (e.g. an automatically created workspace environment).
-Clearly, I need to define a lot of [new unit tests](http://chem-bla-ics.blogspot.com/2010/10/multiple-unit-test-inheritance-with.html)
+Clearly, I need to define a lot of [new unit tests <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/26/multiple-unit-test-inheritance-with.html)
 to ensure my assumptions on how to code works are valid.
 
 So, what are the API requirements set out? These include (but are not limited to):

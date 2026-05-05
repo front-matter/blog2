@@ -6,9 +6,10 @@ blogger-link: https://chem-bla-ics.blogspot.com/2009/11/call-for-collaboration-j
 doi: 10.59350/49cn8-6n163
 tags: cdk javadoc
 image: /assets/images/ojdcheck.png
+modified_date: 2026-05-05
 ---
 
-I reported recently about my efforts to write an [Open Source DocCheck replacement](http://chem-bla-ics.blogspot.com/2009/10/work-in-progress-open-doccheck.html).
+I reported recently about my efforts to write an [Open Source DocCheck replacement <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/10/17/work-in-progress-open-doccheck.html).
 I received the first patches (from [Rajarshi](http://blog.rguha.net/)), and brought it online in a [CDK](http://cdk.sf.net/) branch (see
 [this Nightly page](http://pele.farmbio.uu.se/nightly-ojdcheck/ojdcheckSummary.html)).
 

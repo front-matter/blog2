@@ -5,7 +5,7 @@ date:   2009-11-19
 blogger-link: https://chem-bla-ics.blogspot.com/2009/11/open-notebook-science-solubility-sparql.html
 doi: 10.59350/tezva-0ty37
 tags: chemistry rdf sparql
-modified_date: 2026-04-11
+modified_date: 2026-05-05
 ---
 
 The [Open Notebook Science Solubility](http://onschallenge.wikispaces.com/) challenge is an project crowd sourcing solubility
@@ -19,7 +19,7 @@ of organic compounds in non-aqueous solvents. I have been working on RDF-ing thi
 And this resulted in a joint chapter in the nice [Beatiful Data](http://oreilly.com/catalog/9780596157128) book.
 
 What I had not done so far, is set up a SPARQL end point for this data, like I did for the
-[NMRShiftDB data](http://chem-bla-ics.blogspot.com/2009/09/nmrshiftdb-rdf-2-some-statistics.html).
+[NMRShiftDB data <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/09/05/nmrshiftdb-rdf-2-some-statistics.html).
 
 Now, however, a Virtuoso-powered [SPARQL end point](http://pele.farmbio.uu.se/cc0/sparql) is available, and I hope this
 will seen get picked up by the other nodes on the ONS Solubility project. It is not a auto-synchronized link, though.
