@@ -5,7 +5,7 @@ date:   2026-05-05
 doi: 10.59350/x115q-m5f95
 tags: fair doi:10.1162/dint_a_00035 doi:10.1016/J.IMPACT.2024.100513 cito:citesAsPotentialSolution:10.1186/s13321-021-00520-4
   cito:citesAsPotentialSolution:10.1021/acsenvironau.5c00314 doi:10.37044/OSF.IO/UN2RW cito:citesForInformation:10.1007/978-3-030-65847-2_13
-  justdoi:10.5281/zenodo.7378109
+  justdoi:10.5281/zenodo.7378109 fair4chemnl
 grants:
   - grant:
     title: "FAIR4ChemNL: Accelerating the adoption of universal data standards in chemistry"
