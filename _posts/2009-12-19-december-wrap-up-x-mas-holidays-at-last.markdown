@@ -6,11 +6,12 @@ modified_data: 2026-04-19
 blogger-link: https://chem-bla-ics.blogspot.com/2009/12/december-wrap-up-x-mas-holidays-at-last.html
 doi: 10.59350/pxwbm-2wn02
 tags: bioclipse bioinf cheminfo doi:10.1186/1471-2105-10-397 latex
+modified_date: 2026-05-30
 ---
 
 Wow, I just saw it has been **17 days** since my last post already :( That's a new record, I think! A lot has happened
 actually, but I have not had time to write up things. Actually, I have still have
-[SWAT4LS coverage left to do](http://chem-bla-ics.blogspot.com/2009/11/swat4ls-wrapping-up-1.html) :(
+[SWAT4LS coverage left to do <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/11/25/swat4ls-wrapping-up-1.html) :(
 
 ### Latex
 

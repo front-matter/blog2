@@ -5,6 +5,7 @@ date:   2010-03-29
 blogger-link: https://chem-bla-ics.blogspot.com/2010/03/cdk-taverna-paper-published.html
 doi: 10.59350/n11jv-09b62
 tags: cdk taverna doi:10.1186/1471-2105-11-159
+modified_date: 2026-05-30
 ---
 
 It took a while, but the [CDK-Taverna paper](http://www.cdk-taverna.de/) (doi:[10.1186/1471-2105-11-159](https://doi.org/10.1186/1471-2105-11-159))
@@ -23,7 +24,7 @@ communities in at least The Netherlands and the UK. There exists other workflow 
 
 [Thomas](http://cdktaverna.wordpress.com/) uploaded some [17 example workflows](http://www.myexperiment.org/search?query=cdk-taverna&type=workflows) to
 [MyExperiment.org](http://myexperiment.org/), to give you further idea what the system can do. Development has gone down considerably, since Thomas
-finished his thesis, and if you like to work on the CDK-Taverna project, and be [the next Dr Who](http://chem-bla-ics.blogspot.com/2009/06/dr-whos-of-life-sciences.html),
+finished his thesis, and if you like to work on the CDK-Taverna project, and be [the next Dr Who <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/06/21/dr-whos-of-life-sciences.html),
 please contact me, [Achim](http://www.fan.re.fh-gelsenkirchen.de/team/menschen/zielesny/zielesny.aspx) or Christoph. I started experimenting
 with CDK nodes for Taverna in 2005 (see [CDK-Taverna fully recognized](http://chem-bla-ics.blogspot.com/2005/10/cdk-taverna-fully-recognized.html)),
 and would love to see it live on. Andreas and I made an attempt last December to port things to Taverna 2.1, and the code we worked on can be
