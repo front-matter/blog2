@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cleaner CDK Code #1: List<IAtom> and the for-each loop"
+title:  "Cleaner CDK Code #1: List&lt;IAtom> and the for-each loop"
 date:   2010-03-07
 blogger-link: https://chem-bla-ics.blogspot.com/2010/03/cleaner-cdk-code-1-list-and-for-each.html
 doi: 10.59350/jx0j3-s9893
