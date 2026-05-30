@@ -6,10 +6,10 @@ doi: 10.59350/7n2bs-zsm80
 tags: python database doi:10.1093/BIOINFORMATICS/BTAG064 doi:10.37044/OSF.IO/MHSQP
   justdoi:10.37044/OSF.IO/PTMG5_V1
 image: /assets/images/pyBiodatafuseGraph.png
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 116664534271122032
 ---
 
 The number of data and knowledge source relevant to your biological or chemical question
