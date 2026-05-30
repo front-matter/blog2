@@ -5,7 +5,7 @@ date:   2010-03-22
 blogger-link: https://chem-bla-ics.blogspot.com/2010/03/oxford-august-2010-echeminfo-predictive.html
 doi: 10.59350/46jj1-62e14
 tags: bioclipse qsar toxicology opentox ambit
-image: /blog/assets/images/bioclipseOpenTox.png
+image: /assets/images/bioclipseOpenTox.png
 ---
 
 The first week of August I will attend the [eCheminfo Predictive ADME & Toxicology Workshop](http://echeminfo.com/COMTY_oxfordadmet10)
@@ -17,7 +17,7 @@ The meeting is also bound to be fun. I have not done much in the area of toxicol
 building with chemometrics. But I have been recently taking to Nina and other of the [OpenTox](http://www.opentox.org/) community,
 and started to play a bit with the data and computation API they are developing.
 
-![](/blog/assets/images/bioclipseOpenTox.png)
+![](/assets/images/bioclipseOpenTox.png)
 
 I started a Bioclipse plugin recently (see screenshot), and placed the source code in [this bioclipse-opentox](http://gitorious.org/bioclipse-opentox/bioclipse-opentox)
 Git repository on [Gitorious](http://gitorious.org/) ([my GitHub account](http://github.com/egonw) is already over the formal limit).

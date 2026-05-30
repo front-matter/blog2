@@ -5,7 +5,7 @@ date:   2010-03-15
 blogger-link: https://chem-bla-ics.blogspot.com/2010/03/rdf-powered-qsar-wizard-sparql-end.html
 doi: 10.59350/pdv58-fss83
 tags: rdf chembl sparql bioclipse qsar
-image: /blog/assets/images/chemblQSARwizard.png
+image: /assets/images/chemblQSARwizard.png
 ---
 
 As you [know](http://chem-bla-ics.blogspot.com/2010/03/rdf-jena-bioclipse-eclipse-zest-2-icons.html) from my blog, one of
@@ -28,6 +28,6 @@ data set, it also uses SPARQL to make the wizard interactive. While the user is 
 the SPARQL end point in the background and download the target's type, title and organism, as well as update the list of
 activities the user can select depending on what the chEMBL database has for that target:
 
-![](/blog/assets/images/chemblQSARwizard.png)
+![](/assets/images/chemblQSARwizard.png)
 
 The actual code base is pretty small, and that's what happens when you mash up the right technologies :)
