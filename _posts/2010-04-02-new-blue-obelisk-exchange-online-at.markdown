@@ -5,7 +5,7 @@ date:   2010-04-02
 blogger-link: https://chem-bla-ics.blogspot.com/2010/04/new-blue-obelisk-exchange-online-at.html
 doi: 10.59350/p3n3x-n1r50
 tags: blue-obelisk cheminformatics
-image: /blog/assets/images/boShapado.png
+image: /assets/images/boShapado.png
 ---
 
 [StackOverflow](http://www.stackoverflow.com/) has served as very well in the past couple of months with the [Blue Obelisk Exchange](http://blueobelisk.stackexchange.com/).
@@ -18,4 +18,4 @@ To address both issues, and with the help from the Shapado.com developers, I hav
 seems to be resolved now. The Shapado software has an OpenSource license (AGPL), and the code can be downloaded at [Gitorious](http://gitorious.org/shapado).
 The new [questions page](http://blueobelisk.shapado.com/questions) looks like:
 
-![](/blog/assets/images/boShapado.png)
+![](/assets/images/boShapado.png)

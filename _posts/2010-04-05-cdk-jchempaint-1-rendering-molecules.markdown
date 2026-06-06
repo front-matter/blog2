@@ -5,7 +5,7 @@ date:   2010-04-05
 blogger-link: https://chem-bla-ics.blogspot.com/2010/04/cdk-jchempaint-1-rendering-molecules.html
 doi: 10.59350/zp98c-wkb92
 tags: cdk jchempaint inchikey:QWENRTYMTSOGBR-UHFFFAOYSA-N
-image: /blog/assets/images/triazole.png
+image: /assets/images/triazole.png
 ---
 
 I [reported earlier](http://chem-bla-ics.blogspot.com/search?q=jchempaint) that the CDK-JChemPaint patch is now a clean add-on from the CDK releases.
@@ -18,7 +18,7 @@ $ export CLASSPATH=cdk-1.3.4.jar:cdk-jchempaint-8.jar
 $ groovy renderMol.groovy
 ```
 
-![](/blog/assets/images/triazole.png)
+![](/assets/images/triazole.png)
 
 I have tuned to code in [this tutorial](https://sourceforge.net/apps/mediawiki/cdk/index.php?title=Renderer_Tutorial-Single_Molecules)
 by [Gilleain](https://gilleain.blogspot.com/) a bit, resulting in this code:

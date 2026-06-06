@@ -5,7 +5,7 @@ date:   2010-04-05 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2010/04/cdk-jchempaint-2-rendering-reactions.html
 doi: 10.59350/wyfzs-jsm57
 tags: cdk jchempaint inchikey:QWENRTYMTSOGBR-UHFFFAOYSA-N inchikey:UHOVQNZJYSORNB-UHFFFAOYSA-N
-image: /blog/assets/images/reaction.png
+image: /assets/images/reaction.png
 ---
 
 I posted earlier today [a Groovy script to render molecules](http://chem-bla-ics.blogspot.com/2010/04/cdk-jchempaint-1-rendering-molecules.html)
@@ -15,7 +15,7 @@ with CDK-JChemPaint 8. Now, the new JChemPaint rendering engine also contains th
 $ groovy renderReaction.groovy
 ```
 
-![](/blog/assets/images/reaction.png)
+![](/assets/images/reaction.png)
 
 The matching script:
 
