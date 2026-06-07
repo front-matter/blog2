@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: Extending inherited metabolic disorder diagnostics with biomarker interaction visualizations"
+type: ScholarlyArticle
+tag: doi:10.1186/S13023-023-02683-9
+doi: 10.1186/S13023-023-02683-9
+---
