@@ -5,7 +5,7 @@ date:   2009-12-19
 modified_data: 2026-04-19
 blogger-link: https://chem-bla-ics.blogspot.com/2009/12/december-wrap-up-x-mas-holidays-at-last.html
 doi: 10.59350/pxwbm-2wn02
-tags: bioclipse bioinf cheminfo doi:10.1186/1471-2105-10-397 latex
+tags: bioclipse bioinfo cheminf doi:10.1186/1471-2105-10-397 latex
 modified_date: 2026-05-30
 ---
 

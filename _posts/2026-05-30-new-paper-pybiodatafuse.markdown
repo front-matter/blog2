@@ -3,7 +3,7 @@ layout: post
 title:  "New paper: pyBiodatafuse: Extending interoperability of data using modular queries across biomedical resources"
 date:   2026-05-30
 doi: 10.59350/7n2bs-zsm80
-tags: python database doi:10.1093/BIOINFORMATICS/BTAG064 doi:10.37044/OSF.IO/MHSQP
+tags: python data doi:10.1093/BIOINFORMATICS/BTAG064 doi:10.37044/OSF.IO/MHSQP
   justdoi:10.37044/OSF.IO/PTMG5_V1
 image: /assets/images/pyBiodatafuseGraph.png
 comments:

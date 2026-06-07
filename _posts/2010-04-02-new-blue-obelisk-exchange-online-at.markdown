@@ -4,7 +4,7 @@ title:  "New Blue Obelisk Exchange online at Shapado.com"
 date:   2010-04-02
 blogger-link: https://chem-bla-ics.blogspot.com/2010/04/new-blue-obelisk-exchange-online-at.html
 doi: 10.59350/p3n3x-n1r50
-tags: blue-obelisk cheminformatics
+tags: blue-obelisk cheminf
 image: /assets/images/boShapado.png
 ---
 
