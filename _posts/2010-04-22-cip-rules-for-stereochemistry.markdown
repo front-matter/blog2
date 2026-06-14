@@ -2,9 +2,11 @@
 layout: post
 title:  "CIP rules for stereochemistry"
 date:   2010-04-22
+modified_date: 2026-06-14
 blogger-link: https://chem-bla-ics.blogspot.com/2010/04/cip-rules-for-stereochemistry.html
 doi: 10.59350/1n6nz-z2572
-tags: cdk chemistry cheminfo
+tags: cdk chemistry cheminfo scholia
+image: /blog/assets/images/(R)-bromo(chloro)iodomethane.png
 ---
 
 Uniquely identifying [stereochemical enantiomers](http://en.wikipedia.org/wiki/Stereochemistry) is an important aspect of data
@@ -19,14 +21,14 @@ Global Safety Assessment group at [AstraZeneca R&D Mölndal](http://www.astrazen
 headed by Dr Scott Boyer. Within this collaboration I have started an partial implementation of the CIP rules. The full set of
 rules is quite extensive, and some subrules are outside the scope of the collaboration. For example, we will likely not look at
 axial or helical stereochemistry within this collaboration. The kind of things it is able to do is distinguish between these
-mirror images (yeah, I should use [Jmol](http://www.jmol.org/), but [ChemPedia](http://chempedia.com/) needs more plugging
+mirror images (yeah, I should use [Jmol](http://www.jmol.org/), but [Scholia](https://qlever.scholia.wiki/) needs more plugging
 right now: click the images):
 
-<a href="http://chempedia.com/substances/4-7081-2946-3070" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
-  <img border="0" src="http://chempedia.com/substances/4-7081-2946-3070.png">
+<a href="https://qlever.scholia.wiki/chemical/Q105313057" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+  <img border="0" src="/blog/assets/images/(R)-bromo(chloro)iodomethane.png">
 </a>
-<a href="http://chempedia.com/substances/3-7138-4524-9869" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
-  <img border="0" src="http://chempedia.com/substances/3-7138-4524-9869.png">
+<a href="https://qlever.scholia.wiki/chemical/Q140196930" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
+  <img border="0" src="/blog/assets/images/(S)-bromo(chloro)iodomethane.png">
 </a>
 
 The current patch is not looking into the problem of which atom is chiral; that problem is quite complex in itself, and Tim
