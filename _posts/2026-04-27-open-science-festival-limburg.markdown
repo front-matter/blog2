@@ -8,6 +8,14 @@ comments:
   host: social.edu.nl
   username: egonw
   id: 116478337727278232
+grants:
+  - grant:
+    title: "Impuls Open Science Community Maastricht"
+    acronym: "ImpulsOSCM"
+    id: doi:10.61686/WULJP85441
+    funder:
+      name: "Dutch Research Council"
+      ror: 04jsz6e67
 ---
 
 One of the things I have been busy with in the past weeks (besides contributing to grant proposals) is the organization

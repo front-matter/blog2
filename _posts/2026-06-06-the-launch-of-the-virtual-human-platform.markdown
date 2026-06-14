@@ -14,10 +14,10 @@ grants:
     funder:
       name: "Dutch Research Council"
       ror: 04jsz6e67
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 116704857674698375
 ---
 
 <img src="/assets/images/vhp_platform.png" style="width: 30%; display: block; margin-left: auto; margin-right: auto; float: right"
