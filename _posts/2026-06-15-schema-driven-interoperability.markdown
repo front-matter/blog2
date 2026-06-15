@@ -12,10 +12,10 @@ grants:
     funder:
       name: "Dutch Research Council"
       ror: 04jsz6e67
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 116754002398837213
 ---
 
 Today starts a new project. NWO's [Open Science NL](https://www.openscience.nl/) awarded [Dr Tooba Abbassi-Daloii](http://orcid.org/0000-0002-4904-3269)
