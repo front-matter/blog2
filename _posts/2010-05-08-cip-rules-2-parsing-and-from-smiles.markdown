@@ -15,7 +15,7 @@ a few years ago Jonathan Brecher wrote up the IUPAC recommendation for the use o
 (doi:[10.1351/pac200678101897](https://doi.org/10.1351/pac200678101897)), with 74 pages of rules and examples, like the following (copyright by
 authors or journal; I'm claiming fair use):
 
-![](/blog/assets/images/wedgeChirality.png)
+![](/assets/images/wedgeChirality.png)
 
 So, using wedges leaves plenty of room for incorrectly specifying the stereochemistry. Therefore, we decided to go for SMILES, even though Noel
 [recently showed](http://baoilleach.blogspot.com/2009/03/clockwisdom-of-smiles-part-ii.html) that processing stereochemistry in SMILES is not trivial

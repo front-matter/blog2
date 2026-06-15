@@ -6,7 +6,7 @@ modified_date: 2026-06-14
 blogger-link: https://chem-bla-ics.blogspot.com/2010/04/cip-rules-for-stereochemistry.html
 doi: 10.59350/1n6nz-z2572
 tags: cdk chemistry cheminfo scholia
-image: /blog/assets/images/(R)-bromo(chloro)iodomethane.png
+image: /assets/images/(R)-bromo(chloro)iodomethane.png
 ---
 
 Uniquely identifying [stereochemical enantiomers](http://en.wikipedia.org/wiki/Stereochemistry) is an important aspect of data
@@ -25,10 +25,10 @@ mirror images (yeah, I should use [Jmol](http://www.jmol.org/), but [Scholia](ht
 right now: click the images):
 
 <a href="https://qlever.scholia.wiki/chemical/Q105313057" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
-  <img border="0" src="/blog/assets/images/(R)-bromo(chloro)iodomethane.png">
+  <img border="0" src="/assets/images/(R)-bromo(chloro)iodomethane.png">
 </a>
 <a href="https://qlever.scholia.wiki/chemical/Q140196930" imageanchor="1" style="margin-left: 1em; margin-right: 1em;">
-  <img border="0" src="/blog/assets/images/(S)-bromo(chloro)iodomethane.png">
+  <img border="0" src="/assets/images/(S)-bromo(chloro)iodomethane.png">
 </a>
 
 The current patch is not looking into the problem of which atom is chiral; that problem is quite complex in itself, and Tim

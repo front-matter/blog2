@@ -9,4 +9,4 @@ tags: blue-obelisk
 
 &nbsp;
 
-![](/blog/assets/images/box99.png)
+![](/assets/images/box99.png)
