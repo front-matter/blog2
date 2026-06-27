@@ -31,7 +31,8 @@ SELECT DISTINCT ?focus1 ?focus1Label ?focus2 ?focus2Label ?edgeLabel WHERE {
   ?focus1 p:P2860 ?citation .
   ?citation ps:P2860 ?focus2 ; pq:P3712 ?edge .
   ?edge rdfs:label ?edgeLabel . FILTER(LANG(?edgeLabel) = "en")
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],mul,en". }
+  ?focus1 rdfs:label ?focus1Label . FILTER(LANG(?focus1Label) = "en")
+  ?focus2 rdfs:label ?focus2Label . FILTER(LANG(?focus2Label) = "en")
 }
 ```
 
