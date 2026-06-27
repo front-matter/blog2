@@ -58,7 +58,7 @@ And, to be honest, then I get this network which is much richer than I expected:
 
 I wonder how far we can push this. Can we also do this for the [Journal of Cheminformatics](https://scholia.toolforge.org/venue/Q6294930)?
 After all, this journal had a [CiTO Pilot](https://www.biomedcentral.com/collections/cito) and, indeed,
-[the results do not disappoint](https://edu.nl/hk8xy)! All I had to do was replace the focus section:
+[the results do not disappoint](https://edu.nl/vdy8n)! All I had to do was replace the focus section:
 
 ```SPARQL
   ?focus1 wdt:P1433 wd:Q6294930 .
