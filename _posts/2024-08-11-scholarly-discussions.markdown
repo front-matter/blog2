@@ -2,7 +2,7 @@
 layout: post
 title:  "Scholarly discussions through the eyes of CiTO (and Wikidata)"
 date:   2024-08-11
-modified-date: 2024-08-17
+modified-date: 2026-06-27
 doi: 10.59350/y9chc-zb166
 tags: cito wikidata justdoi:10.1016/S0140-6736(02)96038-1 justdoi:10.1016/S0140-6736(02)96066-6 justdoi:10.1016/S0140-6736(02)83966-6
   doi:10.1007/978-3-319-70407-4_36
@@ -21,7 +21,7 @@ we can show how the papers relate to each other:
 ![](/assets/images/clannyNetwork.png)
 
 This network is based on public knowledge in [Wikidata](https://wikidata.org/) and actually can be easily reproduced by anyone
-with [this query](https://w.wiki/AtV9):
+with [this query](https://edu.nl/g6xmn):
 
 ```sparql
 #defaultView:Graph
