@@ -8,10 +8,10 @@ tags: wikipathways openscience justdoi:10.1371/journal.pbio.0060184 justdoi:10.1
   justdoi:10.1038/npre.2010.5361.1 justdoi:10.1038/455022A justdoi:10.3389/fgene.2019.01370
   justdoi:10.1007/978-1-0716-5360-9_3
 image: /assets/images/wp_pws_per_species_thumbnail.png
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 117240259118384467
 ---
 
 I was not there. I only joined the [WikiPathways](https://wikipathways.org/) project in late 2011, just as a contributor.
@@ -109,9 +109,9 @@ And:
 The question is, of course, what is the best model species to use. That decision can be based on
 multiple aspect, including the use case. There is freedom.
 
-So, when this week the article *Xenbase: A Guide to the Xenopus Genetics and Genomics Knowledgebase*
+So, when this week the book chapter *Xenbase: A Guide to the Xenopus Genetics and Genomics Knowledgebase*
 was published (doi:[10.1007/978-1-0716-5360-9_3](https://doi.org/10.1007/978-1-0716-5360-9_3)), and
-was pinged WikiPathways was cited, I started reading.
+I was pinged WikiPathways was cited, I started reading.
 
 > WikiPathways are linked via gene symbol (Fig. 6A, black arrow) link redirects to a pre-set gene
 > symbol search on this community-curated open science resource [20].
